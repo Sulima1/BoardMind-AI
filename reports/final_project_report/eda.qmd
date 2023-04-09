@@ -1,0 +1,34 @@
+# Pre-Processing and Exploratory Data Analysis
+Once you have your dataset, you need to preprocess it to make it suitable for machine learning. This includes cleaning the data, handling missing values, encoding categorical variables, and scaling numerical features. This step is crucial as the accuracy of your model will depend on the quality of your data. 
+
+## Dataset Collection
+
+## Data Pre-processing
+
+Some issues to consider to be included:
+- Are there missing values in your data? Is there any pattern in whether or not a particular value is missing? How will the missing values be dealt with? 
+
+- Are there problems because of data size (rows or columns)? Are some algorithms more affected? Can you come up with any solutions?
+
+- If you are doing any clustering, are there clusters in the data? How many? How well separated are they? Do different methods agree on the number of clusters?
+
+- Is scaling of the variables an issue? For what methods?
+
+- Are there outliers in the data? How did you deal with them? 
+
+- Does transforming the data simplify any analysis?
+
+## Exploratory Data Analysis and Visualisations 
+
+Some of the steps, included here:
+
+- Data visualization: Data visualization is the process of creating graphs and charts to help you understand the patterns and trends in the data. This step can help you identify outliers and anomalies in the data.
+
+- Statistical analysis: Statistical analysis involves applying statistical methods to the data to identify patterns, trends, and relationships. This step can help you identify correlations between variables and understand the distribution of the data.
+
+- Feature selection: Feature selection is the process of selecting the most important variables that will be used in the machine learning model. This step can help you identify which variables are most predictive and which variables can be ignored.
+
+- Dimensionality reduction: Dimensionality reduction is the process of reducing the number of variables in the data set. This step can help you reduce the complexity of the model and improve its performance.
+
+
+## Other Related Sections (Optional)

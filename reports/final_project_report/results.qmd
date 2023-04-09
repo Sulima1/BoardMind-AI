@@ -1,0 +1,33 @@
+# Results
+
+To compare different machine learning models in the results section, here are some steps to consider:
+
+## Description of the Models
+
+Start by providing a brief description of each model, including its purpose, algorithm type, and any relevant parameters or features used.
+
+## Performance Metrics
+
+Describe the performance metrics used to evaluate the models, such as RMSE, MSE, accuracy, precision, recall, F1 score, or area under the receiver operating characteristic curve (AUC-ROC), etc based on the model class.
+
+## Results Table
+
+Create a results table that presents the performance metrics for each model in a clear and concise format. The table should include the name of the model, the performance metric, and the value of the metric. It can also be helpful to include the standard deviation or confidence intervals for each metric.
+
+## Interpretation of the Results 
+
+Provide an interpretation of the results, highlighting any significant differences between the models. Discuss which model performed the best and why, as well as any limitations or potential sources of error.
+
+## Visualization
+
+Provide visualizations to support the interpretation of the results, such as bar charts or box plots. These can help to illustrate the differences between the models and make the results more accessible to readers.
+
+## Sensitivity Analysis
+
+Conduct a sensitivity analysis to test the robustness of the models. This can involve varying the parameters or features used in the models and re-evaluating their performance.
+
+
+
+
+
+

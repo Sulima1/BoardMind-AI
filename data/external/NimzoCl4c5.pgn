@@ -1,0 +1,4671 @@
+[Event "Titled Arena Mar 6th 2021"]
+[Site "lichess.org INT"]
+[Date "2021.03.06"]
+[Round "?"]
+[White "Guseynov,A"]
+[Black "Devaev,A"]
+[Result "1-0"]
+[WhiteElo "2312"]
+[BlackElo "2325"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Nf3 Nxc5 7.g3 Nce4 8.Bg2 b6
+9.O-O Bxc3 10.bxc3 Bb7 11.Ng5 d5 12.cxd5 exd5 13.Nxe4 Nxe4 14.Ba3 Rc8 15.Bxe4 dxe4
+16.Rfd1 Qc7 17.Qa4+ Qc6 18.Qb4 Qe6 19.Rd6 Qe5 20.Qa4+ b5 21.Qxa7 Qxc3 22.Rc1 Qxc1+
+23.Bxc1 Rxc1+ 24.Kg2 Bc8 25.Qa3 Rc4 26.Rd5 h5 27.Re5+ Be6 28.Rxe6+ fxe6 29.Qa8+  1-0
+
+[Event "Titled Arena Mar 6th 2021"]
+[Site "lichess.org INT"]
+[Date "2021.03.06"]
+[Round "?"]
+[White "Papasimakopoulos,Alexandros"]
+[Black "Ozturk,E"]
+[Result "0-1"]
+[WhiteElo "2251"]
+[BlackElo "2193"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bg5 Bb7
+9.e3 Be7 10.Be2 h6 11.Bh4 Nc6 12.O-O Nh5 13.Bxe7 Qxe7 14.Rfd1 d6 15.Nd4 Nf6
+16.Ne4 Nxd4 17.Nxf6+ Qxf6 18.Rxd4 Rac8 19.Qd2 d5 20.Bf3 e5 21.Rxd5 Bxd5 22.Bxd5 Rfd8
+23.e4 Qf4 24.Qxf4 exf4 25.f3 g5 26.Kf2 Kg7 27.Ke2 Kf6 28.Kd3 Ke5 29.b4 f5
+30.exf5 b5 31.Re1+ Kxf5 32.Ke2 Re8+ 33.Be4+ Kf6 34.c5 a5 35.Rc1 axb4 36.axb4 Red8
+37.c6 Rd4 38.Rb1 Rxe4+ 39.fxe4 Rxc6 40.Kd3 Ke5 41.Rb3 Rc4 42.Rb2 Rd4+ 43.Kc3  0-1
+
+[Event "Cappelle Online Blitz"]
+[Site "Europe-Echecs INT"]
+[Date "2021.03.07"]
+[Round "3"]
+[White "Ioannidis,Ev"]
+[Black "Bellahcene,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2411"]
+[BlackElo "2517"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Bxc5 7.Bg5 Be7 8.e3 h6
+9.Bh4 b6 10.Be2 Bb7 11.O-O Na6 12.Rfd1 Nc5 13.Nd4 Nfe4 14.Bxe7 Qxe7 15.Bf3 Nxc3
+16.Qxc3 Bxf3 17.Nxf3 Rac8 18.Rac1 Rc7 19.b4 Nb7 20.Qb3 Rfc8 21.Rc2 Nd6 22.Rdc1 Qf6
+23.Nd4 Qe5 24.h3 a6 25.a3 h5 26.Qd3 Qe4 27.Qe2 Nf5 28.Nxf5 Qxf5 29.c5 a5
+30.e4 Qe5 31.cxb6 Rxc2 32.Rxc2 Rb8 33.Qa6 axb4 34.axb4 Kh7 35.Qa7 Qd6 36.Qc7 Rxb6
+37.Qxd6 Rxd6 38.Rc7 Kg6 39.e5 Rd1+ 40.Kh2 Kf5 41.b5 Kxe5 42.b6 Kd6 43.Rc8 Rb1
+44.Rf8 f6 45.Rb8 h4 46.Rg8 g5 47.Rf8 Ke5 48.Rb8 d5 49.g3 hxg3+ 50.Kxg3 Rb3+
+51.Kg2 d4 52.b7 d3 53.Kf3 Kf5 54.Ke3 e5 55.f3 Rb1 56.Kxd3 Kf4 57.Rf8 Rxb7
+58.Rxf6+ Kg3 59.Rf5 Re7 60.Ke4 Kxh3 61.Rxg5 Ra7 62.Rxe5 Kh4 63.f4 Kg4 64.Rg5+ Kh4
+65.Rg1 Ra4+ 66.Ke5 Ra5+ 67.Kf6 Ra6+ 68.Kf5 Ra5+ 69.Ke4 Ra4+ 70.Ke5 Ra5+ 71.Kd6 Ra6+
+72.Kc7 Rf6 73.Rf1 Kg4 74.Kd7 Rxf4 75.Rxf4+ Kxf4  1/2-1/2
+
+[Event "1st FIDE World Uni BlitzB"]
+[Site "Tornelo INT"]
+[Date "2021.03.13"]
+[Round "9.15"]
+[White "Agibileg,Uurtsaikh"]
+[Black "Drakoulakos,Grigorios"]
+[Result "0-1"]
+[WhiteElo "2413"]
+[BlackElo "2219"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e4 Ng4 8.Na4 Bb4+
+9.Nc3 Nc6 10.h3 Nge5 11.Nxe5 Nxe5 12.Be3 Qc7 13.a3 Be7 14.Be2 a6 15.Na4 O-O
+16.O-O b5 17.Nb6 Rb8 18.Qc3 Bf6 19.cxb5 Nf3+ 20.Bxf3 Bxc3 21.bxc3 Rxb6 22.Bxb6 Qxb6
+23.c4 axb5 24.Rfb1 Bb7 25.cxb5 Ra8 26.a4 g6 27.Rd1 d6 28.Rdc1 Kg7 29.Rc4 d5
+30.exd5 exd5 31.Rf4 Qd6 32.Rd4 Qc5 33.Rad1 Rd8 34.Be2 Qc3 35.R1d3 Qc2 36.Bf3 h5
+37.Rd2 Qc1+ 38.Kh2 Qc7+ 39.g3 Qb6 40.h4 Qf6 41.Kg2 Ra8 42.R2d3 Qb6 43.Rf4 Qc5
+44.Rfd4 Qc2 45.Rd2 Qb3 46.R2d3 Qa2 47.Rd2 Qb1 48.Rd1 Qc2 49.R1d2 Qc7 50.R2d3 Qa5
+51.Rf4 Rc8 52.Bxd5 Bxd5+ 53.Rxd5 Rc7 54.Kh2 Ra7 55.Rdd4 Qb6 56.Kg2 Re7 57.Rd3 Qb7+
+58.Rdf3 f6 59.Kh2 Rf7 60.Rb3 Qd5 61.Rb2 Qe5 62.Rb1 Rb7 63.b6 Qa5 64.Rfb4 Qd5
+65.R1b2 g5 66.hxg5 fxg5 67.Rb5 Qd4 68.Rxg5+ Kf6 69.Rbb5 Qxf2+ 70.Kh3 Rxb6
+71.Rgf5+ Qxf5+ 72.Rxf5+ Kxf5 73.Kh4 Kg6  0-1
+
+[Event "TCh-GER Online Liga 1 GpD"]
+[Site "PlayChess INT"]
+[Date "2021.03.15"]
+[Round "6.4"]
+[White "Kotyk,Michael"]
+[Black "Juelg,Gabriel"]
+[Result "1-0"]
+[WhiteElo "1960"]
+[BlackElo "2051"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.a3 b6
+9.b4 Be7 10.Nb5 Qd8 11.Bb2 a6 12.Nbd4 Bb7 13.Bd3 d6 14.g4 e5 15.g5 exd4 16.gxf6 Bxf6
+17.Be4 d5 18.cxd5 d3 19.Bxd3 Qxd5 20.Be2 Nd7 21.Rd1 Qe6 22.Bxf6 Qxf6 23.Qc7 Qc6
+24.Qxc6 Bxc6 25.Rg1 O-O 26.Rd6 Rfc8 27.Nd4 Ba4 28.Kd2 Kf8 29.Bg4 Rc7 30.Bxd7 Bxd7
+31.Rxb6 g6 32.Rg5 f5 33.h4 Kf7 34.h5 a5 35.hxg6+ hxg6 36.Rbxg6 axb4 37.Rg7+ Kf6
+38.f4  1-0
+
+[Event "TCh-GER Online Liga 1 GpA"]
+[Site "PlayChess INT"]
+[Date "2021.03.15"]
+[Round "6.1"]
+[White "Hummel,Di"]
+[Black "Schmidt,Walt1"]
+[Result "0-1"]
+[WhiteElo "2273"]
+[BlackElo "2227"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Bxc5 7.Bf4 Nc6 8.e3 d5
+9.a3 Be7 10.Rd1 Qa5 11.Nd2 e5 12.Bg5 Bg4 13.f3 Be6 14.Nb3 Qb6 15.Na4 Qc7
+16.Bxf6 dxc4  0-1
+
+[Event "Titled Tuesday 16th Mar"]
+[Site "chess.com INT"]
+[Date "2021.03.16"]
+[Round "8"]
+[White "Xiong,Jeffery"]
+[Black "Iturrizaga,E"]
+[Result "1-0"]
+[WhiteElo "2709"]
+[BlackElo "2607"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Bxc5 7.Bf4 Nc6 8.e3 Nh5
+9.Bg5 Be7 10.h4 f5 11.Rd1 h6 12.Bxe7 Qxe7 13.Nb5 b6 14.Be2 Bb7 15.Nd6 Rab8
+16.O-O Ba8 17.Qa4 Nf6 18.Qa3 Ng4 19.Nb5 Qf7 20.Qd6 Rbd8 21.Qg3 Qf6 22.Rd2 e5
+23.Rfd1 Qe7 24.h5 e4 25.Nh4 Nce5 26.Nd6 Qg5 27.Bxg4 Nxg4 28.Ng6 Rf6 29.Rd5 Bxd5
+30.Rxd5 Qxh5 31.Nxf5 Rxf5 32.Ne7+ Kh7 33.Rxf5 Qe8 34.Nd5 h5 35.Qh4 g6 36.Rg5 Rc8
+37.Rxg4  1-0
+
+[Event "1st FIDE World Uni RapidE"]
+[Site "Tornelo INT"]
+[Date "2021.03.20"]
+[Round "1.1"]
+[White "Bok,B"]
+[Black "Kabzinski,Jan"]
+[Result "1-0"]
+[WhiteElo "2624"]
+[BlackElo "1558"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bf4 Bb7
+9.Rd1 Be7 10.e4 d6 11.e5 Nh5 12.Be3 g6 13.exd6 Bf6 14.Be2 Nd7 15.O-O Rc8
+16.b4 a5 17.Nb5 axb4 18.axb4 Ng7 19.Bh6 Re8 20.Nc7 Rxc7 21.dxc7 Qxc7 22.Qd2 Rd8
+23.Bg5 Ne5 24.Qxd8+ Bxd8 25.Rxd8+ Ne8 26.Rxe8+ Kg7 27.Re7 Qc6 28.Rxb7 Qxb7
+29.Nxe5 Qe4 30.Be3 Qxe5 31.c5 bxc5 32.bxc5 Qb2 33.Bf3 e5 34.c6 Qb8 35.Rc1 Qc7
+36.Bb6 Qxb6 37.c7 e4 38.c8=Q exf3 39.Qc3+ Kg8 40.Qxf3 Qe6 41.h4 h5 42.Qc3 Qe4
+43.Qf6  1-0
+
+[Event "1st FIDE World Uni RapidE"]
+[Site "Tornelo INT"]
+[Date "2021.03.20"]
+[Round "6.6"]
+[White "Yim,Sung Ho"]
+[Black "Taher,Yoseph Theolifus"]
+[Result "0-1"]
+[WhiteElo "2281"]
+[BlackElo "2455"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Nce4
+9.Qd4 d5 10.f3 Nd6 11.e4 Nxc4 12.Bxc4 dxc4 13.Qxc4 Bd7 14.Ne2 Rc8 15.Qd4 O-O
+16.Bb2 Bb5 17.Rd1 Rc2 18.Rd2 Qc7 19.Nc3 Rxd2 20.Qxd2 Bc4 21.Nd1 Rd8 22.Qc2 Qd7
+23.Ne3 Bd3 24.Qb3 Bb5 25.Bc1 Nh5 26.g3 Ba4 27.Qb2 f5 28.exf5 exf5 29.Kf2 f4
+30.Ng4 Rc8 31.Qa2+ Kf8 32.Ne5 Qd4+  0-1
+
+[Event "Titled Tuesday 23rd Mar"]
+[Site "chess.com INT"]
+[Date "2021.03.23"]
+[Round "8"]
+[White "Indjic,A"]
+[Black "Rozum,I"]
+[Result "1-0"]
+[WhiteElo "2607"]
+[BlackElo "2546"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Nc6 7.Bg5 Bb4 8.a3 Qa5
+9.Bd2 O-O 10.Rd1 Be7 11.Nd5 Qd8 12.Nxe7+ Qxe7 13.Bc3 d5 14.e3 dxc4 15.Bxc4 e5
+16.Bb5 Bg4 17.Bxc6 bxc6 18.Bb4 c5 19.Qxc5 Qxc5 20.Bxc5 Rfc8 21.Bb4 e4 22.h3 Bh5
+23.g4 exf3 24.gxh5 Ne4 25.O-O Rc2 26.Rd5 Re8 27.Rf5 Rxb2 28.Rxf3 f6 29.Rd1 Ng5
+30.Rg3 Ne4 31.Rf3 Ng5 32.Rf5 Re5 33.Rxe5 fxe5 34.Kg2 Ne4 35.Be1 Ra2 36.Rd5 Rxa3
+37.Rxe5 Nf6 38.Bb4 Ra2 39.Be7 Kf7 40.Bd8 h6 41.Kg3 Ra4 42.f3 a6 43.e4 Ra1
+44.Rc5 Rg1+ 45.Kf2 Rh1 46.Rc7+ Ke6 47.Kg2 Rd1 48.Bxf6 Kxf6 49.Rc6+ Kf7 50.Rxa6 Rb1
+51.Kg3 Rg1+ 52.Kf4 Rh1 53.Ra7+ Kg8 54.Kf5 Rxh3 55.f4 Rh1 56.e5  1-0
+
+[Event "European Online CC GpE"]
+[Site "Tornelo INT"]
+[Date "2021.03.27"]
+[Round "2.3"]
+[White "Moreno Trujillo,A"]
+[Black "Kanakaris,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2483"]
+[BlackElo "2400"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Be7 8.a3 O-O
+9.Bd3 d6 10.b4 Nbd7 11.Bb2 a6 12.O-O Qc7 13.Rfd1 h6 14.Nd4 Ne5 15.Rac1 Nxd3
+16.Qxd3 Rd8 17.Ne4 Nxe4 18.Qxe4 Bd7 19.Qg4 Bf8 20.Qg3 Ba4 21.Re1 Rac8 22.Ne2 Bb3
+23.Nf4 Qe7 24.Nh5 Qg5 25.Qxg5 hxg5 26.c5 dxc5 27.bxc5 Rd5 28.Ng3 Rdxc5 29.Ne4 Rxc1
+30.Rxc1 Rxc1+ 31.Bxc1 f6 32.f3 Kf7 33.Kf2 Bc2 34.Nc3 b5 35.Ke2 b4 36.axb4 Bxb4
+37.Kd2 Bb3 38.Kd3 a5 39.Nb1 Ba4 40.Kc4 Bc6 41.Nc3 g4 42.e4 gxf3 43.gxf3 Kg6
+44.Ne2 Bd7 45.Nf4+ Kf7 46.Nd3 Bd6 47.f4 Bc7 48.Kc5 Ba4 49.Kc4 Bc2 50.Nc5 Bb6
+51.e5 fxe5 52.fxe5 a4 53.Kb4 Bxc5+ 54.Kxc5 Kg6 55.Kb4 Kf5 56.Bb2 Kf4 57.Bc3 Kf3
+58.Be1 Ke4 59.Bg3 Kd4 60.Ka3 g6 61.Kb4 Bd1 62.Ka3 Kc3 63.Be1+ Kd3 64.Bg3 Kc4
+65.Be1 Kd3 66.Bg3 Kd4 67.Kb4 Kd3 68.Ka3  1/2-1/2
+
+[Event "European Online CC GpG"]
+[Site "Tornelo INT"]
+[Date "2021.03.27"]
+[Round "2.3"]
+[White "Gnojek,Petr"]
+[Black "Kostolansky,Sebastian Lukas"]
+[Result "0-1"]
+[WhiteElo "2267"]
+[BlackElo "2393"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.e3 O-O 7.Nf3 Nxc5 8.Bd2 b6
+9.Be2 Bb7 10.O-O d6 11.Rad1 Qe7 12.a3 Bxc3 13.Bxc3 e5 14.b4 Ne6 15.Bb2 Rac8
+16.Qa4 Bc6 17.Qb3 Ne4 18.Nd2 N4g5 19.f3 f5 20.Nb1 f4 21.c5 bxc5 22.bxc5 d5
+23.Bxe5 Nxc5 24.Qc3 Nd7 25.exf4 Ba4 26.Qd4 Bxd1 27.Qxd5+ Nf7 28.Bxd1 Nxe5
+29.fxe5 Qxe5 30.Qxe5 Nxe5 31.Bb3+ Kh8 32.Kf2 Rfd8 33.Kg3 Rd3 34.Be6 Rb8 35.Bf5 Rdb3
+36.Rd1 g6 37.Be4 Nc4 38.Bd5 Rxb1 39.Rxb1 Rxb1 40.Bxc4 Ra1  0-1
+
+[Event "European Online CC GpG"]
+[Site "Tornelo INT"]
+[Date "2021.03.27"]
+[Round "4.3"]
+[White "Favarel,C"]
+[Black "Sukandar,I"]
+[Result "0-1"]
+[WhiteElo "2188"]
+[BlackElo "2413"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Bxc5 7.Bg5 h6 8.h4 Nc6
+9.e3 b6 10.a3 Bb7 11.O-O-O Be7 12.Be2 Rc8 13.Kb1 Na5 14.Ne5 d6 15.b4 Qe8
+16.Bxf6 Bxf6 17.Ng4 Bxc3 18.Qxc3 Nxc4 19.Rd4 Ne5 20.Qb2 Nxg4 21.Rxg4 e5 22.h5 f5
+23.Rg6 Be4+ 24.Ka1 Rc2 25.Qb3+ Qf7 26.Qxf7+ Kxf7 27.Bf3 Rd8 28.Rf1 d5 29.Bd1 Rc1+
+30.Kb2 Rb1+ 31.Ka2 Rc8 32.f3 Bd3 33.Rh1 Rcc1  0-1
+
+[Event "European Online CC GpG"]
+[Site "Tornelo INT"]
+[Date "2021.03.28"]
+[Round "6.4"]
+[White "Dreev,A"]
+[Black "Harvey,Marcus R"]
+[Result "1-0"]
+[WhiteElo "2647"]
+[BlackElo "2440"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 Qb6 8.e3 Qc7
+9.Be2 b6 10.b3 Bb7 11.Bb2 h6 12.h4 d5 13.cxd5 Nxd5 14.Nxd5 Bxd5 15.Qc3 f6
+16.b4 Bd6 17.Qxc7 Bxc7 18.Rc1 Bd6 19.Nd4 Be5 20.Bc4 Bxc4 21.Rxc4 Nd7 22.Ke2 Rfc8
+23.Rhc1 Rxc4 24.Rxc4 Kf7 25.f4 Bxd4 26.Bxd4 Ke7 27.Rc6 h5 28.Kd3 Rd8 29.Kc4 Nb8
+30.Rc7+ Rd7 31.Rc8 Rd8 32.Rxd8 Kxd8 33.b5 Kc7 34.Bc3 Nd7 35.e4 Nc5 36.Kd4 g6
+37.Bb4 Nd7 38.f5 exf5 39.exf5 gxf5 40.Kd5 f4 41.Bd6+ Kd8 42.Bxf4 Ke7 43.a4 Kf7
+44.Be3 Ke7 45.Bd4 f5 46.Be3 Nf6+ 47.Kc6 Ke6 48.Kb7 Ne4 49.Kxa7 Nc3 50.Kxb6 Nxa4+
+51.Ka5 Nb2 52.b6 Nc4+ 53.Kb5 Nd6+ 54.Kc6 Nc4 55.Bf4 Na5+ 56.Kc7 Kd5 57.b7  1-0
+
+[Event "European Online CC GpB"]
+[Site "Tornelo INT"]
+[Date "2021.03.28"]
+[Round "7.2"]
+[White "Parkhov,Yair"]
+[Black "Sokolov,And1"]
+[Result "1-0"]
+[WhiteElo "2407"]
+[BlackElo "2490"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 Nce4
+9.O-O Nxc3 10.bxc3 Be7 11.e4 d6 12.e5 dxe5 13.Nxe5 Qa5 14.Qe2 Nd7 15.Bf4 Nc5
+16.Rab1 Qxc3 17.Rfc1 Qa3 18.Rd1 a5 19.Rb5 Ra6 20.Bc1 Qa4 21.Be3 f6 22.Bxc5 Bxc5
+23.Rxc5 fxe5 24.Rc7 Qe8 25.Qxe5 Qg6 26.Be4 Qf6 27.Qxf6 gxf6 28.Bxh7+ Kh8
+29.c5 f5 30.Rd6  1-0
+
+[Event "European Online CC GpG"]
+[Site "Tornelo INT"]
+[Date "2021.03.28"]
+[Round "9.4"]
+[White "Gnojek,Petr"]
+[Black "Shchekachev,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2267"]
+[BlackElo "2515"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.e3 a6 7.Nf3 Bxc5 8.Bd3 b6
+9.O-O Bb7 10.e4 Nc6 11.a3 Ng4 12.g3 Nce5 13.Nxe5 Qxe5 14.Kg2 Qh5 15.h3 Ne5
+16.Be2 Qg6 17.Bf4 Nc6 18.Rad1 O-O 19.Rxd7 Nd4 20.Qd3 Nxe2 21.Qxe2 Bc6 22.Rd2 f5
+23.f3 fxe4 24.fxe4 e5 25.Bxe5 Rxf1 26.Qxf1 Rf8 27.Qd3 Qg5 28.Bd4 Bd6 29.Rf2 Rxf2+
+30.Bxf2 Be5 31.Nd5 Bxb2 32.Bxb6 Qe5 33.Bc5 Kh8 34.Qf3 h6 35.Qf8+ Kh7 36.Qf5+ Qxf5
+37.exf5 Ba4 38.Bb4 Bb3 39.Nb6 a5 40.Bxa5 Bxa3 41.Nd5 Bxc4 42.Ne3 Bb5 43.Kf3 Bc5
+44.Bc3 Bxe3 45.Kxe3 Bf1 46.h4 Bh3 47.Kf4 h5 48.Ke5 Bg4 49.Bd2 Kg8 50.f6 gxf6+
+51.Kxf6 Kh7  1/2-1/2
+
+[Event "European Online CC PlayA"]
+[Site "Tornelo INT"]
+[Date "2021.03.29"]
+[Round "4.2"]
+[White "Braun,A"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2609"]
+[BlackElo "2665"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Nc6 6.Nf3 Bxc5 7.Bf4 O-O 8.e3 b6
+9.Be2 Bb7 10.O-O h6 11.Rfd1 Nh5 12.Bd6 Bxd6 13.Rxd6 Qe7 14.Rad1 Rfd8 15.a3 Nf6
+16.b4 Rac8 17.Qb3 Ne8 18.R6d2 d6 19.h3 Nf6 20.Qa4 Ne8 21.Nb5 a6 22.Nc3 Nb8
+23.Qb3 Qc7 24.Na4 Nf6 25.Nd4 Nbd7 26.Rc2 Qb8 27.Nc3 Qa8 28.Bf1 Ne5 29.Na4 Qa7
+30.Qb2 Ned7 31.Nb3 Qb8 32.Nd4 Be4 33.Rcc1 Bb7 34.Rc2 Be4 35.Rcc1 Bb7 36.Rc2  1/2-1/2
+
+[Event "Titled Tuesday 30th Mar"]
+[Site "chess.com INT"]
+[Date "2021.03.30"]
+[Round "8"]
+[White "Quirke,J"]
+[Black "Kujawski,A"]
+[Result "1-0"]
+[WhiteElo "2107"]
+[BlackElo "2239"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b5 8.Nxb5 Bb7
+9.Nc3 a5 10.Bg5 h6 11.Bh4 g5 12.Bg3 Nh5 13.e3 f5 14.Be2 d6 15.Rd1 Qe7 16.Nd4 Nxg3
+17.hxg3 Kg7 18.Bf3 Bxf3 19.Nxf3 Nc6 20.O-O h5 21.Na4 Ba7 22.c5 d5 23.Qc3+ Qf6
+24.Nxg5 Qxc3 25.Nxc3 Rfe8 26.Na4 Rab8 27.Nf3 Rb5 28.Nd4 Nxd4 29.exd4 Rc8
+30.Rfe1 Kf7 31.Re3 Rc6 32.Rde1 Bb8 33.R1e2 f4 34.gxf4 Kf6 35.g3  1-0
+
+[Event "Galician Championship"]
+[Site "Padron ESP"]
+[Date "2021.04.02"]
+[Round "3.9"]
+[White "Prado Acebo,Ines"]
+[Black "Bouza Santiso,Roque"]
+[Result "1/2-1/2"]
+[WhiteElo "2166"]
+[BlackElo "1677"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.g3 O-O
+9.Bg2 a6 10.O-O Nc6 11.b3 Be7 12.Bb2 d6 13.Rac1 Bd7 14.Rfd1 Ne5 15.Nd4 Rfd8
+16.Qe2 Ng6 17.Rd2 Rac8 18.f4 e5 19.Nf3 Qb8 20.Ng5 h6 21.Nge4 Bc6 22.Nxf6+ Bxf6
+23.Nd5 Bxd5 24.Bxd5 Qc7 25.Qh5 Nf8 26.f5 Qe7 27.Qf3 Rc7 28.Rcd1 Nh7 29.h4 b6
+30.Ba3 Qf8 31.Qh1 Be7 32.g4 Nf6 33.g5 Nxd5 34.Rxd5 hxg5 35.hxg5 Bxg5 36.Bxd6 Rxd6
+37.Rxd6 Bxe3+ 38.Kg2 Bd4 39.Rd5 Qe7 40.Qh5 Rc6 41.Rh1 Rh6 42.Qg4 Rxh1 43.Kxh1 Qf6
+44.Kg2 Qe7 45.Kf3 Qf6 46.Ke4 Qe7 47.b4 Kf8 48.Qh5 Kg8 49.Kd3 Qc7 50.Qg5 f6
+51.Qg6 Qe7 52.a3 a5 53.Ke4 axb4 54.axb4 Bc3 55.c5 bxc5 56.Rxc5 Qb7+ 57.Kd3 Bxb4
+58.Qe8+ Kh7 59.Rb5 Qf3+ 60.Kc4 Qc3+ 61.Kd5 Qd4+ 62.Kc6 Qd6+ 63.Kb7 Qe7+ 64.Qxe7 Bxe7
+65.Kc6 Kh6 66.Kd5 Ba3 67.Rb3 Bc1 68.Rg3 Kh7 69.Ke6 Kg8 70.Rg4 Bf4 71.Rg2 Bg5
+72.Rc2 e4 73.Rc8+ Kh7 74.Kf7 e3 75.Rg8 Bh6 76.Re8 Bf4 77.Re4 Bg5 78.Rd4 Bh6
+79.Rg4 Bg5 80.Rg2 Bh6 81.Rh2 Kh8 82.Kg6 Kg8 83.Rb2 Kf8 84.Rb7 e2 85.Rb8+ Ke7
+86.Rb7+ Ke8 87.Rb1 Bd2 88.Kxg7 e1=Q 89.Rxe1+ Bxe1 90.Kxf6  1/2-1/2
+
+[Event "Titled Arena Apr 3rd 2021"]
+[Site "lichess.org INT"]
+[Date "2021.04.03"]
+[Round "?"]
+[White "Potapova,Margarita"]
+[Black "Andreikin,D"]
+[Result "0-1"]
+[WhiteElo "2277"]
+[BlackElo "2725"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.f3 d5
+9.cxd5 b6 10.b4 Na4 11.Qc2 b5 12.e4 a6 13.dxe6 Bxe6 14.Be3 Rc8 15.Qd2 Qe7
+16.Bd3 O-O 17.Ne2 Rfd8 18.Nd4 Rc3 19.O-O Bc4 20.Bxc4 bxc4 21.Nc6 Qd7 22.Nxd8 Rd3
+23.Qc2 Rxe3 24.Rad1 Rd3 25.Rxd3 cxd3 26.Qc6 Qd4+ 27.Kh1 Nb2 28.Qc7 Qd7 29.Qb8 Ne8
+30.Qe5 d2 31.Nc6 d1=Q 32.Ne7+ Qxe7 33.Rg1 Qxe5  0-1
+
+[Event "Titled Arena Apr 3rd 2021"]
+[Site "lichess.org INT"]
+[Date "2021.04.03"]
+[Round "?"]
+[White "Andreikin,D"]
+[Black "Grigorov,G"]
+[Result "1-0"]
+[WhiteElo "2725"]
+[BlackElo "2507"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.a3 Bxc3+ 8.Qxc3 Nxc5
+9.g3 b6 10.Bg2 Bb7 11.O-O Rc8 12.b3 d5 13.Rd1 Qe7 14.cxd5 Nxd5 15.Qb2 Qf6
+16.Rd4 h6 17.e4 Ne7 18.e5 Qf5 19.Nh4 Qxe5 20.Bxb7 Nxb7 21.Bxh6 Nc6 22.Be3 Nxd4
+23.Bxd4 Qg5 24.Nf3 Qf5 25.Bxg7 Qxf3 26.Bxf8 Rxf8 27.Qe5 Qf5 28.Qc7 Nc5 29.Qxa7 Rd8
+30.Qxb6 Rd2 31.Rf1 Qd5 32.b4 Nd7 33.Qe3 Ne5 34.Qg5+ Kf8 35.Qh6+ Ke7 36.Qf4 Nf3+
+37.Kg2 Ne1+ 38.Kh3 Qg2+ 39.Kg4 Qxf1 40.Qxd2 Qc4+ 41.Qf4 Qe2+ 42.f3 f5+ 43.Kg5 Nxf3+
+44.Kg6 Ne5+ 45.Kg7 Qe4 46.b5 Qxf4 47.gxf4 Nc4 48.h4 e5 49.h5 exf4 50.h6 f3
+51.h7 f2 52.h8=Q f1=Q 53.Qf8+ Ke6 54.Qf7+ Ke5 55.Qf6+ Ke4 56.Qc6+  1-0
+
+[Event "Titled Arena Apr 3rd 2021"]
+[Site "lichess.org INT"]
+[Date "2021.04.03"]
+[Round "?"]
+[White "Sahidi,Samir"]
+[Black "Bashirli,Nail"]
+[Result "1-0"]
+[WhiteElo "2406"]
+[BlackElo "2382"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.Nf3 O-O 6.a3 Bxc3+ 7.Qxc3 d6 8.Bg5 h6
+9.Bh4 Nbd7 10.e3 b6 11.Be2 Bb7 12.O-O Qc7 13.Rfd1 Ne4 14.Qc2 Rac8 15.Rac1 f5
+16.b4 Ndf6 17.Bg3 Nxg3 18.hxg3 Ne4 19.Nd2 cxd4 20.exd4 Qe7 21.Bf3 Ng5 22.Bxb7 Qxb7
+23.Qd3 e5 24.c5 bxc5 25.bxc5 e4 26.Qb3+ Qxb3 27.Nxb3 d5 28.Na5 Rc7 29.Rb1 f4
+30.gxf4 Rxf4 31.c6 Ne6 32.Rb5 Rf5 33.Rb7 Kf7 34.Rxc7+ Nxc7 35.Rb1 Ke7 36.Rb7 Kd6
+37.Rxa7 Rf8 38.g3 Rb8 39.Kg2 Rb2 40.Rb7 Ra2 41.Rb3 g5 42.Rc3 h5 43.Nb7+ Ke7
+44.Rb3 h4 45.gxh4 gxh4 46.Rh3 Ne6 47.Rxh4 e3 48.Rh7+ Kf6 49.Rh6+ Ke7 50.Rh7+ Kf6
+51.c7 e2 52.c8=Q e1=Q 53.Qh8+ Kf5 54.Nd6+  1-0
+
+[Event "Titled Arena Apr 3rd 2021"]
+[Site "lichess.org INT"]
+[Date "2021.04.03"]
+[Round "?"]
+[White "Skatchkov,Valery"]
+[Black "Papasimakopoulos,Alexandros"]
+[Result "0-1"]
+[WhiteElo "2283"]
+[BlackElo "2251"]
+[ECO "E38"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.Qc2 c5 5.d5 exd5 6.cxd5 O-O 7.e4 Re8 8.f3 Nxd5
+9.Bd2 Nf6 10.Bd3 d5 11.Nge2 dxe4 12.Nxe4 Bxd2+ 13.Qxd2 Nxe4 14.Bxe4 Qxd2+
+15.Kxd2 f5 16.Bd3 Nc6 17.Rac1 b6 18.Nf4 Nd4 19.b4 Ne6 20.Bc4 Kf8 21.Nxe6+ Bxe6
+22.Bxe6 Rxe6 23.bxc5 Rd8+ 24.Kc3 bxc5 25.Rhe1 Red6 26.Re5 g6 27.Rxc5 Rd3+
+28.Kb2 Rb8+ 29.Kc2 Ra3 30.Ra1 Re8 31.Kd2 Rae3 32.Rc2 Re2+ 33.Kd3 R8e3+ 34.Kd4 Rxc2
+35.Kxe3 Rxg2 36.h4 Kg7 37.a4 Kh6 38.Rc1 Ra2 39.Rc4 a5 40.Kf4 Kh5 41.Ke5 Ra3
+42.Rf4 Rb3 43.Kd5 h6 44.Ke5 Rd3 45.Rc4 Rxf3 46.Rc5 Re3+ 47.Kf4 Re4+ 48.Kf3 Rxa4  0-1
+
+[Event "Titled Arena Apr 3rd 2021"]
+[Site "lichess.org INT"]
+[Date "2021.04.03"]
+[Round "?"]
+[White "Golubka,P"]
+[Black "Papasimakopoulos,Alexandros"]
+[Result "1-0"]
+[WhiteElo "2452"]
+[BlackElo "2251"]
+[ECO "E38"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Be7 8.g4 h6
+9.g5 hxg5 10.Nxg5 Qc6 11.Rg1 Rxh2 12.Bd2 b6 13.O-O-O Bb7 14.Kb1 Na6 15.Nxf7 Kxf7
+16.Qg6+ Kf8 17.Qxg7+ Ke8 18.Bd3 Qf3 19.Nb5 Be4 20.Bxe4 Qxe4+ 21.Ka1 Rh7 22.Qxf6 Bxf6  1-0
+
+[Event "Titled Arena Apr 3rd 2021"]
+[Site "lichess.org INT"]
+[Date "2021.04.03"]
+[Round "?"]
+[White "Pesotskiy,Mikhail"]
+[Black "Ristic,Neb2"]
+[Result "0-1"]
+[WhiteElo "2211"]
+[BlackElo "2286"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Nce4
+9.Qb2 d5 10.c5 d4 11.f3 Nc3 12.e3 e5 13.Bc4 O-O 14.Ne2 Nxe2 15.Qxe2 Nd5 16.O-O Nc3
+17.Qd3 b5 18.cxb6 Qxb6 19.exd4 exd4 20.Bb2 a5 21.Kh1 axb4 22.axb4 Rxa1 23.Rxa1 Qxb4
+24.Ba3 Qa5 25.Qxd4 Rd8 26.Re1 Be6 27.Bd6 Nb5 28.Qh4 Nxd6 29.Bxe6 fxe6 30.Rxe6 Nf5
+31.Qe1 Qxe1+ 32.Rxe1 Kf7 33.h3 Rd2 34.Kh2 h5 35.Re4 h4 36.Rg4 Kf6 37.Rf4 g5
+38.Rg4 Ng3 39.f4 Rd1 40.fxg5+ Kg6 41.Rxh4 Nf1+ 42.Kg1 Kxg5 43.Rg4+ Kf5 44.Ra4 Nd2+
+45.Kh2 Ne4 46.Ra8 Kf4 47.Rf8+ Ke3 48.Re8 Rd2 49.Rf8 Ra2 50.Re8 Kf4 51.Rf8+ Ke5
+52.Re8+ Kf5 53.Rf8+ Kg6 54.Re8 Ng5 55.Rg8+ Kf6 56.Rf8+ Kg7 57.Rf1 Kg6 58.Rf4 Ne6
+59.Rg4+ Kf5 60.Rc4 Nf4 61.Rc7 Rxg2+ 62.Kh1 Ra2 63.Rf7+ Ke4 64.Rf8 Kf3 65.h4 Kg3
+66.Rg8+ Kh3 67.Rg1 Nh5 68.Re1 Ng3+ 69.Kg1 Rg2+  0-1
+
+[Event "Titled Tuesday 6th Apr"]
+[Site "chess.com INT"]
+[Date "2021.04.06"]
+[Round "7"]
+[White "Kim,Se"]
+[Black "Okike,D"]
+[Result "1-0"]
+[WhiteElo "2295"]
+[BlackElo "2177"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Nc6 6.Nf3 h6 7.e3 Bxc5 8.Be2 b6
+9.O-O O-O 10.a3 Bb7 11.b4 Be7 12.Bb2 Rc8 13.Rfd1 a5 14.b5 Nb8 15.Rac1 d6
+16.Nd4 Qc7 17.Bd3 Nbd7 18.Qe2 Nc5 19.Bb1 Ncd7 20.Na4 Nc5 21.Nxc5 Qxc5 22.f3 Rfd8
+23.h3 Bf8 24.Qf2 Nd7 25.Qg3 Ne5 26.Ba2 Nd7 27.Kh1 Qe5 28.Qf2 Qg5 29.e4 Rc7
+30.Ne2 Rdc8 31.Bd4 Nc5 32.Be3 Qf6 33.Bd4 Qg5 34.Be3 Qh5 35.Bf4 e5 36.Be3 Qg6
+37.Nc3 f5 38.exf5 Qxf5 39.Bb1 Qf7 40.Qc2 g5 41.Nd5 Bxd5 42.Rxd5 Qe6 43.Bxc5 bxc5
+44.Rcd1 Rg7 45.Qe2 Ra8 46.R5d2 Raa7 47.Be4 Qf6 48.b6 Ra6 49.Rb2 Qd8 50.b7 Qb8
+51.Qd3 Kh8 52.Qd5 Rc7 53.Qe6 Bg7 54.Qg6 Bf8 55.Qf6+ Bg7 56.Qf5 Bf8 57.a4 Rg7
+58.Rb5 Be7 59.Qc8+ Rg8 60.Qe6 Rg7 61.Qxh6+ Rh7 62.Qxh7+  1-0
+
+[Event "Rujna Zora-2 GM 2021"]
+[Site "Arandjelovac SRB"]
+[Date "2021.04.12"]
+[Round "4.2"]
+[White "Vardaan,Nagpal"]
+[Black "Vetokhin,Savva"]
+[Result "1/2-1/2"]
+[WhiteElo "2370"]
+[BlackElo "2261"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Nf3 Nxc5 7.a3 Bxc3+ 8.Qxc3 O-O
+9.Bg5 Nce4 10.Bxf6 Nxf6 11.e3 b6 12.Be2 Bb7 13.O-O d5 14.Rfd1 Qe7 15.cxd5 Nxd5
+16.Qe5 Rac8 17.Rac1 Qf6 18.Qxf6 Nxf6 19.Ne5 g6 20.f3 Kg7 21.Kf2 Rxc1 22.Rxc1 Rc8
+23.Rxc8 Bxc8 24.e4 Bb7 25.Ke3 Kf8 26.g4 g5 27.b4 Ke7 28.Bb5 h5 29.gxh5 Nxh5
+30.Nd3 f6 31.Bc4  1/2-1/2
+
+[Event "Titled Tuesday 13th Apr"]
+[Site "chess.com INT"]
+[Date "2021.04.13"]
+[Round "11"]
+[White "Enchev,I"]
+[Black "Petrovskyi,Vadym"]
+[Result "1-0"]
+[WhiteElo "2501"]
+[BlackElo "2150"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 O-O 7.Bg5 Nc6 8.Rd1 h6
+9.Bh4 Be7 10.e4 Qa5 11.Be2 d5 12.exd5 exd5 13.cxd5 Nb4 14.Qb3 Nbxd5 15.Rxd5 Nxd5
+16.Qxd5 Qxd5 17.Nxd5 Bxh4 18.Nxh4 Rd8 19.Nc3 Be6 20.Nf3 Rac8 21.O-O Bg4 22.Rd1 b6
+23.Kf1 Kf8 24.h3 Be6 25.Nd4 Ke7 26.Nxe6 Rxd1+ 27.Bxd1 fxe6 28.Ke2 Kd6 29.Bb3 Ke5
+30.Ke3 g5 31.Ne2 Rd8 32.f4+ Kf6 33.g4 gxf4+ 34.Nxf4 e5 35.Nd3 Kg5 36.Be6 Kh4
+37.Bf5 Kxh3 38.Nxe5 Kg3 39.Nc6 Rf8 40.Nd4 Re8+ 41.Be6 Rf8 42.a4 Rf1 43.Ke4 Rb1
+44.b3 a6 45.Bc8 b5 46.a5 Ra1 47.Nc6 Rc1 48.Kd5 Rc3 49.b4 Rc1 50.Kd6 Kf4 51.Kc7 Ke4
+52.Kb6 Kd5 53.Bb7 Kd6 54.Kxa6 Rc4 55.Kb6 Rxg4 56.a6 Rg1 57.a7 Ra1 58.Na5  1-0
+
+[Event "Titled Tuesday 13th Apr"]
+[Site "chess.com INT"]
+[Date "2021.04.13"]
+[Round "11"]
+[White "Havanecz,B"]
+[Black "Zalesskiy,Dmitriy"]
+[Result "0-1"]
+[WhiteElo "2257"]
+[BlackElo "1916"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Nf3 Nxc5 7.g3 O-O 8.Bg2 Nfe4
+9.O-O Bxc3 10.bxc3 d5 11.cxd5 exd5 12.c4 Bf5 13.Nh4 Be6 14.cxd5 Qxd5 15.Ba3 Rac8
+16.Qb2 Rfd8 17.Rac1 b6 18.Rc2 Qd4 19.Qxd4 Rxd4 20.Bxe4 Nxe4 21.Rxc8+ Bxc8
+22.Rc1 Be6 23.Bb2 Rb4 24.Be5 f6 25.Bb8 a5 26.Rd1 Rb2 27.a3 Ra2 28.f3 Nc5
+29.Rd8+ Kf7 30.Bc7 Rb2 31.Bd6 Rb1+ 32.Kf2 Bc4 33.Rf8+ Ke6 34.Bc7 Rb2 35.Re8+ Kd5
+36.Nf5 Kc6 37.Bd8 Nd3+ 38.Kg2 Kd7 39.Rh8 Rxe2+ 40.Kg1 Ne5 41.Nxg7 Re1+ 42.Kf2 Re2+
+43.Kg1 Nxf3+ 44.Kf1 Re8+ 45.Kf2 Rxh8 46.Bxf6 Rf8  0-1
+
+[Event "Titled Tuesday 13th Apr"]
+[Site "chess.com INT"]
+[Date "2021.04.13"]
+[Round "11"]
+[White "Cramling Bellon,Anna"]
+[Black "Hernandez,Alex"]
+[Result "1-0"]
+[WhiteElo "2035"]
+[BlackElo "2132"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Nf3 Nxc5 7.Bg5 Qa5 8.e3 Nfe4
+9.Rc1 Qxa2 10.Bf4 Nb3 11.Qxe4 Nxc1 12.Bd6 Qxb2 13.Bxb4 Qxb4 14.Qc2 Na2 15.Qxa2 Qxc3+
+16.Nd2 Qc1+ 17.Ke2 b6 18.g3 Bb7 19.Bg2 Qxh1 20.Bxh1 Bxh1 21.f3 g5 22.Qb2 O-O-O
+23.Qa1 Kb7 24.Qxh1 d5 25.cxd5 exd5 26.f4 gxf4 27.gxf4 Rhe8 28.Nb3 a5 29.Nd4 Rc8
+30.Qxd5+ Kb8 31.Qd6+  1-0
+
+[Event "Betsys ch-CZE On/L Blitz"]
+[Site "chess.com INT"]
+[Date "2021.04.17"]
+[Round "9"]
+[White "Sobek,J"]
+[Black "Stefanisin,Jan"]
+[Result "1-0"]
+[WhiteElo "2198"]
+[BlackElo "1900"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 b6 7.Bg5 h6 8.Bh4 Be7
+9.e3 Bb7 10.Rd1 Qc7 11.Be2 a6 12.O-O O-O 13.Nd4 d5 14.Bg3 e5 15.Nf5 dxc4
+16.Nxe7+ Qxe7 17.Bxc4 b5 18.Nd5 Bxd5 19.Bxd5 Nxd5 20.Rxd5 Nd7 21.Qc7 Rad8
+22.Rfd1 Qb4 23.Rxd7 Rxd7 24.Qxd7 Qxb2 25.Qd5 Re8 26.h4 Qe2 27.Rc1 Kh7 28.Qxf7 Rd8
+29.Qf5+ Kh8 30.Bxe5 Rd1+ 31.Rxd1 Qxd1+ 32.Kh2 Qd5 33.Qf8+ Kh7 34.Qxg7+  1-0
+
+[Event "Rujna Zora-3 IM 2021"]
+[Site "Arandjelovac SRB"]
+[Date "2021.04.20"]
+[Round "6.3"]
+[White "Dev,Shah"]
+[Black "Ostojic,N1"]
+[Result "0-1"]
+[WhiteElo "2298"]
+[BlackElo "2395"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Nc6 7.a3 a6 8.e3 b6
+9.Be2 Bb7 10.b4 Be7 11.Bb2 a5 12.b5 Nb8 13.Nd4 Qc7 14.O-O O-O 15.Na4 d6 16.Rac1 g6
+17.f4 e5 18.Nb3 Nbd7 19.Bf3 Rac8 20.Bxb7 Qxb7 21.Qe2 Ne4 22.Qf3 Rc7 23.Rc2 Qa8
+24.Rd1 Qb7 25.fxe5 dxe5 26.Nxb6 Nxb6 27.Nxa5 Qa8 28.Nc6 Rxc6 29.bxc6 Qxc6
+30.Bxe5 f5 31.Bd4 Nd7 32.Rb1 Ndc5 33.Qe2 Ne6 34.c5 Qd5 35.c6 Nxd4 36.exd4 Bf6
+37.Rd1 Kg7 38.Qd3 Rc8 39.c7 Qd6 40.Qc4 Qxa3 41.Qd5 Qa4 42.Rcc1 Nc3 43.Qe6 Nxd1
+44.Rc4 Qe8  0-1
+
+[Event "Titled Tuesday 20th Apr"]
+[Site "chess.com INT"]
+[Date "2021.04.20"]
+[Round "11"]
+[White "Ioannidis,Ev"]
+[Black "Kalashian,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2411"]
+[BlackElo "2398"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 Nce4
+9.O-O Nxc3 10.bxc3 Be7 11.e4 d6 12.e5 dxe5 13.Nxe5 Qa5 14.Re1 Rd8 15.Bf4 Nd7
+16.Nxd7 Rxd7 17.Rad1 h6 18.Rxd7 Bxd7 19.Bxb7 Ba4 20.Qe4 Rd8 21.Be5 Bf8 22.Bd4 Qc7
+23.Ba6 Bc6 24.Qe5 Qe7 25.Bb5 Ba8 26.c5 Rd5 27.Qf4 Qb7 28.Be8 Rf5 29.c6 Qc8
+30.Bd7 Qa6 31.Qe4 Qxa2 32.Qb1 Qd5 33.Qe4 Qa2 34.h4 Bd6 35.c7 Bxe4 36.c8=Q+ Kh7
+37.Bxe6 fxe6 38.Qd7 Be5 39.Bxe5 Rxe5 40.Qd4 Qd5 41.Qxd5 exd5 42.f3 Re6 43.fxe4 dxe4
+44.Kf2 Kg6 45.Ke3 Kf5 46.Rf1+ Ke5 47.Rf4 Kd5 48.Rf7 Rc6 49.Rd7+ Ke5 50.Re7+ Kf5
+51.Rxg7 Rxc3+ 52.Kd4 Rd3+ 53.Kc4 a5 54.Rf7+ Kg4 55.Rf4+ Kxg3 56.Rxe4 Rf3
+57.Kb5 h5 58.Re5 Rf4 59.Rxh5 Rxh4 60.Rxh4 Kxh4 61.Kxa5  1/2-1/2
+
+[Event "Euro Small Nations Hybrid"]
+[Site "Tornelo INT"]
+[Date "2021.04.21"]
+[Round "5.3"]
+[White "Wiedenkeller,M"]
+[Black "Efimov,Ig"]
+[Result "1-0"]
+[WhiteElo "2445"]
+[BlackElo "2416"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.Nf3 a6 7.g3 Bxc5 8.Bg2 Be7
+9.b3 O-O 10.Bb2 d6 11.Ng5 Qa5 12.h4 Nbd7 13.O-O-O Rb8 14.Kb1 Rd8 15.Nce4 Nxe4
+16.Bxe4 f5 17.Bg2 Nf6 18.e4 fxe4 19.Nxe4 Nxe4 20.Bxe4 h6 21.g4 Bd7 22.Bh7+ Kh8
+23.Bxg7+ Kxg7 24.Qg6+ Kh8 25.Bg8  1-0
+
+[Event "ch-ROU 2021"]
+[Site "Iasi ROU"]
+[Date "2021.04.23"]
+[Round "6.5"]
+[White "Filip,L"]
+[Black "Magold,Victor"]
+[Result "1-0"]
+[WhiteElo "2442"]
+[BlackElo "2014"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Be7 7.Bf4 Nh5 8.Bd2 d6
+9.g3 a6 10.Bg2 O-O 11.O-O Qc7 12.b3 Nf6 13.Rac1 Nbd7 14.Nd4 Re8 15.h3 Nf8
+16.e4 Rb8 17.Be3 Bd7 18.Qb2 Rec8 19.Rfd1 Ng6 20.a4 Qd8 21.Qd2 b6 22.Qe2 Qc7
+23.Kh2 h5 24.Kg1 h4 25.g4 Re8 26.Qd2 Rbd8 27.Kh1 Bc8 28.f4 Bb7 29.f5 Nf8
+30.Qf2 Qb8 31.g5 N6d7 32.Qxh4 Qa8 33.Qg4 Ne5 34.Qg3 Rc8 35.h4 Bd8 36.Nde2 Bc7
+37.Bf4 Rcd8 38.Rc2 exf5 39.exf5 Bxg2+ 40.Qxg2 Qc8 41.Nd4 Nfd7 42.Nd5 Nc5
+43.Bh2 Ned3 44.Rcd2 Re4 45.Rxd3 Nxd3 46.Rxd3 Re1+ 47.Bg1 Kf8 48.Qf3 Rde8
+49.Kg2 Kg8 50.Bf2 R1e4 51.Nc3 d5 52.Nxd5 Qb7 53.Re3 Rxe3 54.Nf6+  1-0
+
+[Event "Titled Tuesday 27th Apr"]
+[Site "chess.com INT"]
+[Date "2021.04.27"]
+[Round "1"]
+[White "Quirke,J"]
+[Black "Kalashian,D"]
+[Result "0-1"]
+[WhiteElo "2107"]
+[BlackElo "2398"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bf4 Bb7
+9.e3 Nh5 10.Bg5 Be7 11.Bxe7 Qxe7 12.Be2 d6 13.O-O Nd7 14.Rad1 Rfd8 15.Nd4 Nhf6
+16.Bf3 Ne5 17.Bxb7 Qxb7 18.b3 a6 19.h3 Rac8 20.f4 Nc6 21.Qd3 d5 22.Nxc6 Qxc6
+23.f5 Re8 24.fxe6 fxe6 25.Ne2 dxc4 26.bxc4 Qxc4 27.Qxc4 Rxc4 28.Rd6 Ra4 29.Rxb6 Rxa3
+30.Nd4 Rxe3 31.Rxa6 h6 32.Ra7 Re4 33.Nc6 Re2 34.Rb1 Nh5 35.Rbb7 Rf8 36.g4 Re1+
+37.Kg2 Re2+ 38.Kg1 Re1+ 39.Kg2 Nf4+ 40.Kg3 Re3+ 41.Kf2 Nd5+ 42.Kg2 Re2+  0-1
+
+[Event "Titled Tuesday 27th Apr"]
+[Site "chess.com INT"]
+[Date "2021.04.27"]
+[Round "3"]
+[White "Papasimakopoulos,Alexandros"]
+[Black "Silva,Kaua Marques"]
+[Result "0-1"]
+[WhiteElo "2251"]
+[BlackElo "2160"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.b4 Be7 8.Bb2 b6
+9.Nf3 Bb7 10.e3 a6 11.Be2 Qc7 12.O-O d6 13.Rfd1 Nbd7 14.Rd2 Rfd8 15.Rad1 Bf8
+16.Qb3 h6 17.h3 Rac8 18.Na4 Bc6 19.b5 Bxf3 20.gxf3 a5 21.f4 Ne4 22.Rd4 Ndc5
+23.Nxc5 Nxc5 24.Qc2 Qb7 25.Bf1 f5 26.Bg2 Qf7 27.Kh2 Be7 28.R4d2 Qh5 29.Rg1 a4
+30.Bxg7 Kxg7 31.Bf3+ Qg6 32.Rxg6+ Kxg6 33.Rd1 Bf6 34.Rg1+ Kh7 35.Bc6 Rc7
+36.Qd1 Bb2 37.Qh5 Rg7 38.Qh4 Rdg8 39.Rxg7+ Rxg7 40.Qd8 Bxa3 41.Qxb6 e5 42.fxe5 dxe5
+43.Qa5 Nd3 44.Qxa4 Bd6 45.Qc2 e4+ 46.Kh1 Ra7 47.Qd1 Nxf2+ 48.Kg2 Nxd1 49.b6 Ra2+
+50.Kf1 Nxe3+ 51.Ke1 Bb4+  0-1
+
+[Event "Titled Tuesday 27th Apr"]
+[Site "chess.com INT"]
+[Date "2021.04.27"]
+[Round "7"]
+[White "Kanyamarala,Trisha"]
+[Black "Okike,D"]
+[Result "0-1"]
+[WhiteElo "2180"]
+[BlackElo "2177"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.Nf3 Nc6 6.e3 O-O 7.a3 cxd4 8.exd4 Bxc3+
+9.bxc3 d6 10.Bd3 h6 11.O-O e5 12.h3 Re8 13.Bf5 e4 14.Bxc8 Rxc8 15.Nd2 Na5
+16.Re1 Qe7 17.Qa4 Qc7 18.Rb1 b6 19.Qc2 d5 20.cxd5 Qxc3 21.Qxc3 Rxc3 22.Bb2 Rd3
+23.Nf3 exf3 24.Rxe8+ Nxe8 25.Re1 Nd6 26.Re7 Nac4  0-1
+
+[Event "Titled Tuesday 27th Apr"]
+[Site "chess.com INT"]
+[Date "2021.04.27"]
+[Round "8"]
+[White "Torngren,Gustav"]
+[Black "Rodchenkov,V"]
+[Result "1-0"]
+[WhiteElo "2243"]
+[BlackElo "2330"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 O-O 7.Bf4 Nc6 8.e3 Bb4
+9.Bd3 Bxc3+ 10.Qxc3 d5 11.O-O dxc4 12.Bxc4 Qe7 13.Rfd1 Rd8 14.e4 Nxe4 15.Qe3 Nf6
+16.Ne5 Nxe5 17.Bxe5 b6 18.Bxf6 Qxf6 19.Qf3 Rxd1+ 20.Rxd1 Rb8 21.Qxf6 gxf6
+22.Rd8+ Kg7 23.Ba6 Bxa6 24.Rxb8 Bc4 25.a3 Bd5 26.f3 f5 27.Kf2 h5 28.Ke3 h4
+29.Kf4 Kf6 30.Rh8 e5+ 31.Ke3 f4+ 32.Kf2 Kg5 33.Re8 f6 34.b4 Kf5 35.Re7 a6
+36.Ra7 Bc4 37.Rb7 b5 38.Rb6 Be6 39.Rxa6 Bd7 40.Rd6 Be8 41.Rd8 Bf7 42.Rh8 Kg5
+43.Rc8 Bb3 44.Rc5 Ba4 45.Rd5 Kf5 46.Rd8 Kg5 47.Rb8 Kf5 48.Ke2 Kg5 49.Kd2 f5
+50.Rb6 e4 51.Ke2 Kh5 52.Re6 e3 53.Re5 Kg5 54.Ke1 Kf6 55.Rc5 Kg5 56.Rc6 Kh5
+57.Rb6 Kg5 58.g3 hxg3 59.hxg3 fxg3 60.Ke2 f4 61.Rb8 Kf5 62.Rf8+ Ke5 63.Re8+ Kd4
+64.Re4+ Kc3 65.Rxf4 Kb3 66.Kxe3 g2 67.Rg4 Kxa3 68.Rxg2 Kxb4 69.Kd4 Bb3 70.Rb2 Ka3
+71.Rh2 b4 72.f4 Bf7 73.f5 b3 74.Kc3 Bd5 75.Rf2 Bg8 76.f6 Bf7 77.Rb2 Ka4 78.Rd2 Ka3
+79.Re2 Ka4 80.Rd2 Ka3 81.Rf2 Ka4 82.Re2 Ka3 83.Re7 Bg8 84.Ra7+  1-0
+
+[Event "Titled Tuesday 4th May"]
+[Site "chess.com INT"]
+[Date "2021.05.04"]
+[Round "5"]
+[White "Holt,C"]
+[Black "Kalashian,D"]
+[Result "0-1"]
+[WhiteElo "2549"]
+[BlackElo "2398"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Bf4 b6 8.Nf3 Bb7
+9.Rd1 Nh5 10.Bg3 Be7 11.e4 a6 12.Be2 Nxg3 13.hxg3 h6 14.e5 Qc7 15.Ne4 Nc6
+16.Neg5 g6 17.Rxh6 Nxe5 18.Rxd7 Nxf3+ 19.gxf3 Bb4+ 20.axb4 Qxd7 21.Qc3 f6
+22.Rxg6+ Kh8 23.Rh6+ Kg8 24.Rh7 Qd6 25.Rxb7 Rad8 26.c5 bxc5 27.bxc5 Qd5 28.c6 Qxg5
+29.Bc4 Rfe8 30.c7 Rc8 31.f4 Qf5 32.Bd3 Qd5 33.Bh7+ Kxh7 34.Qc2+ Kg7 35.Rb6 f5
+36.Rc6 Qe4+ 37.Qxe4 fxe4 38.Ke2 Re7 39.Ke3 Rexc7 40.Rxa6 Rc2 41.Rxe6 Rxb2
+42.Kxe4 Re2+ 43.Kf5 Rxe6 44.Kxe6 Re8+ 45.Kf5 Ra8 46.f3 Ra5+ 47.Kg4 Ra3 48.f5 Kf6
+49.Kf4 Ra4+ 50.Ke3 Kxf5  0-1
+
+[Event "Titled Tuesday 4th May"]
+[Site "chess.com INT"]
+[Date "2021.05.04"]
+[Round "9"]
+[White "Quirke,J"]
+[Black "Okike,D"]
+[Result "0-1"]
+[WhiteElo "2107"]
+[BlackElo "2177"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Nc6 6.Nf3 h6 7.Bf4 Bxc5 8.a3 Nh5
+9.Bg3 O-O 10.Rd1 b6 11.e3 Bb7 12.Be2 Rc8 13.O-O a6 14.Bd6 Bxd6 15.Rxd6 Nf6
+16.Rfd1 Qc7 17.b4 Nb8 18.Qb3 Kh8 19.Ne5 Ne8 20.Rxd7 Nxd7 21.Rxd7 Qxe5 22.Rxb7 b5
+23.c5 Nd6 24.Ra7 Nc4 25.Rxa6 Rcd8 26.Bxc4 bxc4 27.Qxc4 Qxc3  0-1
+
+[Event "Titled Arena May 8th 2021"]
+[Site "lichess.org INT"]
+[Date "2021.05.08"]
+[Round "?"]
+[White "Papasimakopoulos,Alexandros"]
+[Black "Kalashian,D"]
+[Result "0-1"]
+[WhiteElo "2251"]
+[BlackElo "2398"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.e3 Nxc5 8.Bd2 b6
+9.a3 Bxc3 10.Bxc3 Bb7 11.Be2 Rc8 12.O-O Nce4 13.Rfd1 d5 14.Bxf6 Qxf6 15.b3 Nc3
+16.Rdc1 Nxe2+ 17.Qxe2 dxc4 18.bxc4 Rc5 19.Ra2 Rfc8 20.Rac2 h6 21.Nd4 Qg6
+22.f3 Qf6 23.Nb5 a6 24.Nd6 Rb8 25.Nxb7 Rxb7 26.Rb1 Qe5 27.Qd3 g6 28.Rxb6 Rxb6
+29.Qd8+ Kg7 30.Qxb6 Qxe3+ 31.Rf2 Qc1+ 32.Rf1 Qxc4 33.h3 Qd4+ 34.Kh1 a5 35.Qb3 e5
+36.Qb6 Rc1 37.Qb5 Rxf1+ 38.Qxf1 a4 39.Qc1 h5 40.Qb1 h4 41.Qe1 g5 42.Qc1 f6
+43.Qb1 Qc4 44.Qb7+ Kg6 45.Qe7 Kf5 46.Qd7+ Kg6 47.Qe8+ Kg7 48.Qd7+ Kh6 49.Qe7 Qc6
+50.Qf8+ Kg6 51.Qb4 e4 52.fxe4 g4 53.hxg4 Kg5 54.Kh2 Qc7+ 55.Kh1 Qc1+ 56.Kh2 Qf4+
+57.Kh1 Kxg4 58.Qxa4 h3 59.gxh3+ Kh4 60.Qb3 Qf1+  0-1
+
+[Event "Titled Arena May 8th 2021"]
+[Site "lichess.org INT"]
+[Date "2021.05.08"]
+[Round "?"]
+[White "Tesic,D"]
+[Black "Borsuk,K"]
+[Result "1/2-1/2"]
+[WhiteElo "2293"]
+[BlackElo "2413"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.f3 a5
+9.b4 axb4 10.axb4 Rxa1 11.Qxa1 Nb3 12.Qc3 Nxc1 13.Qxc1 O-O 14.e3 d5 15.Ne2 Qb6
+16.Qc3 dxc4 17.Nd4 e5 18.Nc2 Bf5 19.e4 Bxe4 20.fxe4 Nxe4 21.Qe3 Qc6 22.Be2 Nd6
+23.O-O f6 24.Qc5 Qxc5+ 25.bxc5 Ne4 26.Bxc4+ Kh8 27.Ne3 Nxc5 28.Rb1 g6 29.Rb5 Rc8
+30.Bd5 f5 31.Bxb7 Rc7 32.Bd5 Kg7 33.g3 h5 34.Rb6 Nd3 35.Rb7 Rxb7 36.Bxb7 Kf6
+37.Nd5+ Ke6 38.Nc3 g5 39.Bd5+ Kf6 40.Bf3 g4 41.Be2 Nc5 42.Nd5+ Kg5 43.Kf2 h4
+44.Nc3 hxg3+ 45.hxg3 f4 46.Bc4 fxg3+ 47.Kxg3 e4 48.Bd5 e3 49.Bc4 Nd7 50.Nd5 Ne5
+51.Nxe3 Nxc4 52.Nxc4 Kf6 53.Ne3 Ke5 54.Nxg4+  1/2-1/2
+
+[Event "Titled Arena May 8th 2021"]
+[Site "lichess.org INT"]
+[Date "2021.05.08"]
+[Round "?"]
+[White "Papasimakopoulos,Alexandros"]
+[Black "Atabayev,M"]
+[Result "1-0"]
+[WhiteElo "2251"]
+[BlackElo "2475"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.f3 a5
+9.e4 a4 10.Be3 Qc7 11.Rd1 d6 12.Ne2 O-O 13.Nd4 Bd7 14.Be2 Rfc8 15.O-O Be8
+16.Qb4 Qa5 17.Qxa5 Rxa5 18.Bd2 Ra6 19.Bb4 Nfd7 20.Rd2 Ne5 21.Rfd1 h5 22.Nb5 Nb3
+23.Rxd6 Nxc4 24.Rd8 Raa8 25.Rxe8+ Rxe8 26.Bxc4 Rec8 27.Nd6 Rd8 28.Bxb3 axb3
+29.Rc1 e5 30.Rc7 Ra6 31.Rxb7 Rc6 32.Nxf7 Rd1+ 33.Kf2 Rc2+ 34.Kg3 Rg1 35.Nxe5 Rgxg2+
+36.Kf4 Rxb2 37.Rb8+ Kh7 38.Kf5 Rbf2 39.f4 b2 40.Nf7 b1=Q 41.Rh8+  1-0
+
+[Event "Titled Arena May 8th 2021"]
+[Site "lichess.org INT"]
+[Date "2021.05.08"]
+[Round "?"]
+[White "Indjic,A"]
+[Black "Saric,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2607"]
+[BlackElo "2543"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.a3 Bxc5 7.Nf3 a6 8.e3 b6
+9.b3 Bb7 10.Be2 O-O 11.Bb2 Be7 12.g4 d5 13.g5 Ne4 14.Nxe4 dxe4 15.Ne5 Bxg5
+16.Ng4 f5 17.h4 Bd8 18.Nh6+ Kh8 19.O-O-O Bf6 20.Rhg1 Nc6 21.f4 Bxb2+ 22.Qxb2 Rf6
+23.Rd6 Qxd6 24.Qxf6 Qxa3+ 25.Kb1 Qxb3+ 26.Ka1 Qa3+ 27.Kb1 Qb3+ 28.Ka1 Qa3+
+29.Kb1 Qb3+  1/2-1/2
+
+[Event "EE May Blitz Open 2021"]
+[Site "Europe-Echecs INT"]
+[Date "2021.05.09"]
+[Round "5"]
+[White "Lapperriere,Romuald"]
+[Black "Begaudeau,Christophe"]
+[Result "0-1"]
+[WhiteElo "1275"]
+[BlackElo ""]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.a3 Bxc3+ 6.Qxc3 cxd4 7.Qxd4 Nc6 8.Qc3 h6
+9.Nf3 O-O 10.e3 d5 11.Be2 Ne4 12.Qc2 f5 13.cxd5 exd5 14.O-O Be6 15.Rd1 Rc8
+16.Nd2 Nd4 17.Qa4 Nxe2+  0-1
+
+[Event "Titled Tuesday 11th May"]
+[Site "chess.com INT"]
+[Date "2021.05.11"]
+[Round "6"]
+[White "Vaidya,Atulya"]
+[Black "Klimkowski,Jan"]
+[Result "1-0"]
+[WhiteElo "2154"]
+[BlackElo "2296"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.e3 d5 8.b4 Be7
+9.cxd5 exd5 10.Bb2 Nc6 11.Nf3 Bg4 12.Be2 Bxf3 13.Bxf3 d4 14.exd4 Nxd4 15.Qd1 Qb6
+16.O-O Rad8 17.Re1 Rd7 18.Na4 Nxf3+ 19.Qxf3 Qa6 20.Nc3 Rfd8 21.Rad1 Bd6 22.g3 Qc4
+23.Nd5 Nxd5 24.Rxd5 Bf8 25.Rxd7 Rxd7 26.Re8 Qc2 27.Be5 f6 28.Bf4 Rd1+ 29.Kg2 Qb1
+30.Qe4 Rg1+ 31.Kh3 Qf1+ 32.Kg4 h5+ 33.Kh4 g5+ 34.Bxg5 fxg5+ 35.Kxg5 Qc1+
+36.f4 Qc7 37.Qg6+ Qg7 38.Kxh5 Rg2 39.h4 Rxg3 40.Qe6+ Kh8 41.Qe5 Kh7 42.Qf5+ Kg8
+43.Qe6+ Qf7+ 44.Qxf7+ Kxf7 45.Rb8 Rxa3 46.Rxb7+ Kf6 47.f5 Ra4 48.b5 Be7 49.b6 a6
+50.Ra7 Bc5 51.b7  1-0
+
+[Event "Titled Tuesday 11th May"]
+[Site "chess.com INT"]
+[Date "2021.05.11"]
+[Round "7"]
+[White "Grigoryan,Meri"]
+[Black "Sarkar,J"]
+[Result "0-1"]
+[WhiteElo "2044"]
+[BlackElo "2360"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 Nc6 6.Nf3 O-O 7.Bd2 cxd4 8.exd4 d5
+9.c5 b6 10.Bb5 Bd7 11.cxb6 Qxb6 12.Bxc6 Bxc6 13.O-O Rfc8 14.a3 Bd6 15.b4 Ne4
+16.Qd3 Nxc3 17.Qxc3 Bb5 18.Qe3 Bxf1 19.Rxf1 Rc2 20.Ne5 Bxe5 21.dxe5 Qxe3
+22.Bxe3 Ra2 23.b5 Rxa3 24.b6 axb6 25.Bxb6 Ra1 26.g3 Rxf1+ 27.Kxf1 Ra2 28.Be3 Kf8
+29.Kg2 Ke8 30.Kf3 Kd7 31.h4 Kc6 32.g4 Kb5 33.g5 Kc4 34.h5 g6 35.hxg6 hxg6
+36.Bf4 d4  0-1
+
+[Event "Titled Tuesday 11th May"]
+[Site "chess.com INT"]
+[Date "2021.05.11"]
+[Round "11"]
+[White "Borsuk,K"]
+[Black "Yoo,Christopher Woojin"]
+[Result "1/2-1/2"]
+[WhiteElo "2413"]
+[BlackElo "2455"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 d5 8.Bg5 Be7
+9.cxd5 Nxd5 10.Nxd5 exd5 11.Bxe7 Qxe7 12.e3 Nc6 13.Bd3 h6 14.O-O Bg4 15.Nd4 Nxd4
+16.exd4 Rac8 17.Qd2 Qf6 18.Rac1 Bf5 19.Bxf5 Qxf5 20.h3 Kh7 21.Qa5 a6 22.Qb6 Qd7
+23.Rfe1 Rfe8 24.Kh2 Rxc1 25.Rxc1 Qf5 26.Rf1 Re7 27.Kg1 h5 28.b4 Qf4 29.Qc5 Rd7
+30.a4 Qf6 31.b5 b6 32.Qc8 Qd8 33.Qxa6 Qb8 34.a5 bxa5 35.Qxa5 Ra7 36.Qb4 Rb7
+37.Rb1 Rb6 38.Qc5 Qb7 39.Rb3 Kg8 40.g3 g6 41.Kg2 Kg7 42.Qb4 Kg8 43.Rb1 Kg7
+44.Qc5 Kg8 45.g4 hxg4 46.hxg4 Kg7 47.Kg3 Qb8+ 48.f4 Re6 49.Rb3 Re1 50.Qxd5 Rg1+
+51.Kf2 Rxg4 52.Qe5+ Qxe5 53.fxe5 Rxd4 54.b6 Rd8 55.b7 Rb8 56.Kf3 g5 57.Ke4 Kg6
+58.Kd5 g4 59.Kd6 Kf5 60.Rb5 Kf4 61.Kc7 Rh8 62.b8=Q Rxb8 63.Kxb8 g3 64.Kc7 g2
+65.Rb1 Kxe5 66.Rg1 f5 67.Rxg2 f4 68.Rg8 f3 69.Rf8 Ke4 70.Kd6 Ke3 71.Re8+ Kd2
+72.Kd5 f2 73.Rf8 Ke2 74.Rxf2+ Kxf2  1/2-1/2
+
+[Event "ch-CHN Women 2021"]
+[Site "Xinghua CHN"]
+[Date "2021.05.15"]
+[Round "11.4"]
+[White "Tan Zhongyi"]
+[Black "Zhu,Jiner"]
+[Result "0-1"]
+[WhiteElo "2510"]
+[BlackElo "2459"]
+[ECO "E39"]
+
+1.c4 Nf6 2.Nc3 e6 3.d4 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 a6 8.Bg5 Be7
+9.e4 d6 10.h3 Nbd7 11.Be2 b6 12.O-O Bb7 13.Rad1 Qc7 14.Rfe1 h6 15.Bf4 Rfd8
+16.Bf1 Rac8 17.Rd2 Qb8 18.b4 e5 19.Nd5 Nxd5 20.exd5 b5 21.c5 Bf6 22.Bxh6 dxc5
+23.Ng5 Nf8 24.Ne4 Be7 25.Qd1 gxh6 26.bxc5 Bxc5 27.Nf6+ Kg7 28.Nh5+ Kh8 29.Qg4 Ng6
+30.Bd3 Qd6 31.Bf5 Rc7 32.Ng3 Qf8 33.Red1 Bd4 34.Rxd4 exd4 35.Qxd4+ Qg7 36.Qb6 Qe5
+37.f4 Qd6 38.Qd4+ Kg8 39.Ne4 Rc4 40.Nf6+ Kh8 41.Qb2 Rxf4 42.Nh5+ f6 43.Bxg6 Qc5+
+44.Kh1 Rf2 45.Qb1 Qe3 46.Bf7 Rf8 47.Be6 Qg5 48.Bg4 Bxd5 49.Qb4 Re8 50.Qd4 Bxg2+
+51.Kg1 Bxh3 52.Kxf2 Bxg4 53.Nxf6 Rf8 54.Qxg4 Qxg4  0-1
+
+[Event "Gran Canaria May Blitz"]
+[Site "lichess.org INT"]
+[Date "2021.05.16"]
+[Round "9"]
+[White "Volkov,Nika"]
+[Black "Delgado Ramirez,N"]
+[Result "0-1"]
+[WhiteElo "2105"]
+[BlackElo "2622"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.a3 Bxc3+ 6.Qxc3 cxd4 7.Qxd4 Nc6 8.Qc3 O-O
+9.Nf3 d5 10.e3 Ne4 11.Qc2 Qa5+ 12.Nd2 h6 13.Rb1 Nf6 14.b4 Qd8 15.Be2 d4 16.Nf3 e5
+17.b5 e4 18.Nxd4 Nxd4 19.exd4 Qxd4 20.Bb2 Qd6 21.c5 Qf4 22.O-O Ng4 23.g3 Qg5
+24.h4 Qg6 25.Rbe1 Ne3 26.Qc3 Nxf1 27.Bxf1 Bf5 28.Bc4 Rae8 29.Re3 Rd8 30.Re1 h5
+31.c6 bxc6 32.bxc6 e3 33.Rxe3 Rd1+ 34.Kh2 Qg4 35.Re1 Rxe1 36.Qxe1 Qxc4 37.Qe5 Qg4
+38.c7 f6 39.Qd6 Rc8 40.Bd4 Qh3+ 41.Kg1 Be4 42.f3 Bxf3 43.Kf2 Qg2+ 44.Ke3 Qe2+
+45.Kf4 Qe4+  0-1
+
+[Event "European Hybrid Qual 2021"]
+[Site "Tornelo INT"]
+[Date "2021.05.24"]
+[Round "1.1"]
+[White "Sumets,A"]
+[Black "Gumularz,Szymon"]
+[Result "0-1"]
+[WhiteElo "2546"]
+[BlackElo "2517"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bf4 Nh5
+9.Bg5 Be7 10.h4 Nc6 11.O-O-O Bb7 12.e4 Rc8 13.Nb5 f6 14.Be3 a6 15.Nd6 Bxd6
+16.Rxd6 Qe7 17.Rd1 Na5 18.Bxb6 Nxc4 19.Bxc4 Rxc4 20.Qxc4 Rc8 21.Bc7 d5 22.Qb3 Rxc7+
+23.Kb1 dxe4 24.Nd4 Bd5 25.Qb8+ Kf7 26.Nf5 exf5 27.Rxd5 Nf4 28.Rd8 Nd3 29.h5 Qc5
+30.Rf8+ Ke6 31.Ka1 Rd7 32.Qe8+ Re7 33.Qa8 Qb6 34.Rb8 Qd6 35.Rd1 Ke5 36.g3 f4
+37.Rd8 Qc5 38.gxf4+ Kxf4 39.Qxa6 Ra7 40.Qd6+ Qxd6 41.Rxd6 Nxf2 42.Rf1 e3
+43.h6 f5 44.hxg7 Rxg7 45.b4 Kf3 46.b5 e2 47.Re1 Ne4 48.Rd5 f4 49.Rb1 Ke3
+50.b6 f3 51.Rh5 f2 52.Rh3+ Kf4  0-1
+
+[Event "Titled Tuesday 25th May"]
+[Site "chess.com INT"]
+[Date "2021.05.25"]
+[Round "2"]
+[White "Remolar Gallen,J"]
+[Black "Shapiro,Dan"]
+[Result "0-1"]
+[WhiteElo "2335"]
+[BlackElo "2284"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.Be2 a6
+9.O-O Be7 10.b3 d6 11.Bb2 b6 12.Rac1 Bb7 13.Rfd1 Nbd7 14.Nd4 O-O 15.Bf3 Rac8
+16.Qe2 Rfe8 17.g4 Bxf3 18.Qxf3 Ne5 19.Qg3 Nexg4 20.Kh1 g6 21.e4 d5 22.Qg2 dxe4
+23.h3 Ne5 24.Nxe4 Nxe4 25.Qxe4 Nc6 26.Nf3 Bc5 27.Rg1 f5 28.Qh4 e5 29.Rxg6+ hxg6
+30.Rg1 Qg7 31.Rg5 Be7  0-1
+
+[Event "Titled Tuesday 25th May"]
+[Site "chess.com INT"]
+[Date "2021.05.25"]
+[Round "5"]
+[White "Cramling Bellon,Anna"]
+[Black "Makhmudov,Shukhrat"]
+[Result "0-1"]
+[WhiteElo "2035"]
+[BlackElo "2115"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 h6 7.e4 d6 8.Be2 O-O
+9.O-O a6 10.Bf4 Nc6 11.Rfd1 Qe7 12.Na4 e5 13.Nxc5 dxc5 14.Be3 Nd4 15.Bxd4 cxd4
+16.c5 Bg4 17.Rac1 Rac8 18.b4 Bxf3 19.Bxf3 Rc7 20.Qd3 Rfc8 21.a4 Qd7 22.Qa3 Qc6
+23.b5 axb5 24.a5 Qa6 25.Qb4 Qa7 26.Qxb5 Rxc5 27.Rxc5 Rxc5 28.Qb4 Rxa5 29.g3 Ra1
+30.Rxa1 Qxa1+ 31.Kg2 Qa6 32.Qe7 Qb5 33.Qd8+ Qe8 34.Qd6 Qd7 35.Qc5 Qe8 36.Qd6 Nd7
+37.h4 Nf8 38.Qd5 Qe7 39.Be2 g6 40.Bc4 Kg7 41.Qb5 Qc7 42.Qd5 Ne6 43.Qb5 Qc6
+44.Qxc6 bxc6 45.Bd3 Nc5 46.Bc4 d3 47.Kf1 d2 48.Ke2 Nxe4 49.Bd3 Nxf2 50.Kxd2 Nxd3
+51.Kxd3 f5 52.Kc4 e4 53.Kd4 Kf6 54.Ke3 Ke5 55.h5 g5 56.g4 f4+ 57.Kf2 Kd4
+58.Ke2 Kc3 59.Kf2 Kd2 60.Kf1 e3 61.Kg2 e2 62.Kh3 e1=Q 63.Kg2 Qe2+ 64.Kh3 Qf3+
+65.Kh2 Qxg4 66.Kh1 c5 67.Kh2 c4 68.Kh1 c3 69.Kh2 c2 70.Kh1 c1=Q+ 71.Kh2 Qcg1+  0-1
+
+[Event "China Zonal 3.5 2021"]
+[Site "Shaoxing CHN"]
+[Date "2021.05.25"]
+[Round "3.20"]
+[White "Yu,Tianxi"]
+[Black "Sun,Yidi"]
+[Result "0-1"]
+[WhiteElo "1623"]
+[BlackElo "2107"]
+[ECO "E38"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.Qc2 c5 5.a3 Bxc3+ 6.bxc3 Nc6 7.Nf3 d6 8.g3 e5
+9.Bb2 O-O 10.Bg2 Qe7 11.e3 Na5 12.Nd2 Rb8 13.O-O b6 14.Rfe1 Ba6 15.Bf1 Nd7
+16.d5 f5 17.e4 f4 18.Bh3 Rf6 19.Qa4 Nf8 20.Nb3 Bc8 21.Bxc8 Nxb3 22.Qxb3 Rxc8
+23.Qd1 Qd7 24.Qd3 Ng6 25.Rac1 Rcf8 26.Rc2 Qh3 27.Qf1 Qh5 28.Bc1 Nh4 29.gxh4 Rg6+
+30.Qg2 Rxg2+ 31.Kxg2 Qg4+ 32.Kf1 f3 33.Rd1 Qxe4 34.Rdd2 Rf4 35.h5 Rg4 36.h3 Qe1+
+37.Kxe1 Rg1+  0-1
+
+[Event "CCCSA Memorial Day GM"]
+[Site "Charlotte USA"]
+[Date "2021.05.28"]
+[Round "3.4"]
+[White "Sinha,Sahil"]
+[Black "Yoo,Christopher Woojin"]
+[Result "0-1"]
+[WhiteElo "2375"]
+[BlackElo "2455"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 Nce4
+9.O-O Bxc3 10.bxc3 Qc7 11.Nd4 d5 12.cxd5 exd5 13.Ba3 Re8 14.Rac1 Bd7 15.f3 Nd6
+16.Bxd6 Qxd6 17.Qd2 Rac8 18.Rfe1 Rc7 19.e3 Rec8 20.Qb2 Qc5 21.Bf1 Qa5 22.Nb3 Qb6
+23.Qd2 Bb5 24.Bh3 Bd7 25.Bf1 a6 26.Qd4 Qe6 27.Nd2 Qe7 28.Rb1 Bf5 29.Rbc1 Qa3
+30.g4 Be6 31.Rc2 Nd7 32.Rec1 Nb8 33.Bd3 Nc6 34.Qf4 Na5 35.Qb4 Nc4 36.Bxc4 Qxb4
+37.cxb4 dxc4 38.Kf2 Kf8 39.Ne4 b6 40.a4 Ke7 41.Rd2 h6 42.Nc3 Rd8 43.Rcd1 Rxd2+
+44.Rxd2 Rd7 45.Rxd7+ Kxd7 46.e4 Kc6 47.Ke3 b5 48.a5 f6 49.Kd4 g5 50.Ne2 Bf7
+51.e5 fxe5+ 52.Kxe5 Bg6 53.Nd4+ Kd7 54.Ne2 Kc6 55.Nc3 Bd3 56.f4 gxf4 57.Kxf4 Kd6
+58.h3 Ke6 59.h4 Kd6 60.Ke3 Ke5 61.Nd1 Bg6 62.Nc3 Bd3 63.Nd1 Bg6 64.Nc3 Bf7
+65.Ne4 Be6 66.Nc5 Bc8 67.h5 c3 68.g5 hxg5 69.h6 Bf5 70.Nxa6 c2 71.Kd2 g4
+72.Nc5 g3 73.a6 g2 74.h7 Bxh7 75.Nd7+ Kd6  0-1
+
+[Event "AICF World Cup Qualifier"]
+[Site "Tornelo INT"]
+[Date "2021.05.28"]
+[Round "8.8"]
+[White "Iniyan,P"]
+[Black "Narayanan,SL"]
+[Result "1-0"]
+[WhiteElo "2506"]
+[BlackElo "2624"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 Qb6 8.e4 Ng4
+9.h3 Bxf2+ 10.Ke2 Ne3 11.Qd3 Nxf1 12.Rxf1 Bc5 13.e5 Be7 14.Ne4 Nc6 15.b4 Qc7
+16.Bb2 f5 17.exf6 gxf6 18.b5 Na5 19.Ne5 d6 20.Qg3+ Kh8 21.Nxf6 dxe5 22.Bxe5 Qxc4+
+23.Ke1 Qxf1+ 24.Kxf1 Bxf6 25.Qf4  1-0
+
+[Event "European Hybrid Swiss TB"]
+[Site "Tornelo INT"]
+[Date "2021.05.30"]
+[Round "1.4"]
+[White "Braun,A"]
+[Black "Predke,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2609"]
+[BlackElo "2690"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.a3 Bxc3+ 8.Qxc3 Nxc5
+9.e3 b6 10.Be2 Bb7 11.O-O Rc8 12.b4 Nce4 13.Qb3 d5 14.Bb2 dxc4 15.Bxc4 Bd5
+16.Bxd5 Qxd5 17.Qxd5 Nxd5 18.Rfc1 Ndc3 19.Kf1 f6 20.Rc2 Na4 21.Rac1 Rxc2
+22.Rxc2 Nxb2 23.Rxb2 Rc8 24.Nd4 e5 25.Rc2 Rxc2 26.Nxc2 Kf7 27.Ke2 Ke6 28.f3 Nd6
+29.e4 Nc4 30.Kd3 b5 31.Ne3 Nxe3 32.Kxe3 g5 33.g4 a6 34.Ke2  1/2-1/2
+
+[Event "Titled Tuesday 1st June"]
+[Site "chess.com INT"]
+[Date "2021.06.01"]
+[Round "6"]
+[White "Woodward,Andy"]
+[Black "Dmitrenko,V"]
+[Result "1-0"]
+[WhiteElo "2083"]
+[BlackElo "2456"]
+[ECO "E38"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Nc6 7.e3 d5 8.cxd5 Nxd5
+9.Nxd5 Qxd5 10.a3 Bb6 11.Bc4 Qh5 12.O-O O-O 13.b4 e5 14.Bb2 Bg4 15.Qe4 Rae8
+16.Bb3 Kh8 17.Rac1 f5 18.Qd5 e4 19.Ne5 Nxe5 20.Bxe5 Be2 21.Rfe1 Rd8 22.Qxb7 f4
+23.Bxg7+  1-0
+
+[Event "Titled Tuesday 1st June"]
+[Site "chess.com INT"]
+[Date "2021.06.01"]
+[Round "9"]
+[White "Dzhaparov,Medet"]
+[Black "Jakubowski,K"]
+[Result "0-1"]
+[WhiteElo "1691"]
+[BlackElo "2497"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 b6
+9.O-O Bb7 10.Nb5 Nce4 11.a3 Bc5 12.Ng5 d5 13.Nxe4 Nxe4 14.e3 a6 15.Nc3 Nxc3
+16.Qxc3 d4 17.exd4 Bxg2 18.Kxg2 Bxd4 19.Qf3 Rc8 20.Rd1 Rxc4 21.Be3 e5 22.b3 Rc3
+23.Qe4 f5 24.Qf3 Rxb3 25.Qc6 Kh8 26.Bxd4 exd4 27.Qc4 Qa8+ 28.Kg1 Rf3 29.Qxd4 f4
+30.Rd2 fxg3 31.hxg3 b5 32.Re1 R3f6 33.Re4 h6 34.Rh4 Qc6 35.Rg4 Qc1+ 36.Kg2 Qxa3
+37.Qd7 Qf3+ 38.Kh2 R6f7 39.Qe6 Qf6  0-1
+
+[Event "43rd Nezhmetdinov Mem"]
+[Site "Kazan RUS"]
+[Date "2021.06.03"]
+[Round "7.8"]
+[White "Schekachikhin,Maksim"]
+[Black "Faizrakhmanov,Ramil"]
+[Result "0-1"]
+[WhiteElo "2407"]
+[BlackElo "2487"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.Nf3 a6 7.e3 Bxc5 8.a3 Be7
+9.Bd3 d6 10.b4 Nbd7 11.Bb2 b6 12.O-O Bb7 13.Ne4 h6 14.Rac1 O-O 15.Rfd1 Rac8
+16.Nfd2 Qb8 17.Nxf6+ Nxf6 18.Nb3 Rfd8 19.Qe2 Qa8 20.f3 Nd7 21.Bb1 a5 22.Qd3 Nf6
+23.Bd4 axb4 24.Bxb6 bxa3 25.Bxd8 Rxd8 26.Ba2 Nd7 27.Qe2 Ne5 28.Nd4 Qa6 29.Rb1 Ba8
+30.Rb5 Nc6 31.Qd2 d5 32.Nxc6 Bxc6 33.Ra5 Qb7 34.c5 Rc8 35.Rb1 Qc7 36.Qc3 Be8
+37.Rc1 Bd8 38.Rxa3 Be7 39.Ra5 Bd8 40.Ra3 Be7 41.Kh1 Kf8 42.Qd3 Bxc5 43.Rac3 Qa7
+44.Qc2 Ba4 45.Bb3 Bxb3 46.Qxb3 Rb8 47.Qc2 Bd6 48.Rc8+ Rxc8 49.Qxc8+ Ke7 50.Qc3 g6
+51.Rb1 h5 52.g3 Qa6 53.Ra1 Qb7 54.Qd4 Kf8 55.e4 Kg8 56.exd5 exd5 57.Rd1 Bf8
+58.Qxd5 Qb4 59.Kg2 Qb2+ 60.Qd2 Qf6 61.Qd4 Qe7 62.Qe4 Qc7 63.f4 Qc5 64.Rf1 Be7
+65.f5 Qd6 66.Qf3 Kg7 67.fxg6 fxg6 68.Qf7+ Kh6 69.Qf4+ Qxf4 70.Rxf4 Kg5 71.Kf3 Bd6
+72.Rc4 Kf5 73.Rc6 Bb8 74.Rc5+ Kf6 75.Ke4 Ba7 76.Rc6+ Kg5 77.h4+ Kh6 78.Kd5 Bf2
+79.Rc3 Kg7 80.Ke6 g5 81.hxg5 Kg6 82.Rc8 Kxg5 83.Rg8+ Kh6 84.Kf6 Bd4+ 85.Kf5 Kh7
+86.Rg5 Kh6 87.Rg6+ Kh7 88.Kg5 h4 89.Rh6+ Kg7 90.Rd6 Be5 91.Rd7+ Kf8 92.Kxh4 Kg8
+93.g4 Bf6+ 94.Kh5  0-1
+
+[Event "Superbet Classic 2021"]
+[Site "Bucharest ROU"]
+[Date "2021.06.05"]
+[Round "1.4"]
+[White "Lupulescu,C"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2656"]
+[BlackElo "2781"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 Nce4
+9.O-O Nxc3 10.bxc3 Be7 11.e4 d6 12.e5 dxe5 13.Nxe5 Qc7 14.Qe2 Nd7 15.Bf4 Nxe5
+16.Bxe5 Bd6 17.Bxd6 Qxd6 18.Qe3 Qc7 19.Rfb1 Qxc4 20.Bxb7 Bxb7 21.Rxb7 h6
+22.Rxa7 Rxa7 23.Qxa7 Qxc3 24.Rb1 Qc2 25.Rb8 Qd1+ 26.Kg2 Qd5+ 27.Kg1 Qd1+
+28.Kg2 Qd5+ 29.Kg1 Qd1+  1/2-1/2
+
+[Event "Checkmate Covid Rematch"]
+[Site "chess.com INT"]
+[Date "2021.06.05"]
+[Round "?"]
+[White "Pink,Joshua"]
+[Black "Towers,Nigel S"]
+[Result "0-1"]
+[WhiteElo "1924"]
+[BlackElo "1858"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.d5 d6 6.dxe6 Bxe6 7.e3 Qa5 8.Bd2 Nc6
+9.Nb5 Bxd2+ 10.Qxd2 Qxd2+ 11.Kxd2 Kd7 12.Nf3 Ne4+ 13.Kc2 Nb4+ 14.Kb3 Nxf2
+15.Rg1 Ne4 16.a3 Nc6 17.Bd3 Nf6 18.Rad1 a6 19.Nc3 Kc7 20.Kc2 Na5 21.b3 Nc6
+22.e4 Ne5 23.Nxe5 dxe5 24.Nd5+ Bxd5 25.exd5 Kd6 26.Bf5 g6 27.Rgf1 gxf5 28.Rxf5 Ng4
+29.Re1 Rhf8 30.h3 Nh6 31.Rfxe5 Rad8 32.Re7 Rd7 33.R7e3 Nf5 34.Rf3 Nd4+  0-1
+
+[Event "Titled Tuesday 8th June"]
+[Site "chess.com INT"]
+[Date "2021.06.08"]
+[Round "4"]
+[White "Dzhaparov,Medet"]
+[Black "Yoo,Christopher Woojin"]
+[Result "0-1"]
+[WhiteElo "1691"]
+[BlackElo "2457"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 Nce4
+9.O-O Bxc3 10.bxc3 Qc7 11.Nd4 d5 12.cxd5 exd5 13.Bf4 Qc5 14.Rfd1 Bd7 15.Rac1 Rac8
+16.Qb3 b6 17.Qb4 Nxc3 18.Qxc5 Rxc5 19.Bd6 Nxd1 20.Rxd1 Rfc8 21.Bxc5 bxc5
+22.Nc2 Ba4 23.Rc1 Bxc2 24.Rxc2 Kf8 25.g4 h6 26.h4 g5 27.hxg5 hxg5 28.f4 gxf4
+29.g5 Ne4 30.Bxe4 dxe4 31.Rc4 Kg7 32.Rxe4 c4 33.Rxf4 c3 34.Rf1 Rc5 35.Rc1 Kg6
+36.Kf2 Kxg5 37.Ke3 Rc7 38.Kd3 Kf4 39.e3+ Kf3 40.Rf1+ Kg2 41.Rc1 Kf2 42.Rc2+ Kf3
+43.Rc1 c2 44.Rf1+ Kg2 45.Rc1 Kf2 46.e4 Rd7+ 47.Kxc2 Rc7+ 48.Kd2 Rxc1 49.Kxc1 Ke3
+50.e5 Ke4 51.Kd2 Kxe5 52.Ke3 a5 53.a4 Kd5 54.Kd3 Kc5 55.Kc3 f5 56.Kd3 Kb4  0-1
+
+[Event "ch-SVK Rapid 2021"]
+[Site "Modra SVK"]
+[Date "2021.06.12"]
+[Round "2.20"]
+[White "Sevcikova,Lucia"]
+[Black "Kostolansky,Sebastian Lukas"]
+[Result "0-1"]
+[WhiteElo "2002"]
+[BlackElo "2393"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 O-O 6.Bd2 d5 7.Nf3 e5  0-1
+
+[Event "50th Ann Mariupol CC 2021"]
+[Site "Mariupol UKR"]
+[Date "2021.06.13"]
+[Round "9.2"]
+[White "Budnikov,O"]
+[Black "Golovanj,A"]
+[Result "1-0"]
+[WhiteElo "2408"]
+[BlackElo "2298"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.g4 h6
+9.Rg1 a6 10.h4 b6 11.g5 hxg5 12.hxg5 Ng8 13.a3 Bb7 14.Ne4 Bf8 15.Qd3 Nc6
+16.Bd2 Rd8 17.Rc1 d5 18.cxd5 exd5 19.Ng3 Nge7 20.Nd4 Qd6 21.Bc3 Ne5 22.Qd1 Qd7
+23.Be2 Rh4 24.Qb3 Nc4 25.Nf3 Rh3 26.Rd1 Qc7 27.Bf1 Rh8 28.Bd3 Rh3 29.Bf1 Rh8
+30.Qc2 Nd6 31.Nd4 b5 32.Bd3 Bc8 33.a4 Bd7 34.axb5 Nxb5 35.Ra1 Nxd4 36.Bxd4 Qxc2
+37.Bxc2 Bb5 38.Bc3 Rh4 39.Rd1 g6 40.Bb3 Bc4 41.Bxc4 Rxc4 42.Ra1 Nc6 43.Ne2 Bb4
+44.Rxa6 d4 45.exd4 Nxd4 46.Nxd4 Rcxd4 47.Rg3 Bxc3+ 48.bxc3 Rd3 49.Rxd3 Rxd3
+50.Rc6 Kd7 51.Rc4 Ke6 52.Ke2 Rd5 53.Re4+ Kf5 54.Re7 f6 55.gxf6 Kxf6 56.Re4 Kf5
+57.f3 Rd7 58.Ke3 g5 59.c4 Rd1 60.c5 Rc1 61.Kd4 Rd1+ 62.Kc4 Rc1+ 63.Kd5  1-0
+
+[Event "Titled Tuesday 15th June"]
+[Site "chess.com INT"]
+[Date "2021.06.15"]
+[Round "1"]
+[White "Rama,Tejas"]
+[Black "Araujo Sanchez,Josue"]
+[Result "0-1"]
+[WhiteElo "2131"]
+[BlackElo "2310"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.Nf3 O-O 6.Bg5 h6 7.Bd2 cxd4 8.Nxd4 Nc6
+9.e3 Nxd4 10.exd4 b6 11.Bd3 Bb7 12.O-O d5 13.a3 Be7 14.Rad1 dxc4 15.Bxc4 Rc8
+16.Bb3 Qxd4 17.Bxh6 Qg4 18.f3 Bc5+ 19.Kh1 Qh4 20.Bd2 Ba6 21.Rfe1 Nh5 22.Be3 Ng3+
+23.Kg1 Bxe3+ 24.Rxe3 Nf5 25.Re4 Qe7 26.Rd2 Rfd8 27.g4 Qc5+ 28.Kh1 Ne3 29.Qc1 Nf1
+30.Rxd8+ Rxd8 31.Re1 Qf2 32.Qc2 Qxe1  0-1
+
+[Event "Titled Tuesday 15th June"]
+[Site "chess.com INT"]
+[Date "2021.06.15"]
+[Round "1"]
+[White "Nguyen,Quoc Hy"]
+[Black "Kanyamarala,Trisha"]
+[Result "1-0"]
+[WhiteElo "2242"]
+[BlackElo "2180"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Bxc5 7.Bg5 h6 8.Bh4 Nc6
+9.e3 Be7 10.Be2 d5 11.cxd5 exd5 12.O-O Be6 13.Rfd1 Rc8 14.Rac1 Qa5 15.Qb1 Rfd8
+16.a3 a6 17.h3 Qb6 18.Bd3 Na5 19.Bf5 Bxf5 20.Qxf5 Qxb2 21.Rc2 Qb3 22.Nxd5 Qxc2
+23.Nxe7+ Kf8 24.Rxd8+ Kxe7 25.Qd7+  1-0
+
+[Event "Titled Tuesday 15th June"]
+[Site "chess.com INT"]
+[Date "2021.06.15"]
+[Round "5"]
+[White "Kukhmazov,A"]
+[Black "Skliarov,V"]
+[Result "1-0"]
+[WhiteElo "2466"]
+[BlackElo "2383"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Nce4
+9.Qb2 d5 10.c5 h6 11.e3 O-O 12.Bd3 a5 13.Nf3 axb4 14.axb4 Rxa1 15.Qxa1 b6
+16.c6 Ng4 17.O-O Qd6 18.h3 Ngxf2 19.Rxf2 Nxf2 20.Kxf2 Qxb4 21.Ba3 Qa5 22.Qb2 Re8
+23.Ne5 Ba6 24.c7 Bxd3 25.Nxd3 Rc8 26.Bd6 Qa4 27.Ne5 Ra8 28.Qc3 Qa6 29.Nc6 Kh7
+30.Ne7 Qa2+ 31.Kg3 Qb1 32.c8=Q Rxc8 33.Nxc8  1-0
+
+[Event "Titled Tuesday 15th June"]
+[Site "chess.com INT"]
+[Date "2021.06.15"]
+[Round "6"]
+[White "Rottenwohrer Suarez,Juan"]
+[Black "Kalashian,D"]
+[Result "1-0"]
+[WhiteElo "2189"]
+[BlackElo "2398"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 b6
+9.O-O Bb7 10.Rd1 Bxc3 11.Qxc3 Rc8 12.Qa3 a5 13.Bf4 d5 14.Rac1 Qe7 15.cxd5 Nxd5
+16.Bg5 f6 17.Bd2 Rfd8 18.Be1 e5 19.Bh3 Rb8 20.Nh4 g6 21.Nf3 f5 22.Nd2 Ba8
+23.Nc4 Nf6 24.Rxd8+ Rxd8 25.Nxb6 Nfe4 26.f3 Qa7 27.Qxa5 Qe7 28.Nxa8 Qg5 29.fxe4 Qxc1
+30.Qxd8+ Kg7 31.Qd2 Qb1 32.exf5 Ne4 33.Qb4 Kh6 34.Bg2 Ng5 35.h4 Ne6 36.fxe6 Qc1
+37.Qd2+  1-0
+
+[Event "Titled Tuesday 15th June"]
+[Site "chess.com INT"]
+[Date "2021.06.15"]
+[Round "10"]
+[White "Dzhaparov,Medet"]
+[Black "Shapiro,Dan"]
+[Result "0-1"]
+[WhiteElo "1691"]
+[BlackElo "2284"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Be7 8.Be2 d6
+9.O-O a6 10.b3 Qc7 11.Bb2 Nbd7 12.Rac1 b6 13.Nd4 Bb7 14.f3 O-O 15.Kh1 Rac8
+16.e4 Qb8 17.Rfd1 Bd8 18.Bf1 Bc7 19.g3 Kh8 20.Bg2 Rg8 21.f4 Nc5 22.Re1 Qa8
+23.Rcd1 d5 24.e5 Nfe4 25.cxd5 exd5 26.Qe2 Nxc3 27.Bxc3 Ne4 28.Bb2 b5 29.Nf5 Ba5
+30.Rf1 Bc3 31.Bc1 Rc7 32.Qf3 Qd8 33.Qe2 Qe8 34.Ne3 d4 35.Ng4 Qa8  0-1
+
+[Event "National Open 2021"]
+[Site "Las Vegas USA"]
+[Date "2021.06.17"]
+[Round "3.3"]
+[White "Gareev,T"]
+[Black "Yoo,Christopher Woojin"]
+[Result "1-0"]
+[WhiteElo "2606"]
+[BlackElo "2457"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 d5 8.Bg5 Be7
+9.e3 Nc6 10.O-O-O Bd7 11.h4 Rc8 12.Kb1 a6 13.cxd5 Nxd5 14.Bd3 Nxc3+ 15.Qxc3 h6
+16.Bc2 hxg5 17.hxg5 f5 18.gxf6 Bxf6 19.Qd3 Qb6 20.Rh8+ Kf7 21.Ng5+ Bxg5 22.Qg6+ Ke7
+23.Qxg7+  1-0
+
+[Event "TCh-BUL Rapid 2021"]
+[Site "Kiten BUL"]
+[Date "2021.06.20"]
+[Round "1.1"]
+[White "Nikolov,Mo"]
+[Black "Kalajdzhiev,Radoslav"]
+[Result "1-0"]
+[WhiteElo "2542"]
+[BlackElo "2055"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qa5 6.Bd2 Qxc5 7.e3 d5 8.a3 Bxc3
+9.Bxc3 dxc4 10.Bb4 Qc6 11.Qxc4 Qxc4 12.Bxc4 Nc6 13.Bc3 Ne4 14.Rc1 Nxc3 15.Rxc3 Bd7
+16.Nf3 Ke7 17.Ke2 Rac8 18.b4 Nxb4 19.axb4 b5 20.Ra1 Rxc4 21.Rxc4 bxc4 22.Rxa7 f6
+23.Kd2 e5 24.Kc3 Rc8 25.Nd2 Ke6 26.Ne4 Bb5 27.Nc5+ Kf5 28.Rxg7 Ra8 29.g4+  1-0
+
+[Event "Junior Speed Q Americas"]
+[Site "chess.com INT"]
+[Date "2021.06.21"]
+[Round "1.7"]
+[White "Cardoso Cardoso,Jose Gabriel"]
+[Black "Liang,Awonder"]
+[Result "1-0"]
+[WhiteElo "2414"]
+[BlackElo "2592"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 b6
+9.O-O Bb7 10.Nb5 Be4 11.Qd1 Nb7 12.Bf4 a6 13.Nd6 Nxd6 14.Bxd6 Bxd6 15.Qxd6 Qb8
+16.Qd4 Qb7 17.Rfd1 Rac8 18.Rac1 Rc7 19.b3 Rfc8 20.Rc3 h6 21.Rdc1 a5 22.Bf1 d5
+23.Nd2 dxc4 24.Rxc4 Bd5 25.Rxc7 Rxc7 26.Rxc7 Qxc7 27.e4 Bb7 28.f3 Nd7 29.Nc4 Ba6
+30.Nxb6 Bxf1 31.Nxd7 Qc1 32.Kf2 Bh3 33.Qd3 Qh1 34.Ne5 Qxh2+ 35.Ke3 Qxg3 36.Qd8+ Kh7
+37.Nxf7 Qe1+ 38.Kf4 Qc1+ 39.Kg3 Bf1 40.Qh8+ Kg6 41.Ne5+ Kf6 42.Ng4+ Kg6 43.Qe8+ Kh7
+44.Qf7 Qe1+ 45.Kh2 Qe2+ 46.Kg3 Qe1+ 47.Kf4 Qd2+ 48.Kg3 Qg5 49.Kf2 Bh3 50.Qxe6 Bxg4
+51.Qxg4 Qd2+ 52.Kg3 Qxa2 53.Qf5+ Kg8 54.Qe6+ Kh7 55.e5 Qd2 56.Qf5+ Kg8 57.e6 Qd6+
+58.f4 Qe7 59.Qg6 Kf8 60.f5 Qc7+ 61.Kh3 Qc3+ 62.Kg4 Qd4+ 63.Kh5 Qd1+ 64.Qg4 Qxg4+
+65.Kxg4 Ke7 66.Kf4 Kf6 67.Ke4 g6 68.Kd5 gxf5 69.Kd6 f4 70.e7 f3 71.e8=Q f2
+72.Qf8+  1-0
+
+[Event "TCh-BUL 2021"]
+[Site "Kiten BUL"]
+[Date "2021.06.21"]
+[Round "1.3"]
+[White "Enchev,I"]
+[Black "Valev,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2501"]
+[BlackElo "2022"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Nc6 7.Bg5 h6 8.Bh4 O-O
+9.Rd1 Be7 10.e4 Qa5 11.Be2 Rd8 12.O-O d6 13.Rd2 g5 14.Bg3 e5 15.Nd5 Nxd5
+16.cxd5 Nb4 17.Qc3 Qb6 18.a3 Na6 19.b4 f5 20.exf5 Bxf5 21.Bd3 Rac8 22.Qa1 Bxd3
+23.Rxd3 Qb5 24.Qb1 Bf6 25.h4 Qd7 26.hxg5 hxg5 27.Nd2 Qf5 28.Re1 Be7 29.f3 Nc7
+30.Bf2 Kg7 31.Ne4 Rh8 32.g4 Qh7 33.Kf1 Rcf8 34.Ng3 Qh2 35.Ke2 Nb5 36.a4 Nd4+
+37.Rxd4 exd4 38.Qe4 Bd8 39.Qxd4+ Bf6 40.Qd3 Re8+ 41.Ne4 Re7 42.Kf1 Qh3+ 43.Ke2 Qh2
+44.Kf1 Qh3+ 45.Ke2 Qh2  1/2-1/2
+
+[Event "Titled Tuesday 22nd June"]
+[Site "chess.com INT"]
+[Date "2021.06.22"]
+[Round "2"]
+[White "Nguyen,Quoc Hy"]
+[Black "Manukian,Ar"]
+[Result "1-0"]
+[WhiteElo "2242"]
+[BlackElo "2196"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Nce4
+9.Qb2 d5 10.f3 Nd6 11.c5 Nc4 12.Qc2 b6 13.e4 bxc5 14.Bxc4 dxc4 15.Ne2 cxb4
+16.axb4 O-O 17.Be3 a5 18.O-O Qd3 19.Qxd3 cxd3 20.Nf4 Ba6 21.Rxa5 Bc4 22.Rc1 Rxa5
+23.bxa5 Ba6 24.Rc6 Ra8 25.Rd6 h6 26.Nxd3 Bxd3 27.Rxd3 Rxa5 28.Rd8+ Kh7 29.Bd4 e5
+30.Bc3 Rc5 31.Bb4 Rc1+ 32.Kf2 Rc2+ 33.Kf1 Nh5 34.Bd2 g5 35.g3 Ng7 36.Rd7 Kg6
+37.Ke2 Ne6 38.Kd3 Ra2 39.Rd6 Kf6 40.h4 Ke7 41.Rb6 Ra3+ 42.Bc3 gxh4 43.gxh4 Nf4+
+44.Kc4 Ra1 45.Bxa1  1-0
+
+[Event "Titled Tuesday 22nd June"]
+[Site "chess.com INT"]
+[Date "2021.06.22"]
+[Round "8"]
+[White "Baskin,R"]
+[Black "Kanyamarala,Trisha"]
+[Result "1-0"]
+[WhiteElo "2390"]
+[BlackElo "2180"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 h6 7.Bf4 d6 8.O-O-O a6
+9.Na4 Nbd7 10.Nxc5 dxc5 11.Bd6 b5 12.g4 Bb7 13.Rg1 Ne4 14.g5 Nxd6 15.Rxd6 Qe7
+16.Qd2 hxg5 17.Nxg5 Ne5 18.e3 bxc4 19.f4 Nd3+ 20.Bxd3 Qxd6 21.Bxc4 Qxd2+
+22.Kxd2 Rxh2+ 23.Kc3 Ke7 24.Nxe6 Rg2 25.Rxg2 Bxg2 26.Nxc5 a5 27.a3 Kd6 28.b4 axb4+
+29.axb4 Ra3+ 30.Kd4 f6 31.e4 Ra1 32.e5+ fxe5+ 33.fxe5+ Ke7 34.b5 Rd1+ 35.Kc3 Re1
+36.Nd3 Rb1 37.Nf4 Be4 38.Kd4 Bh1 39.Ng6+ Kd8 40.e6 Rd1+ 41.Kc5 Be4 42.Ne5 Ke7
+43.b6 Bg2 44.Nc6+ Bxc6 45.Kxc6 Rb1 46.b7 Kd8 47.Bb5 Rc1+ 48.Kb6 Rc8 49.e7+ Kxe7
+50.bxc8=Q  1-0
+
+[Event "Titled Tuesday 22nd June"]
+[Site "chess.com INT"]
+[Date "2021.06.22"]
+[Round "9"]
+[White "Holt,C"]
+[Black "Andreikin,D"]
+[Result "1-0"]
+[WhiteElo "2549"]
+[BlackElo "2724"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Nce4
+9.Qb2 d5 10.c5 d4 11.e3 e5 12.Bb5+ Bd7 13.Bxd7+ Qxd7 14.Nf3 O-O-O 15.Nxe5 Qd5
+16.exd4 Qxd4 17.Qxd4 Rxd4 18.Be3 Rd5 19.Nxf7 Rf8 20.Nd6+ Nxd6 21.cxd6 Ng4
+22.O-O Nxe3 23.fxe3 Re8 24.Rac1+ Kd8 25.Rf7 Rxe3 26.Rxg7 b5 27.Rxa7 h5 28.d7 Rxd7
+29.Rxd7+ Kxd7 30.Rc5 h4 31.Rxb5 Rxa3 32.Rh5 Ra1+ 33.Kf2 Ra2+ 34.Kf3 Ra3+
+35.Kg4 Rb3 36.Rxh4 Ke6 37.Kg5 Rb2 38.Rg4  1-0
+
+[Event "Titled Tuesday 22nd June"]
+[Site "chess.com INT"]
+[Date "2021.06.22"]
+[Round "9"]
+[White "Prado Lobo,Jonas"]
+[Black "Ziatdinov,R"]
+[Result "1-0"]
+[WhiteElo "2290"]
+[BlackElo "2213"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 O-O 7.Bg5 Nc6 8.e3 h6
+9.Bh4 Be7 10.Be2 a6 11.O-O Qc7 12.Rfd1 d6 13.Rac1 b6 14.Bxf6 Bxf6 15.Nd5 Qd8
+16.Nxf6+ gxf6 17.Nd4 Nxd4 18.Rxd4 Bb7 19.Rcd1 Qc7 20.Bg4 f5 21.Bxf5 exf5
+22.Qxf5 Qe7 23.Rg4+ Kh8 24.Qf4 Kh7 25.Rxd6 f6 26.Qf5+ Kh8 27.Rd7  1-0
+
+[Event "Titled Tuesday 22nd June"]
+[Site "chess.com INT"]
+[Date "2021.06.22"]
+[Round "9"]
+[White "Grigoryan,Meri"]
+[Black "Kalashian,D"]
+[Result "0-1"]
+[WhiteElo "2044"]
+[BlackElo "2398"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 O-O 6.Nf3 d5 7.a3 cxd4 8.axb4 dxc3
+9.bxc3 Qc7 10.c5 e5 11.h3 a5 12.Bb2 Nc6 13.Be2 e4 14.Nd4 Nxd4 15.cxd4 Be6
+16.b5 Nd7 17.O-O f5 18.Rfc1 f4 19.c6 fxe3 20.fxe3 Qg3 21.cxd7 Qxe3+ 22.Kh1 Bxd7
+23.Bf1 Rf2 24.Qc5 Be6 25.Qe7 Bxh3 26.Qh4 Bxg2+ 27.Bxg2 Rxb2 28.Re1 Qf2 29.Qxf2 Rxf2
+30.Rf1 Rd2 31.Bh3 Rxd4 32.Be6+ Kh8 33.Rac1 a4 34.Rc5 e3 35.Rxd5 Re4 36.Bf5 Re7
+37.Re1 a3 38.Rdd1 a2 39.Ra1 g6 40.Bg4 Re5 41.Re2 Kg7 42.Kg2 h5 43.Bf3 Rxb5
+44.Raxa2 Rxa2 45.Rxa2 Re5  0-1
+
+[Event "Magistral O Teu Xacobeo"]
+[Site "Lugo ESP"]
+[Date "2021.06.22"]
+[Round "6.1"]
+[White "Prado Acebo,Ines"]
+[Black "Hernandez,Crist COL"]
+[Result "0-1"]
+[WhiteElo "2135"]
+[BlackElo "2374"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 b6
+9.O-O Bb7 10.Nb5 Be4 11.Qd1 Nb7 12.a3 Be7 13.Nc3 Bc6 14.Bf4 a6 15.b4 Rc8
+16.Rc1 h6 17.h3 d6 18.Qb3 Qe8 19.Be3 Bd8 20.Qb1 e5 21.Rfd1 Qe6 22.Nd5 b5
+23.Nxf6+ Bxf6 24.cxb5 Bxb5 25.Qe4 Rxc1 26.Bxc1 d5 27.Qxd5 Rd8 28.Ng5  0-1
+
+[Event "I Llinars Int Open 2021"]
+[Site "Llinars del Valles ESP"]
+[Date "2021.06.28"]
+[Round "4.8"]
+[White "Parra Ordorica,Arnau"]
+[Black "Parra Ordorica,Gorka"]
+[Result "1-0"]
+[WhiteElo "1797"]
+[BlackElo "1897"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Na6
+9.g3 Nc7 10.Bg2 d5 11.Bb2 Bd7 12.Nh3 Rc8 13.c5 Ba4 14.O-O O-O 15.Rac1 Nb5
+16.Qd3 h6 17.Nf4 Qe7 18.e3 Rfd8 19.Qd2 Rd7 20.Nd3 Ne4 21.Qe2 Rdc7 22.Be5 Rc6
+23.Bxe4 dxe4 24.Nb2 Bb3 25.Qxb5 f6 26.Bd6 Qd7 27.Rc3 Bd5 28.Qa4 e5 29.Rd1 Qe6
+30.Qc2 Qf7 31.b5 R6c7 32.Bxc7 Rxc7 33.b6 axb6 34.cxb6 Rxc3 35.Qxc3 Be6 36.Qc7 Qh5
+37.Qxb7 Qf3 38.Rd7 Bxd7 39.Qxd7 Qe2 40.b7 Qxb2 41.Qc8+ Kh7 42.b8=Q Qa1+ 43.Kg2 Qd1
+44.Qf5+  1-0
+
+[Event "Titled Tuesday 29th June"]
+[Site "chess.com INT"]
+[Date "2021.06.29"]
+[Round "1"]
+[White "Sahil,Tic"]
+[Black "Jakubowski,K"]
+[Result "0-1"]
+[WhiteElo "2201"]
+[BlackElo "2497"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bg5 Bb7
+9.e3 h6 10.Bh4 Be7 11.Be2 d6 12.O-O Nbd7 13.b3 a6 14.Qb2 Qc7 15.Rfd1 Rfe8
+16.Rac1 Rac8 17.Bg3 Qb8 18.Rd2 Nh5 19.Rcd1 Nxg3 20.hxg3 Nf6 21.Bd3 Qa8 22.Be2 Bf8
+23.b4 Nd7 24.Qa1 Rc7 25.Rc2 Rec8 26.Rdc1 Be7 27.Qb2 Bf6 28.Qb3 g6 29.Rd1 d5
+30.Rdc1 dxc4 31.Qa2 Bg7 32.a4 Nf6 33.b5 a5 34.Nd1 Bd5 35.Nc3 Rc5 36.Nxd5 exd5
+37.Nd4 Nd7 38.Nc6 Kh7 39.Bf3 Ne5 40.Nxe5 Bxe5 41.Rd1 Rd8 42.Qb1 Rd6 43.Qc1 Qd8
+44.Qd2 Kg7 45.Qe1 h5 46.Rcd2 Bc3 47.Qe2 Bxd2 48.Qxd2 Qf6 49.g4 hxg4 50.Bxg4 c3
+51.Qc2 d4 52.exd4 Rxd4 53.Bf3 Rxd1+ 54.Bxd1 Qd4 55.Bf3 Qd2 56.Be4 Qxc2 57.Bxc2 Rc4
+58.Kf1 Rd4 59.Ke1 Rd2 60.Be4 Ra2 61.Kd1 Rxa4 62.f3 Ra2 63.g4 Rd2+ 64.Kc1 a4
+65.g5 a3 66.Kb1 Kf8 67.f4 Ke7 68.f5 gxf5 69.Bxf5 Kd6 70.g6 fxg6 71.Bxg6 Kc5
+72.Bf5 Kb4 73.Be4 a2+ 74.Ka1 Ka3 75.Bb1 axb1=Q+ 76.Kxb1 Kb3 77.Kc1 Rd3  0-1
+
+[Event "Titled Tuesday 29th June"]
+[Site "chess.com INT"]
+[Date "2021.06.29"]
+[Round "2"]
+[White "Quirke,J"]
+[Black "Veiga,Emerson de Sousa"]
+[Result "0-1"]
+[WhiteElo "2107"]
+[BlackElo "2072"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.Nf3 O-O 7.e3 Bxc5 8.Be2 a6
+9.O-O b6 10.b3 Bb7 11.Bb2 Nc6 12.Rad1 Rad8 13.a3 d5 14.cxd5 exd5 15.b4 Bd6
+16.b5 Ne5 17.bxa6 Nxf3+ 18.gxf3 Bxh2+ 19.Kg2 Ba8 20.Qb3 Be5 21.Nb5 Qe7 22.Rg1 Bxb2
+23.Qxb2 Qe6 24.Kf1 Qf5 25.Rd4 Nh5 26.Rdg4 g6 27.Nd4 Qf6 28.f4 Ng7 29.Qb1 Rc8
+30.Rg5 Rc5 31.f5 Rfc8 32.Bd1 Rc1 33.Qd3 Qe5 34.Ke2 f6 35.Rxg6 hxg6 36.Rxg6 Kf7
+37.f4 Qe4 38.Qxe4 dxe4 39.Bb3+ Kf8 40.Rh6 R1c3 41.Rh8+ Ke7 42.Rh7 Kf8 43.Rh8+ Ke7
+44.Rh7 Rxb3 45.Rxg7+ Kd6 46.Nxb3 Bd5 47.Nd4 Rc3 48.Rg6 Ke7 49.Rg7+ Bf7 50.Ne6 Rxa3  0-1
+
+[Event "Titled Tuesday 29th June"]
+[Site "chess.com INT"]
+[Date "2021.06.29"]
+[Round "6"]
+[White "Havanecz,B"]
+[Black "Skliarov,V"]
+[Result "0-1"]
+[WhiteElo "2257"]
+[BlackElo "2383"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Nf3 Nxc5 7.g3 Nce4 8.Bg2 Qa5
+9.Bd2 Nxd2 10.Nxd2 Bxc3 11.bxc3 O-O 12.Rb1 Rb8 13.O-O b6 14.Nb3 Qh5 15.Rfd1 Ba6
+16.Nd2 Qxe2 17.Qa4 Bb7 18.Nf1 Bxg2 19.Kxg2 Ne4  0-1
+
+[Event "Mulhouse IM 2021"]
+[Site "Mulhouse FRA"]
+[Date "2021.06.30"]
+[Round "6.2"]
+[White "Flear,G"]
+[Black "Lerch,Pa"]
+[Result "1/2-1/2"]
+[WhiteElo "2433"]
+[BlackElo "2354"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bf4 Bb7
+9.Rd1 Nc6 10.e3 Nh5 11.Bg3 Be7 12.Be2 h6 13.Bd6 Rc8 14.Qd2 Na5 15.Bxe7 Qxe7
+16.Qxd7 Qxd7 17.Rxd7 Nf6 18.Rd4 Bxf3 19.gxf3 e5 20.Rd6 Nxc4 21.Bxc4 Rxc4
+22.O-O Rfc8 23.Rfd1 Kf8 24.R1d2 Ke7 25.Kg2 R4c5 26.Ne4 Nxe4 27.Rd7+ Ke8 28.fxe4 R5c7
+29.R7d5 Rc5 30.Rd7 R5c7 31.R7d5 Rc5  1/2-1/2
+
+[Event "Ceske Budejovice Open"]
+[Site "Ceske Budejovice CZE"]
+[Date "2021.07.02"]
+[Round "2.45"]
+[White "Richterova,Julie"]
+[Black "Karimi,F"]
+[Result "1/2-1/2"]
+[WhiteElo "1815"]
+[BlackElo "2054"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.Nf3 O-O 6.e4 cxd4 7.Nxd4 d5 8.e5 Ng4
+9.Bf4 f6 10.Nf3 fxe5 11.Bxe5 Rxf3 12.gxf3 Nxe5 13.O-O-O Qg5+ 14.Kb1 Nbc6
+15.h4 Qf4 16.cxd5 exd5 17.Nxd5 Qf5 18.Nxb4 Nxb4 19.Rd8+ Kf7 20.Qe4 Nbc6 21.Rd1 Be6
+22.Ka1 Qxf3 23.Bg2 Qxe4 24.Bxe4 h5 25.f3 a5 26.Rhg1 a4 27.Rg2 g6 28.Rdg1 Rg8
+29.Rc2 Kf6 30.f4 Nc4 31.Rcg2 Bg4 32.Bd5 Be6 33.Bxe6 Kxe6 34.Rxg6+ Rxg6 35.Rxg6+ Kf5
+36.Rg5+ Kxf4 37.Rxh5 Nd4 38.Rh7 Nd2 39.a3 N4b3+ 40.Ka2 Nc1+ 41.Ka1  1/2-1/2
+
+[Event "Heldur Valgmae Mem 2021"]
+[Site "Viljandi EST"]
+[Date "2021.07.03"]
+[Round "5.6"]
+[White "Dubrovin,R"]
+[Black "Chukavin,Kirill"]
+[Result "1/2-1/2"]
+[WhiteElo "2219"]
+[BlackElo "2384"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bg5 h6
+9.Bh4 Bb7 10.e4 Be7 11.Be2 Nh5 12.Bxe7 Qxe7 13.O-O Nf4 14.Rfe1 f5 15.Bf1 Na6
+16.g3 fxe4 17.Nxe4 Nh5 18.Nh4 Nf4 19.Rad1 Rad8 20.Nd6 Ba8 21.b4 Nc7 22.Rd2 Ne8
+23.Nxe8 Rdxe8 24.Ng6 Nxg6 25.Qxg6 Rf6 26.Qd3 d5 27.cxd5 Bxd5 28.Bg2 Bxg2
+29.Kxg2 a5 30.b5 Ref8 31.Ree2 Qb7+ 32.Kg1 Rf3 33.Re3 R3f6 34.Qc4 Qf7 35.Ree2 Kh8
+36.Qc6 e5 37.Qd5 Qh5 38.Qxe5 Rf5 39.Qe7 Qf3 40.Rd8 Rxd8 41.Qxd8+ Kh7 42.Qd2 Rxb5
+43.Qc2+ Qf5 44.Qxf5+ Rxf5 45.Rb2 b5 46.f4 Rc5 47.Kf2 Kg6 48.Ke3  1/2-1/2
+
+[Event "Terme Krka ch-SLO Open"]
+[Site "Otocec SLO"]
+[Date "2021.07.04"]
+[Round "2.17"]
+[White "Rozman,Roman"]
+[Black "Zupancic,J"]
+[Result "0-1"]
+[WhiteElo "1777"]
+[BlackElo "2250"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 Nc6 6.Nf3 d6 7.Bd3 O-O 8.O-O Qe7
+9.a3 Ba5 10.d5 Bxc3 11.dxc6 Ba5 12.cxb7 Bxb7 13.Bd2 Bxd2 14.Nxd2 a5 15.b3 Bc6
+16.Ne4 Nd7 17.Nc3 f5 18.f4 Nf6 19.a4 g6 20.Rad1 Rfd8 21.e4 Kh8 22.h3 Rab8
+23.Rde1 Qf7 24.Rd1 Qb7 25.exf5 gxf5 26.Nb5 Rg8 27.Rf2 Bxg2 28.Kh2 Bxh3 29.Qb2 Qg7
+30.Kh1 Bg4 31.Be2 Ne4 32.Bxg4 Nxf2+ 33.Qxf2 Qxg4 34.Qb2+ Rg7 35.Nxd6 Qxd1+  0-1
+
+[Event "Serbia Chess Open 2021"]
+[Site "Belgrade SRB"]
+[Date "2021.07.07"]
+[Round "8.9"]
+[White "Aditya,Mittal"]
+[Black "Postny,E"]
+[Result "1-0"]
+[WhiteElo "2438"]
+[BlackElo "2578"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Nc6 7.a3 Bxc5 8.Bg5 h6
+9.Bh4 Be7 10.e3 b6 11.Be2 Bb7 12.O-O d6 13.Rfd1 Qb8 14.b4 a6 15.Na4 Qc7 16.Rac1 Rad8
+17.b5 Nb8 18.Qb2 Ba8 19.Qd4 axb5 20.cxb5 Qa7 21.Nxb6 Bxf3 22.Bxf3 Qxa3 23.Ra1 Qc5
+24.Qxc5 dxc5 25.Nc4 Rxd1+ 26.Rxd1 Rd8 27.b6 Kf8 28.Bg3 Rxd1+ 29.Bxd1 Na6
+30.Ba4 Ne4 31.Bb5 Nxg3 32.Bxa6  1-0
+
+[Event "34th Leon Blitz Final"]
+[Site "chess.com INT"]
+[Date "2021.07.07"]
+[Round "1.1"]
+[White "Holt,C"]
+[Black "Martinez Alcantara,Jose Eduardo"]
+[Result "1-0"]
+[WhiteElo "2549"]
+[BlackElo "2620"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 d5 8.Bg5 Nc6
+9.e3 d4 10.Bxf6 Qxf6 11.Ne4 Qf5 12.b4 Bb6 13.c5 Bc7 14.exd4 Rd8 15.Rd1 Qg6
+16.Be2 Ne7 17.O-O f6 18.Bd3 Qh6 19.Nc3 Bd7 20.Rfe1 Kh8 21.Bc4 Bc6 22.Ne4 Nd5
+23.b5 Be8 24.Ng3 Bg6 25.Bd3 Nf4 26.Bxg6 hxg6 27.Ne2 Nd5 28.Nc3 Nf4 29.g3 Qh3
+30.Nh4 Ba5 31.Re3 Qg4 32.Ne2 g5 33.Ng2 Nh3+ 34.Kf1 Rac8 35.Qe4 Qxe4 36.Rxe4 e5
+37.Ne3 g6 38.Kg2 exd4 39.Rexd4 Rxd4 40.Nxd4 g4 41.Nb3 Bc3 42.Nxg4 Ng5 43.Rd3 Ne4
+44.f3 f5 45.fxe4  1-0
+
+[Event "120th ch-SUI 2021"]
+[Site "Flims SUI"]
+[Date "2021.07.09"]
+[Round "2.1"]
+[White "Arcuti,Davide"]
+[Black "Hakimifard,G"]
+[Result "1-0"]
+[WhiteElo "2357"]
+[BlackElo "2270"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bg5 Bb7
+9.e4 h6 10.Bh4 Be7 11.Rd1 Nh5 12.Bxe7 Qxe7 13.Qd2 f5 14.Bd3 Na6 15.Ne5 fxe4
+16.Bxe4 Bxe4 17.Nxe4 Nc5 18.Nxc5 Qxc5 19.Qe3 d6 20.Qxc5 dxc5 21.g3 Rad8 22.Ke2 Nf6
+23.f3 a6 24.Nc6 Rde8 25.Ne5 Rd8 26.Rhe1 b5 27.Nc6 Rde8 28.Rc1 Nd7 29.Red1 Rf7
+30.Rd6 e5 31.Na5 Ref8 32.Rcd1 Nb8 33.Rd8 Re7 34.R1d5 e4 35.f4 bxc4 36.Rxf8+ Kxf8
+37.Rxc5 Nd7 38.Rxc4 Nb6 39.Rc6 Na4 40.Rc8+ Kf7 41.Nc6 Re8 42.Ne5+ Kf8 43.Rxe8+ Kxe8
+44.b3 Nc3+ 45.Ke3 Ke7 46.Nc4  1-0
+
+[Event "San Fermin Masters Final"]
+[Site "chess24.com INT"]
+[Date "2021.07.10"]
+[Round "1.8"]
+[White "Abdusattorov,Nodirbek"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2634"]
+[BlackElo "2782"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 Nce4
+9.O-O Nxc3 10.bxc3 Be7 11.e4 d6 12.e5 dxe5 13.Nxe5 Qc7 14.Re1 Bd6 15.Qe2 Nd7
+16.Bf4 Bxe5 17.Bxe5 Qxe5 18.Qxe5 Nxe5 19.Rxe5 Rb8 20.Rb1 b6 21.c5 f6 22.Re3 e5
+23.c6 Be6 24.f4 Rbd8 25.fxe5 f5 26.c4 f4 27.gxf4 Rxf4 28.Bd5 Bxd5 29.cxd5 Rxd5
+30.e6 Rf8 31.e7 Re8 32.Rc1 Rc5 33.Rxc5 bxc5 34.c7 Kf7 35.Rf3+  1-0
+
+[Event "8th Olkhovsky Mem 2021"]
+[Site "Vinnytsia UKR"]
+[Date "2021.07.10"]
+[Round "5.2"]
+[White "Borsuk,K"]
+[Black "Skliarov,V"]
+[Result "1-0"]
+[WhiteElo "2413"]
+[BlackElo "2383"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Na4
+9.Qc2 b5 10.cxb5 Nb6 11.Bf4 Bb7 12.Qc7 Nfd5 13.Qxd8+ Kxd8 14.Bd2 f5 15.e3 Rc8
+16.Nf3 Ke7 17.Nd4 Rhf8 18.Nb3 Na4 19.f3 g5 20.Rc1 Rxc1+ 21.Nxc1 g4 22.Bd3 gxf3
+23.gxf3 Ndc3 24.Rf1 Bd5 25.Bxc3 Nxc3 26.Kd2 Na4 27.Ne2 Rg8 28.Rf2 Nb2 29.Kc2 Nxd3
+30.Kxd3 e5 31.f4 Be4+ 32.Kd2 exf4 33.exf4 Kf6 34.Ng3 Bd5 35.Ke3 Bc4 36.a4 Re8+
+37.Kd4 d5 38.Rg2 Re1 39.Nh5+ Ke6 40.Rg7 Re4+ 41.Kc5 Bf1 42.Rxa7 Rc4+ 43.Kb6 d4
+44.Ng7+ Kf6 45.Nh5+ Ke6 46.Ng3 Bg2 47.Nh5 d3 48.Ng7+ Kf6 49.Rd7 Rc2 50.Ne8+ Ke6
+51.Rxd3 Be4 52.Rd4 Rxh2 53.a5 h5 54.Nc7+ Ke7 55.Nd5+ Ke6 56.Nc7+ Ke7 57.a6 h4
+58.a7 Ra2 59.Rxe4+ fxe4 60.Na6  1-0
+
+[Event "Titled Tuesday 13th July"]
+[Site "chess.com INT"]
+[Date "2021.07.13"]
+[Round "2"]
+[White "Grigoryan,Meri"]
+[Black "Derraugh,Geordie"]
+[Result "0-1"]
+[WhiteElo "2044"]
+[BlackElo "2169"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 cxd4 6.exd4 Nc6 7.Nf3 d5 8.cxd5 Nxd5
+9.Bd2 O-O 10.Bd3 h6 11.O-O Nde7 12.Be3 Nf5 13.Rad1 Qf6 14.Ne4 Qe7 15.a3 Ba5
+16.b4 Bb6 17.Nc5 Rd8 18.Bxf5 exf5 19.d5 Ne5 20.Nxe5 Qxe5 21.Qc4 g5 22.Rfe1 f4
+23.Bc1 Qg7 24.d6 Bg4 25.Rd2 Rac8 26.Bb2 Qh7 27.Qd4 Rc6 28.Qf6 Rf8 29.h3 Bh5
+30.Nd7 Bd8 31.Qd4 f3 32.Nxf8 Kxf8 33.d7 Re6 34.Rxe6 fxe6 35.Qh8+ Qxh8 36.Bxh8 fxg2
+37.Kxg2 Ke7 38.Be5 Bg6 39.Kg3 Be4 40.f3 Bc6 41.f4 Bxd7 42.fxg5 hxg5 43.Kg4 Ke8
+44.h4 gxh4 45.Bf4 Be7 46.Kh5 Bf6 47.Bg5 Bc3 48.Re2 h3 49.Kh4 e5 50.Bf6 Kf7
+51.Bxe5 Bxe5 52.Rxe5 Be6 53.Rc5 Kf6 54.Rc7 Bd5 55.Kxh3 Ke5 56.Kg3 Kd4 57.Kf4 Bc6
+58.Re7 Kc4 59.Rc7 Kb3 60.b5 Bh1 61.Rh7 Bd5 62.Rh3+ Ka4 63.Ke5 Bc4 64.Rh4 Kxb5
+65.a4+ Kc5 66.Rh7 Ba6  0-1
+
+[Event "Titled Tuesday 13th July"]
+[Site "chess.com INT"]
+[Date "2021.07.13"]
+[Round "4"]
+[White "Kim,Se"]
+[Black "Shkapenko,P"]
+[Result "1-0"]
+[WhiteElo "2295"]
+[BlackElo "2424"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.Bd3 b6
+9.O-O Bb7 10.Ne4 Be7 11.b3 d6 12.Bb2 Nbd7 13.Rac1 Rc8 14.Nxf6+ Nxf6 15.e4 O-O
+16.e5 dxe5 17.Nxe5 h6 18.Qe2 Ba8 19.f4 Rcd8 20.f5 exf5 21.Rxf5 Rfe8 22.Rcf1 Rxd3
+23.Qxd3 Be4 24.Qg3 Bxf5 25.Rxf5 Ne4 26.Qf4 Bc5+ 27.Kf1 Ng5 28.h4 Qd6 29.Qg4 Qd2
+30.Qe2 Qxe2+ 31.Kxe2 Ne6 32.Kd3 f6 33.Ng6 Rd8+ 34.Kc2 Bd4 35.Ne7+ Kf7 36.Nd5 Bxb2
+37.Kxb2 Nc5 38.Kc3 Re8 39.Kb4 Re2 40.a4 Rb2 41.Rf3 Rxg2 42.Kb5 Rb2 43.b4 Nd3
+44.Rxd3 f5 45.Kc6 g5 46.hxg5 hxg5 47.c5 bxc5 48.bxc5 f4 49.Kd6 Kg6 50.c6 Rb8
+51.c7 Re8 52.Kd7 Rh8 53.Ne7+ Kf6 54.c8=Q Rxc8 55.Nxc8 g4 56.Nd6 Ke5 57.Nc4+ Ke4
+58.Rd6 g3 59.Rg6 Kf5 60.Rg8 Ke4 61.Nd6+ Kf3 62.Nf5 Kf2 63.Nh4 f3 64.Nxf3 Kxf3
+65.Kc7 g2 66.Kb7 Kf2 67.Kxa7 g1=Q 68.Rxg1 Kxg1 69.a5 Kf2 70.a6 Ke3 71.Kb7 Kd4
+72.a7  1-0
+
+[Event "Titled Tuesday 13th July"]
+[Site "chess.com INT"]
+[Date "2021.07.13"]
+[Round "9"]
+[White "Quirke,J"]
+[Black "Shafigullina,Zarina"]
+[Result "0-1"]
+[WhiteElo "2120"]
+[BlackElo "2244"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 Nc6 8.Bf4 Be7
+9.Rd1 d6 10.h3 a6 11.e3 e5 12.Bg5 Be6 13.Be2 Rc8 14.O-O h6 15.Bxf6 Bxf6 16.Bd3 Na5
+17.b3 b5 18.Ne4 bxc4 19.bxc4 d5 20.Nxf6+ Qxf6 21.Qa4 Nxc4 22.Bxc4 dxc4 23.Qxa6 c3
+24.Rc1 Rfd8 25.Kh2 c2 26.Qa5 e4 27.Nd4 Bc4 28.Qf5 Bxf1  0-1
+
+[Event "Titled Tuesday 13th July"]
+[Site "chess.com INT"]
+[Date "2021.07.13"]
+[Round "11"]
+[White "Quirke,J"]
+[Black "Von Herman,B"]
+[Result "1-0"]
+[WhiteElo "2120"]
+[BlackElo "1991"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Nc6 6.Nf3 Bxc5 7.a3 a6 8.Bf4 O-O
+9.Rd1 Be7 10.h3 d6 11.e3 Qc7 12.Be2 h6 13.O-O b6 14.Rd2 e5 15.Bh2 Be6 16.Nd5 Bxd5
+17.cxd5 Nxd5 18.Rxd5 Rac8 19.e4 b5 20.Qd2 Rfd8 21.Rd1 Re8 22.Bg3 Bf8 23.Rc1 Qb6
+24.Rc2 Rcd8 25.Qc1 Ne7 26.Rd1 g6 27.Bh4 Rd7 28.Bxe7 Rdxe7 29.Qd2 Re6 30.Rdc1 Kg7
+31.Qd5 b4 32.Rc6 Qb8 33.Bxa6 bxa3 34.bxa3 Qb2 35.R6c3 Rf6 36.Bb5 Rb8 37.a4 h5
+38.Rc7 g5 39.Qd2 Qxd2 40.Nxd2 g4 41.hxg4 hxg4 42.Nc4 Kg6 43.Ne3 Bh6 44.R1c6 Bxe3
+45.fxe3 Re6 46.Rd7 Rh8 47.Rdxd6 Kf6 48.Rxe6+ fxe6 49.a5 Rd8 50.Kh2 Rb8 51.Rb6 Ra8
+52.a6 Ra7 53.Rb7 Ra8 54.a7 Rh8+ 55.Kg3 Kg5 56.Bc6 Rc8 57.Rc7 Rh8 58.a8=Q  1-0
+
+[Event "120th ch-SUI 2021"]
+[Site "Flims SUI"]
+[Date "2021.07.13"]
+[Round "6.3"]
+[White "Baenziger,Fabian"]
+[Black "Hakimifard,G"]
+[Result "1-0"]
+[WhiteElo "2392"]
+[BlackElo "2270"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 Nce4
+9.O-O Nxc3 10.bxc3 Be7 11.e4 d6 12.e5 dxe5 13.Nxe5 Qc7 14.Qe2 Nd7 15.Bf4 Nxe5
+16.Bxe5 Bd6 17.Rfe1 Rb8 18.Rad1 Bxe5 19.Qxe5 Qxe5 20.Rxe5 b6 21.c5 f6 22.cxb6 axb6
+23.Re3 Kf7 24.f4 b5 25.Rd6 Ke7 26.Red3 h6 27.Kf2 g5 28.Ke3 gxf4+ 29.gxf4 Rg8
+30.Bf3 b4 31.c4 f5 32.c5 Rb5 33.Rc6 Kf6 34.Rc7 Rb8 35.Ra7 Rb5 36.Rc7 Rb8
+37.Rh7 Rb5 38.c6 Kg6 39.Ra7 Kf6 40.Bh5 Rg7 41.Rxg7 Kxg7 42.Rd8 b3 43.axb3 Rxb3+
+44.Kd4 Ba6 45.Rd7+ Kf8 46.Ke5 Rb8 47.c7 Rc8 48.Kf6  1-0
+
+[Event "FIDE World Cup Women 2021"]
+[Site "Krasnaya Polyana RUS"]
+[Date "2021.07.16"]
+[Round "2.2"]
+[White "Girya,O"]
+[Black "Garifullina,Leya"]
+[Result "0-1"]
+[WhiteElo "2448"]
+[BlackElo "2390"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 Nc6 8.e3 a5
+9.Be2 d5 10.O-O d4 11.exd4 Bxd4 12.Nb5 Bc5 13.Bf4 Qe7 14.Bd3 h6 15.Rfe1 Nh5
+16.Bd2 b6 17.Bc3 Bb7 18.Rad1 Rad8 19.Qc1 Rd7 20.Be2 Rxd1 21.Rxd1 e5 22.Bf1 Qf6
+23.b4 axb4 24.axb4 Nxb4 25.Bxe5 Qg6 26.Qc3 Re8 27.Bd6 Rd8 28.Ne5 Qg5 29.Re1 Rxd6
+30.Nxd6 Bxd6 31.Nf3 Bxf3 32.Qxf3 Nf6 33.Rd1 Bc5 34.h3 Qe5 35.Rd8+ Kh7 36.Bd3+ Nxd3
+37.Qxd3+ Qe4 38.Qf1 Qf5 39.Rd3 Bxf2+ 40.Kh1 Ne4 41.g4 Qg6 42.Kg2 f5 43.Qe2 h5
+44.Rd5 Bh4 45.Qf3 fxg4 46.Qf5 Nf6 47.Rb5 Qxf5 48.Rxf5 Kg6 49.hxg4 Nxg4 50.Rf3 Bf2
+51.Kh3 Bc5 52.Kh4 Kh6 53.Rf1 g5+ 54.Kg3 Kg6 55.Ra1 Ne3 56.Rc1 Kf5 57.Kf3 h4  0-1
+
+[Event "32nd Czech Open E 2021"]
+[Site "Pardubice CZE"]
+[Date "2021.07.17"]
+[Round "5.3"]
+[White "Gnojek,Petr"]
+[Black "Bauer,Ji"]
+[Result "1/2-1/2"]
+[WhiteElo "2267"]
+[BlackElo "2087"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Nf3 Nxc5 7.a3 Bxc3+ 8.Qxc3 Nce4
+9.Qc2 b6 10.e3 Bb7 11.h3 Rc8 12.b4 O-O 13.Be2 d5 14.Qb3 dxc4 15.Bxc4 Bd5
+16.Bxd5 Qxd5 17.Qxd5 Nxd5  1/2-1/2
+
+[Event "Najdorf Mem Open A 2021"]
+[Site "Warsaw POL"]
+[Date "2021.07.18"]
+[Round "9.11"]
+[White "Deszczynski,A"]
+[Black "Rudzinska,Michalina"]
+[Result "1-0"]
+[WhiteElo "2311"]
+[BlackElo "2238"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bg5 Bb7
+9.e3 Be7 10.Be2 d6 11.O-O Nbd7 12.Rfd1 a6 13.Bf4 e5 14.Bg5 Qc7 15.Rac1 Rac8
+16.Nd2 Rfe8 17.Bxf6 Nxf6 18.Qd3 Qd7 19.Bf3 Bxf3 20.Nxf3 Rc7 21.Ng5 h6 22.Nge4 Nxe4
+23.Qxe4 Bf8 24.Nd5 Rb7 25.b4 f5 26.Qd3 Qf7 27.a4 g5 28.e4 f4 29.Ra1 a5 30.bxa5 bxa5
+31.Rab1 Reb8 32.Rb5 g4 33.Rdb1 Kg7 34.Qb3 Rxb5 35.cxb5 Be7 36.Rc1 Bd8 37.Rc6 Qg6
+38.Qc4 h5 39.Qd3 h4 40.h3 gxh3 41.Qxh3 Rb7 42.f3 Kh6 43.Qg4 Qxg4 44.fxg4 Kg5
+45.Rxd6 Be7 46.Rc6 Kxg4 47.Kf2 h3 48.gxh3+ Kxh3 49.Kf3 Bh4 50.Rc1 Kh2 51.Rc7 Rb8
+52.Rh7 Kh3 53.Rh5 Rg8 54.Rxe5 Rg3+ 55.Kxf4 Rg4+ 56.Kf5 Rg5+ 57.Ke6 Rg1 58.b6 Bg3
+59.Rg5 Ra1 60.e5 Kh4 61.Rxg3 Kxg3 62.Kd6  1-0
+
+[Event "Titled Tuesday 20th July"]
+[Site "chess.com INT"]
+[Date "2021.07.20"]
+[Round "2"]
+[White "Bongo Akanga Ndjila,Barthelemy"]
+[Black "Okike,D"]
+[Result "0-1"]
+[WhiteElo "1803"]
+[BlackElo "2177"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Nc6 6.g3 Qa5 7.Nf3 Qxc5 8.Bg2 Qxc4
+9.O-O O-O 10.Bd2 d5 11.b3 Qa6 12.Rfe1 Bd7 13.a3 Be7 14.b4 Qb6 15.Na4 Qd8
+16.Nc5 b6 17.Nxd7 Qxd7 18.Rac1 Rfc8 19.Qb2 h6 20.Bc3 b5 21.Red1 Qe8 22.e3 a5
+23.bxa5 Nxa5 24.Nd4 Nc4 25.Qxb5 Bxa3 26.Ra1 Rab8 27.Qxe8+ Nxe8 28.e4 Bb2
+29.Bxb2 Nxb2 30.Rdb1 dxe4 31.Bxe4 Nc4 32.Rxb8 Rxb8 33.Nc6 Rb6 34.Ra8 Nd6
+35.Bf3 Kf8 36.Kg2 g6 37.Ra7 Rb2 38.Nd8 Kg8 39.Bc6 Kf8 40.Bxe8 Kxe8 41.Nc6 Kf8
+42.Rd7 Nf5 43.Nd8 Ke8 44.Rd3 e5 45.Nc6 Kf8 46.Nxe5 Re2 47.Nc4 Kg7 48.Kf3 Re7
+49.g4 Nh4+ 50.Kg3 g5 51.f4 f5 52.fxg5 hxg5 53.gxf5 Nxf5+ 54.Kg4 Nh6+ 55.Kxg5 Rf7
+56.h4 Rf5+  0-1
+
+[Event "Titled Tuesday 20th July"]
+[Site "chess.com INT"]
+[Date "2021.07.20"]
+[Round "5"]
+[White "Cramling Bellon,Anna"]
+[Black "Broca Jimenez,F"]
+[Result "1-0"]
+[WhiteElo "2035"]
+[BlackElo "2075"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 O-O 7.Bg5 h6 8.Bh4 Nc6
+9.Rd1 Qe8 10.Bxf6 gxf6 11.e3 b6 12.a3 Bb7 13.b4 Be7 14.Bd3 Ne5 15.Nxe5 fxe5
+16.Bh7+ Kg7 17.Nb5 f5 18.Nc7 Qf7 19.Nxa8 Bxa8 20.Rxd7 Kxh7 21.c5 Bc6 22.Rc7 Bxg2
+23.Rg1 Be4 24.Qc4 Bd5 25.Qa6 f4 26.exf4 exf4 27.Qxa7 bxc5 28.Rxe7  1-0
+
+[Event "Titled Tuesday 20th July"]
+[Site "chess.com INT"]
+[Date "2021.07.20"]
+[Round "5"]
+[White "Obolentseva,Alexandra"]
+[Black "Melikhov,E"]
+[Result "1-0"]
+[WhiteElo "2302"]
+[BlackElo "2292"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Bf4 Nxc5 7.a3 Bxc3+ 8.Qxc3 Nce4
+9.Qc2 Qa5+ 10.b4 Qf5 11.Be3 Ng4 12.Nf3 Nxe3 13.fxe3 Ng3 14.Qxf5 Nxf5 15.Kf2 d6
+16.g3 b6 17.Bg2 Bb7 18.Rhd1 Ke7 19.Nd4 Bxg2 20.Nxf5+ exf5 21.Kxg2 Rhc8 22.Rd4 a5
+23.Rad1 axb4 24.axb4 Ra4 25.b5 Raxc4 26.Rxd6 Re4 27.Rd7+ Kf6 28.R1d6+ Re6
+29.Rxe6+ fxe6 30.Rb7 Rc3 31.Kf2 Rb3 32.Rxb6 h5 33.Rb8 g5 34.b6 Ke5 35.b7 g4
+36.Kg2 Ke4 37.Re8 Rxb7 38.Rxe6+ Kd5 39.Rh6 Ke4 40.Kf2 Rb3 41.Rxh5 Rxe3 42.Rxf5 Rxe2+
+43.Kxe2 Kxf5 44.Kd3 Ke5 45.Ke3 Kf5 46.Kd4 Kf6 47.Ke4 Kg5 48.Ke5  1-0
+
+[Event "Titled Tuesday 20th July"]
+[Site "chess.com INT"]
+[Date "2021.07.20"]
+[Round "8"]
+[White "Bongo Akanga Ndjila,Barthelemy"]
+[Black "Broca Jimenez,F"]
+[Result "0-1"]
+[WhiteElo "1803"]
+[BlackElo "2075"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 h6 7.g3 d5 8.cxd5 Nxd5
+9.Nxd5 Qxd5 10.Bg2 Bb4+ 11.Bd2 Bxd2+ 12.Qxd2 Qxd2+ 13.Nxd2 Nc6 14.O-O Bd7
+15.Nc4 Ke7 16.Rfd1 Rhd8 17.Nd6 Bc8 18.Nxc8+ Raxc8 19.Rac1 Rd6 20.Rxd6 Kxd6
+21.Rd1+ Ke7 22.Rc1 a6 23.b4 Kd6 24.a4 b5 25.axb5 axb5 26.Rc5 Na7 27.Rxc8 Nxc8
+28.Kf1 Nb6 29.e4 e5 30.Ke2 Nc4 31.Kd3 g6 32.Kc3 f5 33.exf5 gxf5 34.Bf1 Kd5
+35.Bg2+ e4 36.Bf1 Nd6 37.h4 h5 38.Be2 e3 39.f3 f4 40.g4 hxg4 41.fxg4 Ne4+
+42.Kc2 Ng3 43.Kd1 Nxe2 44.Kxe2 Ke4 45.h5 f3+ 46.Kd1 Kd3 47.Ke1 f2+ 48.Kf1 Kd2
+49.h6 e2+ 50.Kxf2 e1=Q+ 51.Kf3 Qe3+ 52.Kg2 Qxh6  0-1
+
+[Event "32nd Czech Rapid G1 2021"]
+[Site "Pardubice CZE"]
+[Date "2021.07.22"]
+[Round "6.6"]
+[White "Plat,V"]
+[Black "Michenka,J"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2300"]
+[ECO "E38"]
+
+1.c4 e6 2.d4 Nf6 3.Nc3 Bb4 4.Qc2 c5 5.Nf3 Nc6 6.a3 Bxc3+ 7.Qxc3 Ne4 8.Qd3 Qa5+
+9.Nd2 d5 10.cxd5 exd5 11.f3 Nf6 12.dxc5 O-O 13.Qc3 Qxc3 14.bxc3 Bf5 15.Nb3 Rfe8
+16.Bf4 Nd7 17.Kf2 Nce5 18.g4 Bc2 19.Nd4 Ba4 20.Bxe5 Rxe5 21.f4 Re4 22.Bg2 Rxf4+
+23.Kg3 Rf6 24.Bxd5 Nxc5 25.Rhf1 Rxf1 26.Rxf1 Be8 27.Nf3 Rd8 28.c4 Bc6 29.Bxc6 bxc6
+30.Ne5 Re8 31.Nxc6 Re3+ 32.Rf3 Rxe2 33.Rf5 Ne6 34.Ra5 Re3+ 35.Kf2 Rh3 36.Rxa7  1-0
+
+[Event "Konventum-Hojstrupgaard"]
+[Site "Helsingor DEN"]
+[Date "2021.07.25"]
+[Round "5.7"]
+[White "Ramsdal,Jens Albert"]
+[Black "Petersen,PB"]
+[Result "0-1"]
+[WhiteElo "2282"]
+[BlackElo "2141"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Bf4 Nc6 7.Nf3 O-O 8.e3 d5
+9.Rd1 Qa5 10.Nd2 Bb4 11.Nb3 Bxc3+ 12.Qxc3 Qxc3+ 13.bxc3 b6 14.Bd3 Bb7 15.f3 Rfd8
+16.c5 Nd7 17.Bd6 Rdc8 18.cxb6 axb6 19.Bb1 Nce5 20.Bb4 Nc5 21.Kf2 Na4 22.Rc1 Nb2
+23.Kg3 Nbd3 24.Rcd1 Nb2 25.Rd4 Nbc4 26.Re1 Na3 27.Bxa3 Rxa3 28.Rc1 Nc4 29.f4 Nxe3
+30.Rb4 Ra6 31.Nd4 Nc4 32.a4 Bc6 33.Bc2 Bd7 34.Ra1 Ne3 35.Bd3 Rxc3 36.Bxa6 Nc2+
+37.Kh4 Nxb4 38.Bb5 Bxb5 39.axb5 g6 40.Kg5 Kg7 41.Nxe6+ fxe6 42.Ra7+ Kf8 43.Kf6 Ke8
+44.Rxh7 Re3 45.Re7+ Kd8 46.f5 d4 47.Ra7 gxf5 48.h4 d3 49.Ra4  0-1
+
+[Event "IXX Closed IM Barcelona"]
+[Site "Barcelona ESP"]
+[Date "2021.07.29"]
+[Round "2.5"]
+[White "Villar,Ju"]
+[Black "Garcia Ramos,M"]
+[Result "1-0"]
+[WhiteElo "2131"]
+[BlackElo "2216"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.Be2 a6
+9.b3 b6 10.Bb2 Bb7 11.O-O Ng4 12.Ne4 f5 13.Ng3 Nc6 14.e4 O-O-O 15.a3 h5 16.b4 Bd6
+17.b5 Nce5 18.bxa6 Bc6 19.Nxe5 Nxe5 20.exf5 Ng4 21.Rfd1 exf5 22.c5 Bxc5 23.Bd4 Be4
+24.Qd2 h4 25.Nf1 Nf6 26.Bxc5 bxc5 27.Rac1 Bc6 28.Qb2 d6 29.Ne3 Ne4 30.Nc4 Qa7
+31.Bd3 d5 32.Bxe4 fxe4 33.Na5 Rh6 34.Nb7 Bxb7 35.axb7+ Kb8 36.Qe5+ Rhd6 37.Rxd5 Qb6
+38.Rcd1  1-0
+
+[Event "CCCSA Summer GMA 2021"]
+[Site "Charlotte USA"]
+[Date "2021.07.30"]
+[Round "5.4"]
+[White "Torres Rosas,L"]
+[Black "Zhou,Liran"]
+[Result "1/2-1/2"]
+[WhiteElo "2352"]
+[BlackElo "2351"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 Nce4
+9.O-O Nxc3 10.bxc3 Be7 11.e4 d6 12.e5 dxe5 13.Nxe5 Qc7 14.Re1 Bd6 15.Qe2 Nd7
+16.Bf4 Rb8 17.Rab1 Nxe5 18.Bxe5 b6 19.Bxd6 Qxd6 20.Qe5 Qxe5 21.Rxe5 Ba6 22.Bf1 Bb7
+23.Bg2 Ba6 24.Bf1 Bb7 25.Bg2 Ba6  1/2-1/2
+
+[Event "Akva Gold 3 IM 2021"]
+[Site "Arandjelovac SRB"]
+[Date "2021.07.31"]
+[Round "1.5"]
+[White "Chen,Jonathan"]
+[Black "Brkljaca,A"]
+[Result "0-1"]
+[WhiteElo "2157"]
+[BlackElo "2247"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Nce4
+9.Qb2 d5 10.c5 h6 11.f3 Ng5 12.Bf4 O-O 13.e3 Ne8 14.h4 Nh7 15.Bd3 f5 16.Ne2 Nhf6
+17.O-O-O a5 18.e4 axb4 19.axb4 fxe4 20.fxe4 Qe7 21.e5 Ne4 22.Bxe4 dxe4 23.Rd4 Bd7
+24.Be3 Nc7 25.Rxe4 Nd5 26.Bd2 Rf2 27.Qd4 Rxg2 28.Rg1 Rxg1+ 29.Nxg1 Qf7 30.Kb2 Qf1
+31.Re1 Qa6 32.Kc1 Qa3+ 33.Qb2 Qd3 34.Ne2 Ra4 35.Nd4 Qc4+ 36.Nc2 Be8 37.Qd4 Qb3
+38.Qb2 Qf3 39.Qd4 Qb3 40.Qb2 Qg3 41.Qd4 Ra2 42.Qc4 Ra4 43.Qd4 Qb3 44.Qb2 Qf3
+45.Ne3 Bg6 46.Nxd5 Qxd5 47.Rg1 Qc4+ 48.Bc3 Qd3 49.Rxg6 Qxg6 50.Qc2 Qg1+ 51.Kd2 Ra2
+52.Bb2 Qf2+ 53.Kc3 Qxc2+ 54.Kxc2 g5 55.hxg5 hxg5 56.Kb3 Ra8 57.Bd4 Kf7 58.Kc4 Ke8
+59.Kb5 Ra6 60.Kc4 Kd7 61.b5 Ra4+ 62.Kd3 Rb4 63.Be3 g4 64.b6 Kc6 65.Bf2 g3
+66.Bg1 Rb1 67.Ke3 Rxg1 68.Kf3 Kxc5 69.Kg4 Kxb6 70.Kf3 Kc5 71.Ke3 Rf1 72.Kd3 g2  0-1
+
+[Event "121st US Open Irwin"]
+[Site "Cherry Hill USA"]
+[Date "2021.07.31"]
+[Round "1.2"]
+[White "Finegold,B"]
+[Black "Sage,J Timothy"]
+[Result "1-0"]
+[WhiteElo "2462"]
+[BlackElo "2010"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.Bd2 Nxc5 8.a3 Bxc3
+9.Bxc3 d6 10.b4 Nce4 11.Bb2 a5 12.e3 axb4 13.axb4 Rxa1+ 14.Bxa1 Qb6 15.Qb2 e5
+16.Bd3 Be6 17.O-O Rc8 18.Rc1 h6 19.c5 Qc6 20.Rf1 Qd5 21.Be2 dxc5 22.bxc5 Rxc5
+23.Nxe5 Nc3 24.Nd3 Rc7 25.Nf4 Qa2 26.Bf3 Qxb2 27.Bxb2 Bb3 28.Rc1 Nfd5 29.Nxd5 Nxd5
+30.Rxc7 Nxc7 31.Bxb7 Bd5 32.Bxd5 Nxd5 33.e4 Nf4 34.g3 Nd3 35.Ba3 Ne5 36.Kg2 f6
+37.Bd6 Nc6 38.f4 Kf7 39.Kf3 h5 40.Ke3 Ke6 41.Bf8 g6 42.Bc5 Na5 43.Bb4 Nc6
+44.Bc3 Ne7 45.Kf3 Nc6 46.g4 hxg4+ 47.Kxg4 Ne7 48.h4 Kf7 49.f5 Ng8 50.Bd2 Ne7
+51.Bc1 Nc6 52.fxg6+ Kxg6 53.h5+ Kf7 54.Bf4 Ne7 55.Bd6 Ng8 56.Kf4 Ke6 57.Ba3 Kf7
+58.Bb4 Nh6 59.Bd2 Ng8 60.Ke3 Ne7 61.Kd4 Nc6+ 62.Kd5 Ne5 63.Bf4 Nd7 64.Kd6 Nf8
+65.Bc1 Ne6 66.Be3 Nf8 67.Bd4 Ne6 68.Bb2 Ng5 69.Kd5 Ne6 70.Bc1 Nf8 71.Bh6 Nd7
+72.Kd6 Ne5 73.Bf4 Nf3 74.Kd5 Nh4 75.Kd4 Ke6 76.Kd3 Kf7 77.Ke2 Ng2 78.Bg3 f5
+79.Kf3 fxe4+ 80.Kxg2 Kg7 81.Bf4  1-0
+
+[Event "Titled Tuesday 3rd Aug"]
+[Site "chess.com INT"]
+[Date "2021.08.03"]
+[Round "1"]
+[White "Havanecz,B"]
+[Black "Pavlov,S2"]
+[Result "0-1"]
+[WhiteElo "2257"]
+[BlackElo "2481"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.Nf3 Bxc5 7.g3 a6 8.Bg2 Be7
+9.b3 b6 10.O-O Bb7 11.Bb2 d6 12.Rad1 Nbd7 13.Qd2 O-O 14.Rfe1 Rac8 15.e4 Nc5
+16.e5 dxe5 17.Nxe5 Bxg2 18.Kxg2 Qb7+ 19.Kg1 Rfd8 20.Qe3 b5 21.cxb5 axb5 22.Ne2 Nce4
+23.Nf4 Bb4 24.Rxd8+ Rxd8 25.Rc1 Bd2 26.Rd1 Qc7 27.Qe2 b4 28.f3 Nc3 29.Bxc3 bxc3
+30.Nfd3 c2  0-1
+
+[Event "Kveinys Mem Open 2021"]
+[Site "Panevezys LTU"]
+[Date "2021.08.04"]
+[Round "7.9"]
+[White "Sedykh,Mikhail"]
+[Black "Bazevicius,A"]
+[Result "1-0"]
+[WhiteElo "2119"]
+[BlackElo "1867"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 O-O 7.Bg5 h6 8.Bh4 g5
+9.Bg3 d5 10.e3 Nc6 11.a3 Qa5 12.Nd2 Bb4 13.Rc1 Bxc3 14.Qxc3 Qxc3 15.Rxc3 e5
+16.cxd5 Nxd5 17.Rc5 Be6 18.Bb5 f6 19.Ke2 Nde7 20.f3 Rfd8 21.Rhc1 a6 22.Bc4 Bxc4+
+23.R5xc4 Kf7 24.Bf2 Rd7 25.Ne4 Rad8 26.R4c2 Rc7 27.Be1 b6 28.Bb4 f5 29.Bxe7 Kxe7
+30.Rxc6 Rxc6 31.Rxc6 fxe4 32.Rxb6 exf3+ 33.Kxf3 h5 34.Rxa6 Rd2 35.b4 e4+
+36.Kxe4 Rxg2 37.h3 h4 38.Kf5 Rg3 39.e4 g4 40.hxg4 h3 41.a4 Ra3 42.Ra7+ Kd6
+43.Ra6+ Kc7 44.b5 h2 45.Rh6 Rxa4 46.Rxh2 Rb4 47.Rd2 Rxb5+ 48.e5  1-0
+
+[Event "LXVI Mexican Open 2021"]
+[Site "Villahermosa MEX"]
+[Date "2021.08.06"]
+[Round "5.14"]
+[White "Turincio Garcia,Sergio"]
+[Black "Paredes,Guzman Francisco Javier"]
+[Result "1-0"]
+[WhiteElo "2139"]
+[BlackElo "1694"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Bf4 e5 7.Bg3 d6 8.Rd1 Be6
+9.e3 Nbd7 10.Nf3 h6 11.a3 a5 12.Nb5 Qb8 13.Be2 O-O 14.O-O Ne8 15.e4 g6 16.Qd2 Ndf6
+17.Qxh6 Nxe4 18.Bd3 N4f6 19.Ng5 Ng7 20.Nc3 Re8 21.Nce4 Ng4 22.Qh7+ Kf8 23.h3 Nf5
+24.hxg4 Nxg3 25.Qh8+ Ke7 26.Qf6+ Kf8 27.Nxc5 dxc5 28.fxg3 Ra6 29.Nxe6+  1-0
+
+[Event "Titled Tuesday 10th Aug"]
+[Site "chess.com INT"]
+[Date "2021.08.10"]
+[Round "11"]
+[White "Wisniowski,Natalie"]
+[Black "Baker,CW"]
+[Result "1-0"]
+[WhiteElo "1723"]
+[BlackElo "2227"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 Nc6 6.Nf3 d5 7.Be2 dxc4 8.Bxc4 cxd4
+9.exd4 Nxd4 10.Nxd4 Qxd4 11.Qa4+ Bd7 12.Qxb4 b5 13.Nxb5 Qe5+ 14.Be3 Rb8 15.Nd6+ Ke7
+16.Nf5+ Kd8 17.Qe7+ Kc7 18.Ng3 Rhe8 19.Qc5+ Qxc5 20.Bxc5 Rxb2 21.O-O Reb8
+22.Bb3 Bb5 23.Rfd1 Nd5 24.Bd4  1-0
+
+[Event "Uppsala IM Gp2 2021"]
+[Site "Uppsala SWE"]
+[Date "2021.08.11"]
+[Round "4.1"]
+[White "Ragnarsson,Dagur"]
+[Black "Ernst,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2394"]
+[BlackElo "2310"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Nc6 7.Bg5 Nd4 8.Nxd4 Bxd4
+9.e3 Qa5 10.exd4 Qxg5 11.g3 O-O 12.f4 Qa5 13.a3 d6 14.b4 Qc7 15.O-O-O Bd7
+16.Rg1 Rfc8 17.Kb2 b6 18.Bd3 a5 19.b5 d5 20.cxd5 exd5 21.Rge1 Qd6 22.Re5 Rc7
+23.Qb3 Rac8 24.Rc1 Be6 25.f5 Bd7 26.Rc2 Rc4 27.Rxd5 Nxd5 28.Bxc4 Rxc4 29.Qxc4 Ne3
+30.Qd3 Nxc2 31.Qxc2 Qxd4 32.Qg2 h6 33.Qa8+ Kh7 34.Qe4 Qf2+ 35.Qc2 Qf1 36.f6+ g6
+37.Qd1 Qxd1 38.Nxd1 Bxb5 39.Ne3 g5 40.Nd5 Kg6 41.Kc3 Be2 42.Kd2 Bc4 43.Nxb6 Be6
+44.Na4 Kxf6 45.Nc5 Bd5 46.Ke3 Ke5 47.Nd3+ Kd6 48.h4 Bc4 49.Nf2 Ke6 50.hxg5 hxg5
+51.Ne4 f6 52.Kd4 Bf1 53.Nc5+ Kf5 54.Ke3 Bg2 55.Nb3 a4 56.Nc5 Bc6 57.Nd3 Bb5
+58.Nf2 Ke6 59.Ke4 f5+ 60.Kd4 Bf1 61.Nd1 Bg2 62.Nf2 Kd6 63.Nd1 Bc6 64.Nf2 Ke6
+65.Nd1 f4 66.gxf4 gxf4 67.Nf2 Kf5 68.Nd3 f3  1/2-1/2
+
+[Event "Saint Louis Rapid 2021"]
+[Site "Saint Louis USA"]
+[Date "2021.08.12"]
+[Round "4.2"]
+[White "Shankland,S"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2709"]
+[BlackElo "2806"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 d5 8.Bg5 Be7
+9.e3 h6 10.Bh4 Nc6 11.Rd1 Qa5 12.Bd3 Bd7 13.O-O Rac8 14.cxd5 Nxd5 15.Nxd5 exd5
+16.Bxe7 Nxe7 17.Qd2 Qb6 18.Nd4 Nc6 19.Bb5 Bg4 20.Be2 Bd7 21.Bf3 Be6 22.Qe2 Ne5
+23.h3 Rc4 24.Bh5 Bd7 25.Qd2 Rfc8 26.Be2 R4c7 27.Qb4 Qg6 28.Kh2 Nc4 29.Bxc4 dxc4
+30.Ne2 Bc6 31.f3 Qg5 32.Qc3 Re7 33.e4 b5 34.Nd4 Bd7 35.f4 Qc5 36.e5 Ree8
+37.Rf3 Rcd8 38.Rg3 Bc8 39.e6 f6 40.f5 Bb7 41.Rg4 g5 42.fxg6 Qe5+ 43.Rg3 h5
+44.h4 Be4 45.Qe3 f5 46.Qh6 Qg7 47.Qxh5 Rd5 48.Rg5 Re7 49.Nxf5 Qe5+ 50.Ng3 Qxb2
+51.Nxe4  1-0
+
+[Event "Titled Tuesday 17th Aug"]
+[Site "chess.com INT"]
+[Date "2021.08.17"]
+[Round "1"]
+[White "Batsuren,Dambasuren"]
+[Black "Sachdev,T"]
+[Result "1-0"]
+[WhiteElo "2504"]
+[BlackElo "2392"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Nce4
+9.Qd4 d5 10.c5 b6 11.f3 bxc5 12.bxc5 Qa5+ 13.Qb4 Qxb4+ 14.axb4 Nc3 15.e3 Bd7
+16.Ra5 O-O 17.c6 Bc8 18.Bb2 d4 19.exd4 Ncd5 20.b5 Rd8 21.Ne2 Nb4 22.Ng3 Nc2+
+23.Kf2 Nxd4 24.Bc4 e5 25.Re1 Be6 26.Bxe6 fxe6 27.Rxe5 Nb3 28.Ra3 Nd2 29.Rxe6 Nc4
+30.Bxf6 gxf6 31.Ra2 Kf7 32.Re4 Rd5 33.Rxc4 Rxb5 34.c7  1-0
+
+[Event "Titled Tuesday 17th Aug"]
+[Site "chess.com INT"]
+[Date "2021.08.17"]
+[Round "2"]
+[White "Melikhov,E"]
+[Black "Palacio,I"]
+[Result "1-0"]
+[WhiteElo "2292"]
+[BlackElo "2172"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Nc6 7.e3 d5 8.cxd5 exd5
+9.Nb5 Bb6 10.Be2 O-O 11.O-O Bg4 12.b3 Rc8 13.Qd1 Ne4 14.Bb2 a6 15.Nbd4 Nxd4
+16.Nxd4 Bxe2 17.Qxe2 Qd7 18.Rac1 Rfe8 19.Rfd1 Rxc1 20.Rxc1 Rc8 21.Rxc8+ Qxc8
+22.h3 Bxd4 23.Bxd4 Qc1+ 24.Kh2 Qc7+ 25.f4 f5 26.Qh5 Qf7 27.Qh4 Qe8 28.g4 Nd6
+29.Qf2 Ne4 30.Qc2 fxg4 31.hxg4 Qc6 32.Qxc6 bxc6 33.f5 g6 34.Kg2 gxf5 35.gxf5 Nd6
+36.f6 Kf7 37.Kf3 Ne4 38.Kf4 Nxf6 39.Kf5 Nd7 40.Kg5 Ke6 41.Kf4 c5 42.Bb2 Nf6
+43.Kg5 Ne4+ 44.Kh6 Ng3 45.Kxh7  1-0
+
+[Event "Titled Tuesday 17th Aug"]
+[Site "chess.com INT"]
+[Date "2021.08.17"]
+[Round "3"]
+[White "Indjic,A"]
+[Black "Skliarov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2387"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.f3 d5
+9.cxd5 b6 10.Bg5 exd5 11.Bxf6 Qxf6 12.Qxf6 gxf6 13.e3 Nb3 14.Rd1 Be6 15.Bb5+ Ke7
+16.Ne2 Rac8 17.Ba4 Na5 18.Bb5 Nb3 19.Bd3 Rhd8 20.Nd4 Nxd4 21.exd4 h6 22.Kf2 Kd6
+23.Ke3 Rg8 24.g3 Rc7 25.Rc1 Rgc8 26.Rxc7 Rxc7 27.Kf4 a5 28.h4 Rc8 29.Re1 Rc7
+30.Ke3 Rc8 31.Kd2 Rg8 32.Rg1 Rc8 33.Rc1 Rg8 34.Rg1 Rc8 35.g4 Rc7 36.Rb1 Ra7
+37.Rc1 Rc7 38.Rxc7 Kxc7 39.Ke3 Kd6 40.Kf4 Ke7 41.Bf5 Kd6 42.Bxe6 fxe6 43.g5 hxg5+
+44.hxg5 fxg5+ 45.Kxg5 e5 46.dxe5+ Kxe5 47.f4+ Ke4 48.f5 d4 49.f6 d3 50.f7 d2
+51.f8=Q d1=Q 52.Qe8+ Kd3 53.Qb5+ Kc2 54.Qxb6 Qc1+ 55.Kf5 Qxb2 56.Qxa5 Qb8
+57.a4 Qf8+ 58.Ke6 Qe8+ 59.Kd6 Qg6+ 60.Kc7 Qf7+ 61.Kc8 Kb3 62.Qb5+ Kc3 63.Qc5+ Kd3
+64.a5 Qe6+ 65.Kc7 Qf7+ 66.Kd8 Qg8+ 67.Kd7 Qg7+ 68.Qe7 Qg4+ 69.Qe6 Qa4+ 70.Qc6 Qxa5
+71.Qd6+ Kc3 72.Qc7+ Qxc7+ 73.Kxc7  1/2-1/2
+
+[Event "Titled Tuesday 17th Aug"]
+[Site "chess.com INT"]
+[Date "2021.08.17"]
+[Round "8"]
+[White "Potapova,Margarita"]
+[Black "Pichot,A"]
+[Result "0-1"]
+[WhiteElo "2257"]
+[BlackElo "2624"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 d5 8.cxd5 exd5
+9.Bg5 Be6 10.e3 Nc6 11.Rd1 Rc8 12.Bd3 h6 13.Bh4 Be7 14.O-O Qb6 15.Na4 Qd8
+16.Nc3 Qa5 17.Qe2 Rfd8 18.Bb1 Qb6 19.Na4 Qa5 20.Nc3 Bg4 21.h3 Bh5 22.g4 Bg6
+23.Bxg6 fxg6 24.Qd3 g5 25.Bg3 Qb6 26.b4 a6 27.Na4 Qa7 28.Qg6 b5 29.Nc3 Nxb4
+30.Nxb5 axb5 31.axb4 Bxb4 32.Be5 Qf7 33.Qb1 Rc4 34.Bd4 Bd6 35.Qxb5 Ne4 36.Ne5 Bxe5
+37.Bxe5 Rc2 38.Bg3 Qe6 39.Qd3 Ra2 40.Ra1 Rxa1 41.Rxa1 Nxg3 42.fxg3 Qe5 43.Kg2 Qxa1
+44.h4 Rf8 45.Qxd5+ Kh8 46.Qd2 Qf1+ 47.Kh2 Rf2+  0-1
+
+[Event "Titled Tuesday 17th Aug"]
+[Site "chess.com INT"]
+[Date "2021.08.17"]
+[Round "8"]
+[White "Woodward,Andy"]
+[Black "Okike,D"]
+[Result "1-0"]
+[WhiteElo "2272"]
+[BlackElo "2177"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Nc6 6.Nf3 h6 7.g3 Bxc5 8.Bg2 O-O
+9.O-O a6 10.b3 Qe7 11.a3 Rd8 12.Bb2 d5 13.cxd5 Nxd5 14.Rad1 Ba7 15.Nxd5 exd5
+16.Nd4 Nxd4 17.Bxd4 Bxd4 18.Rxd4 Be6 19.b4 a5 20.Qd2 axb4 21.axb4 Ra4 22.Rd1 Rda8
+23.h4 Ra2 24.Qe3 Qd6 25.Kh2 Rb2 26.Bxd5 Bxd5 27.Rxd5 Qxb4 28.Rd8+ Rxd8 29.Rxd8+ Kh7
+30.Qd3+ g6 31.Rd7 Qb3 32.Qxb3 Rxb3 33.Rxf7+ Kg8 34.Rc7 Rb2 35.Re7 b5 36.Kg2 b4
+37.e3 b3 38.Rb7 Kf8 39.g4 Kg8 40.Kg3 Kf8 41.f3 Rb1 42.Kf4 Kg8 43.e4 b2 44.h5 gxh5
+45.gxh5 Kh8 46.Kf5 Kg8 47.f4 Kh8 48.e5 Kg8 49.e6 Kh8 50.Kf6 Rf1 51.Rxb2 Rxf4+
+52.Ke7 Kg7 53.Rg2+ Kh7 54.Rg6 Ra4 55.Kf8 Ra8+ 56.Kf7 Ra1 57.e7 Rf1+ 58.Rf6 Rg1
+59.e8=Q Rg5 60.Ke6 Rg7 61.Qg6+ Kg8 62.Qxg7+ Kxg7 63.Rg6+ Kh7 64.Kf7 Kh8 65.Rxh6+  1-0
+
+[Event "Titled Tuesday 17th Aug"]
+[Site "chess.com INT"]
+[Date "2021.08.17"]
+[Round "9"]
+[White "Melikhov,E"]
+[Black "Shapiro,Dan"]
+[Result "1-0"]
+[WhiteElo "2292"]
+[BlackElo "2284"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Be7 8.b3 a6
+9.Bb2 Qc7 10.Be2 d6 11.g4 h6 12.h4 b6 13.O-O-O Nbd7 14.g5 Ng4 15.g6 Nxf2
+16.gxf7+ Kf8 17.Nd4 Ne5 18.Bf3 Nxd1 19.Bxa8 Nxe3 20.Qe2 Bb7 21.Nxe6+ Kxf7
+22.Nxc7 Bxh1 23.Bxh1 N3g4 24.N3d5 Bxh4 25.Be4 Bg5+ 26.Kc2 h5 27.Qf1+ Bf6
+28.Nxf6 gxf6 29.Bd5+ Ke7 30.Bd4 h4 31.Qf5 Kd8 32.Bxb6 h3 33.Nxa6+ Ke7 34.Qe6+ Kf8
+35.Qxd6+ Kg7 36.Qe7+ Kg6 37.Be4+ Kg5 38.Nc5 h2 39.Ne6+ Kh4 40.Qg7 Kg3 41.Qxh8  1-0
+
+[Event "Titled Tuesday 17th Aug"]
+[Site "chess.com INT"]
+[Date "2021.08.17"]
+[Round "10"]
+[White "Woodward,Andy"]
+[Black "Sachdev,T"]
+[Result "0-1"]
+[WhiteElo "2272"]
+[BlackElo "2392"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Nce4
+9.Qd4 d5 10.c5 b6 11.f3 bxc5 12.bxc5 Qa5+ 13.Qb4 Qc7 14.fxe4 Rb8 15.Qa4+ Bd7
+16.Qc2 Nxe4 17.Nf3 O-O 18.e3 Rfc8 19.Bd3 f5 20.O-O Qxc5 21.Qxc5 Nxc5 22.Be2 Ba4
+23.Bd2 Nb3 24.Rab1 Nxd2 25.Nxd2 Rxb1 26.Rxb1 Rc3 27.Rb8+ Kf7 28.Rb7+ Kf6
+29.Rxa7 Rxa3 30.Kf2 Ra2 31.Nb1 Rb2 32.Rxa4 Rxb1 33.g4 g6 34.h4 h6 35.Ra6 Rb2
+36.gxf5 gxf5 37.h5 Ke5 38.Ra7 f4 39.exf4+ Kxf4 40.Rf7+ Kg5 41.Rg7+ Kf4 42.Rg6 e5
+43.Rf6+ Ke4 44.Rxh6 d4 45.Ke1 d3 46.Bd1 Rh2 47.Rg6 Rh1+ 48.Kd2 Rh2+ 49.Kc3 Rh1
+50.Rg4+ Kf5 51.Bf3 Rf1 52.Rg3 e4 53.Bg4+ Kf4 54.Bh3 Rc1+ 55.Kd2 Rc2+ 56.Kd1 Kxg3
+57.Bf5 e3 58.Bxd3 Rd2+ 59.Ke1 Rxd3 60.h6 Rd7 61.h7 Rxh7 62.Ke2 Kf4 63.Kd3 Rh2
+64.Kc4 e2 65.Kc5 e1=Q 66.Kc6 Rd2 67.Kc7 Qc1+ 68.Kb7 Rb2+ 69.Ka7 Qa1+  0-1
+
+[Event "8th Sinquefield Cup 2021"]
+[Site "Saint Louis USA"]
+[Date "2021.08.17"]
+[Round "1.3"]
+[White "Xiong,Jeffery"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2763"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qa5 6.Bd2 Qxc5 7.e3 d5 8.a3 Bxc3
+9.Bxc3 dxc4 10.Bb4 Qc6 11.Qxc4 Qxc4 12.Bxc4 Nc6 13.Bc3 Ne4 14.Rc1 Nxc3 15.Rxc3 Bd7
+16.Nf3 Rc8 17.Bd3 Ke7 18.Ke2 h6 19.Rhc1 Nb8 20.Ne5 Rxc3 21.Rxc3 Rc8 22.Kd2 Rxc3
+23.Kxc3 Bc8 24.f4 Nd7 25.Nxd7 Bxd7 26.e4 f6 27.Kd4 Kd6 28.e5+ fxe5+ 29.fxe5+ Ke7
+30.Be4 b6 31.Kc4 Kd8 32.Kd4 Ke7 33.h4 Bb5 34.g3 Kd7 35.Bc2 Be2 36.Ba4+ Kc7
+37.Ke3 Bh5 38.Kf4 Be2 39.g4 Kd8 40.Bc6 Ke7 41.g5 Bh5 42.b4 Bd1 43.a4 Bh5
+44.Bb5 Bd1 45.a5 Bh5 46.Bf1 Be8 47.Bg2 Bh5 48.Bc6 Bd1 49.gxh6 gxh6 50.Ke3 Bh5
+51.Kd3 Kd8 52.axb6 axb6 53.Ke3 Ke7 54.Kd3 Kd8 55.Ke3 Ke7 56.Kd3 Kd8 57.Ke3  1/2-1/2
+
+[Event "29th TCh-MKD 2021"]
+[Site "Struga MKD"]
+[Date "2021.08.20"]
+[Round "6.2"]
+[White "Karemani,Zemri"]
+[Black "Ranic,Viktor"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo "1869"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 Na6 6.a3 Bxc3+ 7.bxc3 O-O 8.Bd3 d6
+9.Nf3 Re8 10.e4 e5 11.dxe5 dxe5 12.O-O h6 13.h3 Qc7 14.Be3 Qc6 15.Nd2 Nh5
+16.Be2 Nf4 17.Bf3 Qf6 18.Kh2 Rd8 19.Rad1 Be6 20.Bxf4 Qxf4+ 21.Kg1 Rd6 22.Be2 Rad8
+23.g3 Qf6 24.Kg2 Qg6 25.Nf3 Qf6 26.Rxd6 Rxd6 27.Rd1 Bd7 28.Rd5 Rxd5 29.cxd5 Nc7
+30.c4 Ne8 31.Qb2 Nd6 32.Qxe5 Ba4 33.Qxf6 gxf6 34.Bd3 b5 35.cxb5 c4 36.Bb1 Nxb5
+37.e5 c3 38.d6 Nxa3 39.Bf5 c2 40.Bxc2 Nxc2 41.exf6 Bc6 42.Kf1 Bb5+ 43.Kg1 a5
+44.Nd2 a4 45.Nb1 Kf8 46.Nc3 Bc6 47.g4 Ke8 48.f4 a3 49.g5 Nb4 50.h4 Kf8 51.h5 a2
+52.Nxa2 Nxa2 53.Kf2 Nc3 54.g6 Ne4+ 55.Ke3 Nxf6 56.gxf7 Kxf7 57.f5 Nxh5  0-1
+
+[Event "5th Innsbruck Open 2021"]
+[Site "Innsbruck AUT"]
+[Date "2021.08.26"]
+[Round "7.67"]
+[White "Doeserich,J"]
+[Black "Walder,Elias"]
+[Result "0-1"]
+[WhiteElo "2039"]
+[BlackElo "2012"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 O-O 7.Bg5 b6 8.e3 Bb7
+9.Be2 Be7 10.Rd1 a6 11.O-O d6 12.Rd2 Qc7 13.Rfd1 Nbd7 14.Bf4 e5 15.Bg3 Rac8
+16.Ng5 Rfd8 17.Qf5 h6 18.Nge4 Nxe4 19.Nxe4 g6 20.Qg4 h5 21.Qf3 f5 22.Rxd6 Bxd6
+23.Rxd6 Qxd6 24.Nxd6 Bxf3 25.gxf3 Rc6 26.c5 Nxc5 27.Bc4+ Kg7 28.Nf7 Rd1+
+29.Kg2 Nd7 30.Bb3 Rdc1 31.Nxe5 Nxe5 32.Bxe5+ Kf8 33.f4 Ke7 34.Bd4 b5 35.f3 Rd6
+36.Kf2 Rxd4  0-1
+
+[Event "Youth World Cup U18 KO"]
+[Site "Tornelo INT"]
+[Date "2021.08.27"]
+[Round "2.2"]
+[White "Harshavardhan,G B"]
+[Black "Batsuren,Dambasuren"]
+[Result "1-0"]
+[WhiteElo "2397"]
+[BlackElo "2504"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 Qb6 8.e4 Ng4
+9.h3 Bxf2+ 10.Ke2 Ne3 11.Qd3 Nxf1 12.Rxf1 Bg3 13.e5 f5 14.exf6 Rxf6 15.Ne4 Rg6
+16.Nfg5 Nc6 17.Qxg3 Nd4+ 18.Kd3 d5 19.Nc3 dxc4+ 20.Kxc4 Bd7 21.Qe5 Rc8+ 22.Kd3 Qa6+
+23.Kxd4 Qxf1 24.b3 h6 25.Nge4 Rxg2 26.Qd6 e5+ 27.Qxe5 Bf5 28.Qd5+ Kh8 29.Be3 Qxa1
+30.Qxf5 Rd8+ 31.Kc4 Qxa3 32.Nc5 Qa5 33.Qe4 Qa6+ 34.Nxa6  1-0
+
+[Event "Titled Tuesday 31st Aug"]
+[Site "chess.com INT"]
+[Date "2021.08.31"]
+[Round "1"]
+[White "Munoz,Nelson"]
+[Black "Sokolin,L"]
+[Result "0-1"]
+[WhiteElo "1720"]
+[BlackElo "2482"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 O-O 6.Nf3 d5 7.dxc5 Nc6 8.a3 Bxc5
+9.Be2 dxc4 10.Bxc4 a6 11.O-O Qc7 12.Be2 Be7 13.Bd2 e5 14.Rac1 h6 15.Rfd1 Be6
+16.Be1 Rfd8 17.Rxd8+ Rxd8 18.Rd1 Na5 19.b4 Rxd1 20.Qxd1 Nc4 21.Qb3 Nxe3 22.Qb2 Nc4
+23.Bxc4 Bxc4 24.Nd1 Bd6 25.Ne3 Be6 26.h3 Ne4 27.Nd2 Nxd2 28.Bxd2 f5 29.Bc3 b5
+30.Nf1 f4 31.Nh2 Bd5 32.Nf3 e4 33.Nh4 e3 34.fxe3 fxe3 35.Nf5 Bf8 36.Nxe3 Be4
+37.Bd4 Qf7 38.Bc5 Bxc5 39.bxc5 Qg6 40.Qd4 Kh7 41.c6 Bxc6 42.Qg4 Qxg4 43.Nxg4 h5
+44.Ne5 Bd5 45.Kf2 h4 46.g4 hxg3+ 47.Ke3 g2 48.Kf2 Kh6 49.Ng4+ Kg5 50.Ne3 Bc6
+51.Nc2 a5 52.Nd4 Bd7 53.Nf3+ Kf4 54.Nd4 Ke4 55.Ne2 Kd3 56.Ng3 Kc3 57.Ne4+ Kb2
+58.Nc5 Bc6 59.Nd3+ Kxa3 60.Ne5 Bd5 61.Ng6 b4 62.Ne7 Bb7 63.Nf5 b3 64.Nxg7 b2
+65.h4 b1=Q 66.Nf5 Qxf5+  0-1
+
+[Event "Titled Tuesday 31st Aug"]
+[Site "chess.com INT"]
+[Date "2021.08.31"]
+[Round "2"]
+[White "Dzhaparov,Medet"]
+[Black "Solovchuk,A"]
+[Result "0-1"]
+[WhiteElo "1667"]
+[BlackElo "2321"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Nf3 Nxc5 7.g3 Nfe4 8.Bg2 Qf6
+9.O-O Nxc3 10.a3 Ba5 11.b4 N3a4 12.Be3 Qg6 13.Qxg6 hxg6 14.bxc5 b6 15.Ne5 Rb8
+16.c6 d6 17.c7 Rb7 18.Bc6+ Kf8 19.Nxg6+ fxg6 20.Bxa4 Rxc7 21.Rac1 e5 22.Rfd1 Ke7
+23.Bg5+ Ke6 24.Bb3 Bb7 25.c5+ d5 26.e4 Rxc5 27.Rxc5 bxc5 28.exd5+ Kd6 29.Bc4 Bc3
+30.Rb1 Bxd5 31.Bxd5 Kxd5 32.Rb7 a5 33.Rxg7 Bd4 34.Rxg6 c4 35.h4 Rf8 36.Ra6 Rxf2
+37.Rxa5+ Ke4 38.Kh1 Kf3 39.Ra8 Kxg3  0-1
+
+[Event "Frauenbundesliga 2019-20"]
+[Site "Germany GER"]
+[Date "2021.09.03"]
+[Round "9.5"]
+[White "Waechter,Nathalie"]
+[Black "Genova,Ly"]
+[Result "1/2-1/2"]
+[WhiteElo "2018"]
+[BlackElo "2230"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 Nc6 6.Nf3 O-O 7.dxc5 Bxc5 8.Be2 b6
+9.O-O Bb7 10.h3 Rc8 11.a3 Qc7 12.b4 Be7 13.Nb5 Qb8 14.Bb2 a6 15.Nbd4 Nxd4
+16.Bxd4 b5 17.Qb3 Be4 18.Rac1 Qb7 19.cxb5 axb5 20.Rfd1 h6 21.Ne1 Rfd8 22.Bf3 Bxf3
+23.Nxf3 d5 24.Qb2 Ne8 25.Ne1 Rc4 26.Nd3 Rdc8 27.Ne5 R4c7 28.Nd3 Rc4 29.Ne5 R4c7
+30.Nd3  1/2-1/2
+
+[Event "TCh-EUR Senior +50 2021"]
+[Site "Prague CZE"]
+[Date "2021.09.03"]
+[Round "5.1"]
+[White "Bartos,J"]
+[Black "Stohl,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2112"]
+[BlackElo "2462"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.Be2 a6
+9.O-O O-O 10.b3 Be7 11.Bb2 d6 12.Rac1 Nbd7 13.Rfd1 b6 14.Qb1 Bb7 15.Ng5 h6
+16.Nge4 Nc5 17.Bf3 Nfxe4  1/2-1/2
+
+[Event "Online Olym Div2 A 2021"]
+[Site "chess.com INT"]
+[Date "2021.09.04"]
+[Round "7.3"]
+[White "O'Donnell,Conor"]
+[Black "Zhao Zong Yuan"]
+[Result "0-1"]
+[WhiteElo "2303"]
+[BlackElo "2525"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 b6
+9.O-O Bb7 10.Nb5 Be4 11.Qd1 Nb7 12.Bf4 a6 13.Nd6 Nxd6 14.Bxd6 Bxd6 15.Qxd6 Rc8
+16.Ne5 b5 17.cxb5 Bxg2 18.Kxg2 axb5 19.Rac1 Rxc1 20.Rxc1 Qa8+ 21.f3 Qxa2
+22.Rc2 Qa7 23.Rd2 h6 24.Nxd7 Nxd7 25.Qxd7 Qxd7 26.Rxd7 Rc8 27.Rd2 Rc4 28.e4 g5
+29.g4 Kg7 30.Kf2 Kf6 31.Ke3 Rb4 32.Rc2 Rb3+ 33.Kf2 Ke5 34.Kg3 b4 35.h3 Kd4
+36.Rc7 Rxb2 37.Rxf7 b3 38.Re7 Rb1 39.Rb7 e5 40.Kg2 Ke3 41.Rb6 Rb2+ 42.Kg3 Rb1
+43.Kg2 Kd2 44.Rxh6 Rd1 45.Rb6 Kc2 46.Rc6+ Kd2 47.Rb6 Kc2 48.Rc6+ Kb1 49.Rb6 b2
+50.h4 gxh4 51.Kh3 Rd3 52.Kxh4 Rxf3 53.g5 Rf4+ 54.Kh5 Rxe4 55.g6 Re2 56.Kg5 Kc1
+57.g7 b1=Q  0-1
+
+[Event "21st ch-EUR Indiv 2021"]
+[Site "Reykjavik ISL"]
+[Date "2021.09.04"]
+[Round "10.22"]
+[White "Steingrimsson,H"]
+[Black "Banusz,T"]
+[Result "1-0"]
+[WhiteElo "2519"]
+[BlackElo "2631"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bf4 Bb7
+9.Rd1 Nc6 10.b4 Be7 11.e4 Nh5 12.Bc1 Qc7 13.Nb5 Qb8 14.Rxd7 Nf6 15.Rd1 a5
+16.bxa5 Rxa5 17.Bd3 Ng4 18.Bb2 Nge5 19.Nxe5 Nxe5 20.O-O Rc8 21.Qb3 Ng4 22.g3 Ne5
+23.f3 Nxd3 24.Rxd3 Bc6 25.Rfd1 Bf8 26.Kg2 Qa8 27.R1d2 h5 28.Nd6 Rb8 29.Nb5 Rc8
+30.Kh3 Ra4 31.Nc3 Ra6 32.Nb5 Ra4 33.Nd6 Rb8 34.Kh4 Be7+ 35.Kh3 Bf8 36.Nb5 Rc8
+37.Kh4 Bxe4 38.fxe4 Qxe4+ 39.Kh3 g5 40.Rd7 Raxc4 41.Nd6 Bxd6 42.R7xd6 Rc2
+43.Qb5 Qg4+ 44.Kg2 Qe4+ 45.Kf2 R2c5 46.Qe2 Rf5+ 47.Kg1 Qxe2 48.Rxe2 b5 49.Rd4 Kh7
+50.Kg2 Kg6 51.h4 g4 52.Rd3 Rfc5 53.Rf2 Rc2 54.Bd4 f6 55.Rb3 e5 56.Bb6 R8c3
+57.Rxc2 Rxb3 58.Bc5 Kf5 59.Rf2+ Ke6 60.Rd2 Kf5 61.Be7 Ke6 62.Bf8 Kf5 63.Rf2+ Ke6
+64.Bg7 f5 65.Re2 e4 66.Bf8 Kd5 67.Rf2 Ke6 68.Rc2 Kd5 69.Rc5+ Kd4 70.Rxf5 e3
+71.Bb4 Rb2+ 72.Kg1 Kd3 73.Rf1 e2 74.Re1 Ke3 75.Kg2 Rb3 76.Ra1 Rd3 77.Rb1  1-0
+
+[Event "TCh-POL 1st League 2021"]
+[Site "Szklarska Poreba POL"]
+[Date "2021.09.06"]
+[Round "3.9"]
+[White "Luberanski,Jakub"]
+[Black "Leskiewicz,Ignacy"]
+[Result "1/2-1/2"]
+[WhiteElo "2188"]
+[BlackElo "2169"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Nce4
+9.Qd4 d5 10.cxd5 exd5 11.Bb2 Be6 12.e3 Nd6 13.Nf3 Qe7 14.Bd3 Nc4 15.Bc3 O-O
+16.Qh4 h6 17.Bd4 Rfe8 18.Bxf6 Qxf6 19.Qxf6 gxf6 20.Nd4 Nd6 21.Kd2 f5 22.Rhc1 Rac8
+23.a4 a6 24.Rc5 Kg7 25.Rac1 Kf6 26.a5 Red8 27.Rxc8 Bxc8 28.Rc5 Be6 29.Kc3 Rb8
+30.Rc7 Ne8 31.Rc5 Nd6 32.Ne2 Ke5 33.f4+ Kf6 34.Kd4 Ne4 35.Bxe4 dxe4 36.Kc3 h5
+37.Rc7 h4 38.Nd4 Rg8 39.Rxb7 Rxg2 40.h3 Rg3 41.Nc2 Rxh3 42.b5 Rg3 43.Rb8 h3
+44.b6 Kg7 45.b7 h2 46.Ra8 Bd5 47.b8=Q Bxa8 48.Qe5+ Kg8 49.Qe8+ Kg7  1/2-1/2
+
+[Event "Titled Tuesday 7th Sept"]
+[Site "chess.com INT"]
+[Date "2021.09.07"]
+[Round "4"]
+[White "Quirke,J"]
+[Black "Goncharov,Vladimir"]
+[Result "0-1"]
+[WhiteElo "2108"]
+[BlackElo "2077"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Qa5 7.Bd2 Nxc5 8.Rd1 Bxc3
+9.Bxc3 Qa4 10.Qxa4 Nxa4 11.Be5 b6 12.f3 Ba6 13.e4 Rc8 14.b3 Nc5 15.b4 Na4
+16.Rc1 d5 17.exd5 exd5 18.Bxf6 gxf6 19.b5 Bxb5 20.Nh3 O-O 21.Nf4 Bxc4 22.Bxc4 Rxc4
+23.Rxc4 dxc4 24.Kd2 Rd8+ 25.Kc2 b5 26.Re1 Kf8 27.h4 a6 28.h5 h6 29.Rb1 Rd4
+30.g3 Nc5 31.Re1 Rd6 32.Re2 Ne6 33.Ng2 Nd4+  0-1
+
+[Event "Titled Tuesday 7th Sept"]
+[Site "chess.com INT"]
+[Date "2021.09.07"]
+[Round "5"]
+[White "Drogovoz,I"]
+[Black "Guimaraes,W"]
+[Result "0-1"]
+[WhiteElo "2287"]
+[BlackElo "2211"]
+[ECO "E38"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.Qc2 c5 5.Nf3 cxd4 6.Nxd4 O-O 7.Bg5 d5 8.e3 Nc6
+9.Nxc6 bxc6 10.Be2 d4 11.O-O-O Qa5 12.Rxd4 Qxg5 13.g3 e5 14.h4 Qf5 15.Qxf5 Bxf5
+16.Rdd1 Bxc3 17.bxc3 Rab8 18.Rd2 Rb1+  0-1
+
+[Event "Titled Tuesday 7th Sept"]
+[Site "chess.com INT"]
+[Date "2021.09.07"]
+[Round "8"]
+[White "Borsuk,K"]
+[Black "Devaev,A"]
+[Result "1-0"]
+[WhiteElo "2425"]
+[BlackElo "2325"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Nce4
+9.Qd4 d5 10.f3 Nd6 11.c5 Nb5 12.Qb2 a6 13.a4 Nc7 14.Bf4 O-O 15.e3 Bd7 16.Bd3 Bc6
+17.Ne2 Qd7 18.O-O Rfe8 19.Be5 Qd8 20.b5 axb5 21.axb5 Bd7 22.Rxa8 Nxa8 23.b6 Nh5
+24.Ra1 f6 25.Bd6 g6 26.Ra7 Bc6 27.Nd4 Nxb6 28.Qxb6 Qc8 29.Nxc6  1-0
+
+[Event "TCh-POL 2nd League 2021"]
+[Site "Sypniewo POL"]
+[Date "2021.09.07"]
+[Round "4.13"]
+[White "Bebnik,Malgorzata"]
+[Black "Korosciel,A"]
+[Result "1-0"]
+[WhiteElo "1756"]
+[BlackElo "1966"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 O-O 6.Nf3 Nc6 7.Bd3 h6 8.O-O cxd4
+9.exd4 d5 10.cxd5 exd5 11.h3 Re8 12.Bf4 Bd6 13.Bxd6 Qxd6 14.Nb5 Qf4 15.Qc1 Qxc1
+16.Raxc1 Rd8 17.Rfe1 Nb4 18.Bb1 Bd7 19.Nd6 Bc6 20.Nf5 Kf8 21.Ne5 Rac8 22.a3 Na6
+23.Ne7 Rc7 24.N7xc6 bxc6 25.Rxc6 Rxc6 26.Nxc6 Rd7 27.Bd3 Nc7 28.Nxa7 Ne6
+29.Nb5 Rb7 30.a4 Nd7 31.Bf5 Ke7 32.Bd3 Nb8 33.a5 Kd7 34.Ra1 Na6 35.Nc3 Nec7
+36.Nxd5 Nxd5 37.Bxa6 Rxb2 38.Bc4 Kd6 39.a6 Rb8 40.a7 Ra8 41.Ra6+  1-0
+
+[Event "Online Olym Top DivA 2021"]
+[Site "chess.com INT"]
+[Date "2021.09.08"]
+[Round "1.2"]
+[White "Zahedifar,Anahita"]
+[Black "Bucur,Denisa-Andreea"]
+[Result "0-1"]
+[WhiteElo "2213"]
+[BlackElo "2049"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Bf4 a6 8.e3 Be7
+9.Bd3 d6 10.Nf3 b6 11.O-O h6 12.Rfd1 Bb7 13.Be2 Qc7 14.Rac1 Nh5 15.Bg3 Nxg3
+16.hxg3 Nd7 17.Nd4 Rac8 18.Qd2 Rfd8 19.b3 Nf6 20.Bf3 Qb8 21.Qe2 d5 22.a4 dxc4
+23.bxc4 Nd7 24.a5 bxa5 25.Rb1 Bb4 26.Na2 Bxf3 27.Qxf3 Ne5 28.Qe4 Rxc4 29.f4 Ng6
+30.Qf3 Rdc8 31.f5 exf5 32.Nxf5 Qa8 33.Nxb4 Qxf3 34.gxf3 Rxb4 35.Ra1 Rc5 36.g4 Ne5
+37.Kf2 Rb3 38.Rd5 Rxd5 39.Ne7+ Kh7 40.Nxd5 Nc4 41.Ra4 Rd3 42.Nf4 Rc3 43.Nd5 Rd3
+44.Nf4 Rc3 45.Nd5 Rc2+ 46.Kg3 Rc1 47.Kf4 g5+ 48.Kf5 Kg7 49.f4 Nd6+ 50.Ke5 Nc4+
+51.Kd4 Nd6 52.Rxa5 gxf4 53.exf4 Rc6 54.Ne7 Rb6 55.Kc5 Rb5+ 56.Rxb5 Nxb5 57.Kb6 Nd4
+58.Kxa6 Ne2 59.Nf5+ Kg6 60.Nh4+ Kf6 61.Ng2 Ke6 62.Kb5 Kd5 63.g5 hxg5 64.fxg5 Ke5
+65.Nh4 Nf4 66.Kc4 Ng6 67.Ng2 Kf5 68.Kd4 Kxg5 69.Ke3 Kg4 70.Kf2 Nf4 71.Ne3+ Kg5
+72.Nc4 Nd5 73.Nd6 f6  0-1
+
+[Event "Online Olym Top DivB 2021"]
+[Site "chess.com INT"]
+[Date "2021.09.08"]
+[Round "3.5"]
+[White "Lenic,L"]
+[Black "Adly,A"]
+[Result "1-0"]
+[WhiteElo "2627"]
+[BlackElo "2619"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.f3 d5
+9.cxd5 b6 10.Bg5 O-O 11.Bxf6 gxf6 12.Rd1 exd5 13.e3 Qe7 14.Ne2 Re8 15.Kf2 Bb7
+16.Nd4 Rac8 17.Qd2 Qe5 18.Bb5 Re7 19.h3 Kh8 20.Bd3 Rg8 21.g4 Rc7 22.Bf5 Ba6
+23.Rc1 Re8 24.b4 Ne6 25.f4 Qd6 26.Rxc7 Nxc7 27.Bb1 Bc4 28.Qc2 f5 29.Nxf5 Qe6
+30.Re1 Kg8 31.g5 Kf8 32.Qc3 f6 33.Rg1 Nb5 34.Qxf6+ Qxf6 35.gxf6 Re6 36.a4 Nc3
+37.Nd4 Rxf6 38.Bxh7 Rh6 39.Bf5 Nxa4 40.Ra1 b5 41.Bc2 Rxh3 42.Bxa4 bxa4 43.Rxa4 a6
+44.Nf3 Rh1 45.Ne5 Bb5 46.Ra3 Rb1 47.Rc3 Ke7 48.Rc7+ Ke6 49.Nf3 Kd6 50.Ra7 Rxb4
+51.Nd4 Bd3 52.Rf7 Rb1 53.Rf6+ Ke7 54.Re6+ Kd7 55.Re5 Be4 56.f5 Rb6 57.Kg3 a5
+58.Kf4 a4 59.Kg5 a3 60.f6 a2 61.Re7+ Kd6 62.Ra7 Rb1 63.Ra6+ Kd7 64.Ra7+ Kd6
+65.Ra6+ Kd7 66.Rxa2 Rg1+ 67.Kf4 Rg6 68.Ra7+ Kd6 69.Ra6+ Kd7 70.Rb6 Rg1 71.Rb7+ Kd6
+72.f7 Rf1+ 73.Kg5 Ke5 74.Re7+ Kd6 75.Re6+ Kd7 76.Rf6 Rg1+ 77.Kf4 Rf1+ 78.Ke5 Rg1
+79.f8=Q  1-0
+
+[Event "Online Olym Top DivA 2021"]
+[Site "chess.com INT"]
+[Date "2021.09.10"]
+[Round "7.5"]
+[White "Zahedifar,Anahita"]
+[Black "Kiousi,Panagiota"]
+[Result "1-0"]
+[WhiteElo "2213"]
+[BlackElo "2007"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Bf4 a6 8.e3 Nc6
+9.Nf3 h6 10.h3 Nh5 11.Bh2 f5 12.Bd3 b6 13.O-O-O Bb7 14.Rhg1 Rc8 15.g4 fxg4
+16.hxg4 Rxf3 17.gxh5 Qf8 18.Bg3 b5 19.Bh7+ Kh8 20.Rxd7 Ba8 21.Bf4 Rxf4 22.exf4 Qxf4+
+23.Kb1 Bf8 24.Be4 Ne5 25.Rdd1 Nf3 26.Bxa8 Rxa8 27.Rg6 bxc4 28.Rxe6 a5 29.Qe4 Qxe4+
+30.Rxe4 Rb8 31.Kc2 Ng5 32.Rxc4 Ne6 33.Rc6 Nc5 34.Rd5 Nb3 35.Nb5 Rxb5 36.Rd8 Kg8
+37.Rcc8 Rf5 38.Kxb3 Rxf2 39.Ka4 Rf5 40.b4 axb4 41.axb4 Rf4 42.Ka5 g6 43.hxg6 h5
+44.b5 h4 45.b6 h3 46.b7 h2 47.Rxf8+ Rxf8 48.Rxf8+ Kg7 49.Rh8 Kxh8 50.b8=Q+ Kg7
+51.Qxh2  1-0
+
+[Event "ch-Nordic Youth Gp A 2021"]
+[Site "Torshavn FAI"]
+[Date "2021.09.10"]
+[Round "1.4"]
+[White "Lund,Gunnar"]
+[Black "Morkore,Rogvi"]
+[Result "1/2-1/2"]
+[WhiteElo "2314"]
+[BlackElo "1720"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 O-O 6.Nf3 Nc6 7.Be2 b6 8.O-O cxd4
+9.exd4 Bb7 10.a3 Bxc3 11.Qxc3 Ne7 12.b4 Rc8 13.Qb3 Ng6 14.Rd1 Qc7 15.Ne1 Nf4
+16.Bxf4 Qxf4 17.Qe3 Qxe3 18.fxe3 d6 19.Rac1 Rc7 20.Rd2 Rfc8 21.Rdc2 Be4 22.Rb2 Bd5
+23.Rbc2 Be4 24.Rc3 Bd5 25.h3 g6 26.Bd3 Be4 27.R3c2 Kf8 28.Kf1 Ke7 29.Ke2 h6
+30.Nf3 Bxd3+ 31.Kxd3 Nd7 32.Nd2 f5 33.Nb3 e5 34.Kd2 Nf6 35.a4 Ne4+ 36.Kd3 h5
+37.a5 Rb8 38.b5 Rbc8 39.h4 Kd7 40.Ke2 Kd8 41.Nd2 Nxd2 42.Kxd2 e4 43.g3 Kd7
+44.Rc3 Ke6 45.R1c2 Kf6 46.axb6 axb6 47.Ra3 Rxc4 48.Rxc4 Rxc4 49.Ra6 Ke6 50.Rxb6 Rc8
+51.Rb7 Kd5 52.Rg7 Rb8 53.Rxg6 Rxb5 54.Rg5 Ke6 55.Rxh5 Rb2+ 56.Kd1 Rb3 57.Kd2 Rb2+
+58.Kd1 Rb3 59.d5+ Ke5 60.Kd2 Rb2+ 61.Kc3 Re2 62.g4 Rxe3+ 63.Kc4 Rf3 64.Rxf5+ Rxf5
+65.gxf5 Kxf5 66.h5 Kg5 67.Kd4  1/2-1/2
+
+[Event "TCh-SRB Premier 2021"]
+[Site "Vrnjacka Banja SRB"]
+[Date "2021.09.10"]
+[Round "4.2"]
+[White "Atalik,S"]
+[Black "Ratkovic,Miloj"]
+[Result "1-0"]
+[WhiteElo "2487"]
+[BlackElo "2499"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 d5 8.e3 dxc4
+9.Bxc4 b6 10.Ne4 Bb7 11.Nxc5 bxc5 12.O-O Nbd7 13.Nd2 Qc7 14.Be2 Ne5 15.f3 Rfd8
+16.b3 Nd5 17.Nc4 Ba6 18.Ra2 Nxc4 19.bxc4 Nb6 20.Bb2 Qd7 21.Be5 f6 22.Bg3 e5
+23.Rc1 Rab8 24.a4 Qf7 25.Rb2 Nd7 26.Rxb8 Rxb8 27.Bd3 g6 28.h4 Kg7 29.f4 exf4
+30.exf4 Nf8 31.f5 Rd8 32.Bf2 Qc7 33.Re1 Bb7 34.Re3 gxf5 35.Bxf5 Kh8 36.Qe2 Qg7
+37.Rg3 Qf7 38.Bxc5 Ng6 39.Qh5 Rg8 40.Bd4 Rg7 41.Qh6 Ne5 42.Be6 Qf8 43.Qxg7+ Qxg7
+44.Rxg7 Kxg7 45.Bxa7 Ba6 46.c5 Nc6 47.Bb6 Kf8 48.Bd7  1-0
+
+[Event "TCh-POL 2nd League 2021"]
+[Site "Sypniewo POL"]
+[Date "2021.09.11"]
+[Round "8.12"]
+[White "Bienias,Piotr"]
+[Black "Samborski,H"]
+[Result "1-0"]
+[WhiteElo "1898"]
+[BlackElo "2052"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.Nf3 Nc6 6.e3 O-O 7.Be2 d5 8.cxd5 Nxd5
+9.a3 cxd4 10.exd4 Nxc3 11.bxc3 Be7 12.Bd3 g6 13.h4 e5 14.h5 g5 15.Bxh7+ Kh8
+16.Nxe5 Nxe5 17.dxe5 Qc7 18.O-O Qxe5 19.Be3 Bc5 20.Rfe1 Bxe3 21.Rxe3 Qg7
+22.Bf5 b6 23.Rae1 Qf6 24.Rf3 Qd6 25.Qc1 Bxf5 26.Rxf5 f6 27.Rd1 Qe6 28.Rfd5 Qg4
+29.Qc2 Qxh5 30.R1d3 Kg8 31.Rh3 Qf7 32.Rh6 Rad8 33.Rxd8 Rxd8 34.Qf5 Rd6 35.Qc8+  1-0
+
+[Event "Asnieres-sur-Seine Trophy"]
+[Site "Asnieres-sur-Seine FRA"]
+[Date "2021.09.12"]
+[Round "5.2"]
+[White "Flom,Gabriel"]
+[Black "Tregubov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2502"]
+[BlackElo "2546"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 Nce4
+9.O-O Bxc3 10.bxc3 Qc7 11.Nd4 d5 12.cxd5 exd5 13.Bf4 Qc4 14.Rfc1 Bd7 15.Qb2 b6
+16.f3 Nc5 17.Qb4 Rfe8 18.Bf1 Ne6 19.Qxc4 dxc4 20.Nxe6 Bxe6 21.e4 Nd7 22.Bd6  1/2-1/2
+
+[Event "Titled Tuesday 14th Sept"]
+[Site "chess.com INT"]
+[Date "2021.09.14"]
+[Round "10"]
+[White "Cramling Bellon,Anna"]
+[Black "Gedgafov,Chamal"]
+[Result "0-1"]
+[WhiteElo "2035"]
+[BlackElo "2202"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Nc6 6.Nf3 O-O 7.Bg5 Qa5 8.Bxf6 gxf6
+9.e3 Qxc5 10.Bd3 f5 11.O-O Ne5 12.Nxe5 Qxe5 13.Ne2 b6 14.Ng3 Bb7 15.a3 Be7
+16.Rae1 Bf6 17.Nh5 Bh8 18.b4 Rac8 19.f4 Qb2 20.Qd1 Qxg2+  0-1
+
+[Event "Panchenko Mem Open A 2021"]
+[Site "Chelyabinsk RUS"]
+[Date "2021.09.19"]
+[Round "7.36"]
+[White "Smirnov,Anton"]
+[Black "Safin,Timur"]
+[Result "1-0"]
+[WhiteElo "2396"]
+[BlackElo "2216"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Nc6 8.a3 Be7
+9.b4 d5 10.Bb2 O-O 11.Rd1 Rd8 12.cxd5 Nxd5 13.Nxd5 exd5 14.Be2 Bg4 15.O-O Bh5
+16.Qb3 Na5 17.Qa2 Nc4 18.Bxc4 dxc4 19.Qxc4 Rxd1 20.Rxd1 Rd8 21.Rxd8+ Qxd8
+22.Bd4 a5 23.Ne5 axb4 24.g4 Bg6 25.Nxg6 hxg6 26.axb4 Qd7 27.h3 b5 28.Qc3 Bf8
+29.Bc5 Be7 30.Qd4 Qe6 31.Bxe7 Qxe7 32.Kg2 g5 33.Kf3 Qb7+ 34.Qe4 Qd7 35.Ke2 f6
+36.Qf5 Qc6 37.Qc5 Qd7 38.e4 Qe8 39.Qd5+ Kh7 40.Kf3 Kh6 41.Kg2 Kg6 42.h4 Qe5
+43.hxg5 Kxg5 44.Qxe5+ fxe5 45.Kg3 g6 46.f3 Kf6 47.Kh4  1-0
+
+[Event "Panchenko Mem Open A 2021"]
+[Site "Chelyabinsk RUS"]
+[Date "2021.09.19"]
+[Round "8.11"]
+[White "Schekachikhin,Maksim"]
+[Black "Azarov,S"]
+[Result "0-1"]
+[WhiteElo "2438"]
+[BlackElo "2603"]
+[ECO "E39"]
+
+1.c4 Nf6 2.Nc3 e6 3.d4 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.Bd2 Nxc5 8.a3 Bxc3
+9.Bxc3 Nce4 10.Bxf6 Nxf6 11.e4 d6 12.Bd3 e5 13.O-O Bg4 14.Nd2 Rc8 15.Rac1 Be6
+16.Rfd1 Nd7 17.Nf1 Nb8 18.Ne3 Nc6 19.b4 Nd4 20.Qb2 Qg5 21.Kh1 h5 22.Nc2 Nc6
+23.Qc3 h4 24.Qd2 Qf6 25.h3 Rc7 26.Bf1 Rd8 27.a4 b6 28.a5 Qf4 29.axb6 axb6
+30.Qxf4 exf4 31.Nd4 Ne5 32.Nxe6 fxe6 33.c5 bxc5 34.bxc5 Kf7 35.cxd6 Rxc1
+36.Rxc1 Rxd6 37.f3 Kf6 38.Kg1 Rb6 39.Kf2 Rb2+ 40.Kg1 g5 41.Rc8 Nd7 42.Rc6 Rb6
+43.Rxb6 Nxb6 44.Kf2 Ke5 45.Bb5 Kd4 46.Ke2 Kc5 47.Ba6 Na4 48.Bc8 Kd6 49.Ba6 Ke5
+50.Bc4 Nc5 51.Kf2 Kd4 52.Bb5 Kc3 53.Ke2 Nb3 54.Kf2 Nd4 55.Ba6 Kd2 56.Bc4 e5
+57.Bd5 Nc2 58.Bb3 Ne3 59.Ba4 Nc4 60.Bb5 Nb2 61.Be2 Na4 62.Bc4 Nc3 63.Bb3 Kd3
+64.Be6 Nd1+ 65.Ke1 Nb2 66.Kf2 Kd2 67.Bd7 Nd3+ 68.Kf1 Ke3 69.Bb5 Nc5 70.Bc4 Na4
+71.Bb3 Nb2 72.Be6 Nd1 73.Bb3 Nc3 74.Bc2 Nb5 75.Ba4 Nd4 76.Bd1 Nb5 77.Ba4 Na3
+78.Bb3 Nb1 79.Be6 Nd2+ 80.Kg1 Ke2 81.Bd7 Ke1 82.Bb5 Nb3 83.Ba6 Nc5 84.Bc4 Nd7
+85.Bb5 Nf6 86.Bc4 g4 87.hxg4 Nh7 88.g5 Nxg5 89.Bb5 h3 90.Bd7 hxg2 91.Kxg2 Ke2
+92.Bg4  0-1
+
+[Event "TCh-SUI 2021"]
+[Site "Switzerland SUI"]
+[Date "2021.09.19"]
+[Round "2.7"]
+[White "Schmid,C2"]
+[Black "Hakimifard,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2091"]
+[BlackElo "2256"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 Nce4
+9.O-O Nxc3 10.bxc3 Bc5 11.e4 d6 12.e5 dxe5 13.Nxe5 Nd7 14.Nxd7 Qxd7 15.Bf4 Qe7
+16.Qe2 a6 17.Rfd1 Ra7 18.Bb8 Ra8 19.Bf4 Ra7 20.Bb8 Ra8 21.Bf4 Ra7  1/2-1/2
+
+[Event "4th Sharjah Masters 2021"]
+[Site "Sharjah UAE"]
+[Date "2021.09.20"]
+[Round "4.21"]
+[White "Bernadskiy,V"]
+[Black "Romanishin,O"]
+[Result "1/2-1/2"]
+[WhiteElo "2611"]
+[BlackElo "2403"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Nc6 7.Bg5 Qa5 8.Bd2 Qc7
+9.e3 b6 10.a3 Bb7 11.Be2 Rc8 12.h3 a6 13.Rd1 Be7 14.b4 Ne5 15.Nxe5 Qxe5 16.O-O O-O
+17.Qd3 a5 18.f4 Qb8 19.Na4 axb4 20.axb4 d5 21.Nxb6 dxc4 22.Qa3 Rc7 23.Nxc4 Bd5
+24.Ne5 Ra7 25.Qb2 Ne4 26.Bf3 Nxd2 27.Qxd2 Bxf3 28.gxf3 Qxb4 29.Qxb4 Bxb4
+30.Nc6 Bc5 31.Nxa7 Bxe3+ 32.Kg2 Bxa7 33.Rfe1 g6 34.Rd7 Bc5 35.Rc1 Be3 36.Rc4 h5
+37.Rb7 Rd8 38.Rb3 Ba7 39.Kf1 Rd7 40.Ke2 Kg7 41.Rcb4  1/2-1/2
+
+[Event "36th ECC Open 2021"]
+[Site "Struga MKD"]
+[Date "2021.09.20"]
+[Round "3.16"]
+[White "Noe,C"]
+[Black "Sammalvuo,T"]
+[Result "1-0"]
+[WhiteElo "2518"]
+[BlackElo "2416"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bf4 Bb7
+9.Rd1 Nc6 10.e3 Nh5 11.Bg3 Be7 12.Qd3 Nxg3 13.hxg3 h6 14.Qxd7 Qb8 15.Nd4 Rd8
+16.Nxc6 Rxd7 17.Nxb8 Rxd1+ 18.Kxd1 Rxb8 19.Kc2 Rc8 20.f3 Ba6 21.Kb3 Rd8 22.Be2 Rd2
+23.Rd1 Rxd1 24.Nxd1 Bb7 25.g4 f5 26.gxf5 exf5 27.Kc2 Kf7 28.Nc3 Bc6 29.Bd3 Kf6
+30.Ne2 Ba4+ 31.Kd2 Bd6 32.Nd4 Bd7 33.f4 g6 34.b4 a5 35.Kc3 axb4+ 36.axb4 Be8
+37.g3 Bd7 38.Be2 g5 39.Bf3 gxf4 40.exf4 Ke7 41.Nb3 Be8 42.c5 bxc5 43.bxc5 Bc7
+44.Kb4 h5 45.Nd4 Kf6 46.Nb5 Bd8 47.Nd6 Bg6 48.c6 Bb6 49.Kb5 Bc7 50.Kc5 Ba5
+51.Nb5 Be8 52.c7 Bd7 53.Kd6 Bc8 54.Na7 Be6 55.c8=Q Bxc8 56.Nxc8 h4 57.Kc5 hxg3
+58.Nb6 Bd2 59.Nd5+ Ke6 60.Kd4 Bc1 61.Bg2 Bd2 62.Ne3 Bc1 63.Kd3 Kf6 64.Ke2 Ba3
+65.Kf3 Bd6 66.Kxg3 Ke6 67.Bh3 Bxf4+ 68.Kxf4 Kd6 69.Bg2 Kc5 70.Nxf5 Kc4 71.Ke4 Kc3
+72.Nd4 Kc4 73.Bf1+ Kc3 74.Nf3 Kb4 75.Kd4 Kb3 76.Ne5 Kc2 77.Bd3+ Kb2 78.Kc4 Ka2
+79.Kc3 Ka1 80.Nf3 Ka2 81.Nd4 Ka1 82.Nb3+ Ka2 83.Be4 Ka3 84.Bb1 Ka4 85.Nd4 Ka5
+86.Kc4 Kb6 87.Nb5 Kc6 88.Bf5 Kb6 89.Be4 Ka5 90.Kc5 Ka4 91.Bc2+ Ka5 92.Nd6 Ka6
+93.Bd1 Ka5 94.Nb7+ Ka6 95.Kc6 Ka7 96.Kc7 Ka6 97.Be2+ Ka7 98.Nd6 Ka8 99.Bd3 Ka7
+100.Nc8+ Ka8 101.Be4+  1-0
+
+[Event "Titled Tuesday 21st Sept"]
+[Site "chess.com INT"]
+[Date "2021.09.21"]
+[Round "4"]
+[White "Kim,Se"]
+[Black "Nithyalakshmi,Sivanesan"]
+[Result "1-0"]
+[WhiteElo "2295"]
+[BlackElo "1945"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.e3 Bb7
+9.Bd3 h6 10.O-O Bxf3 11.gxf3 Nc6 12.f4 Ng4 13.Qe2 f5 14.h3 Nf6 15.Kh2 Qe8
+16.Rg1 Kh8 17.Bd2 e5 18.Bxf5 exf4 19.Bg6 f3 20.Qd3 Qe5+ 21.Rg3 Bd6 22.Rg1 Qe7
+23.Nd5 Nxd5 24.Qxd5 Ne5 25.Bb1 Nf7 26.Bc3 Bxg3+ 27.Rxg3 Rg8 28.Qh5  1-0
+
+[Event "Titled Tuesday 21st Sept"]
+[Site "chess.com INT"]
+[Date "2021.09.21"]
+[Round "4"]
+[White "Tang,Andrew"]
+[Black "Hambleton,A"]
+[Result "1-0"]
+[WhiteElo "2512"]
+[BlackElo "2454"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.g4 h6
+9.Rg1 Nc6 10.h4 b6 11.a3 Bb7 12.g5 hxg5 13.hxg5 Nh5 14.Be2 Ne5 15.Nxe5 Qxe5
+16.f4 Qc7 17.b4 Be7 18.Bb2 a6 19.O-O-O O-O-O 20.Kb1 Kb8 21.Rd2 d6 22.Ka1 g6
+23.b5 a5 24.Na4 e5 25.Rgd1 f6 26.Qxg6 Ng3 27.gxf6 Rhg8 28.Qf7 Bf8 29.Qxc7+ Kxc7
+30.fxe5 Nxe2 31.e6 Bf3 32.e7 Bxe7 33.fxe7 Rd7 34.Rf1 Bh5 35.Bf6 Re8 36.Bh4 Rdxe7
+37.Bxe7 Rxe7 38.Rf5 Ng3 39.Rg5 Ne4 40.Rdd5 Nxg5 41.Rxg5 Bf7 42.Rg7 Rd7 43.Kb2 Be6
+44.Rxd7+ Bxd7 45.Nc3 Be6 46.Nd5+ Bxd5 47.cxd5 Kd7 48.Kc3 Ke7 49.Kd4 Kf6 50.e4 a4
+51.Kd3 Kg6 52.Ke3 Kg5 53.Kf3 Kg6 54.Kg4 Kf6 55.Kf4 Kg6 56.e5 Kf7 57.exd6 Ke8
+58.Kf5 Kd8 59.Ke6 Ke8 60.d7+ Kd8 61.Ke5 Kxd7 62.d6 Kd8 63.Ke4 Ke8 64.Kd4 Kd8
+65.Kd5 Kd7 66.Ke5 Kd8 67.Ke6 Ke8 68.d7+ Kd8 69.Ke5 Kxd7 70.Kd5 Kc7 71.Ke6 Kc8
+72.Kd6 Kb7 73.Kd7 Kb8 74.Kc6 Ka8 75.Kxb6 Kb8 76.Ka5 Kb7 77.Kxa4 Kb6 78.Kb4  1-0
+
+[Event "4NCL Online S4 Div1 2021"]
+[Site "lichess.org INT"]
+[Date "2021.09.21"]
+[Round "3.14"]
+[White "Moyse,N"]
+[Black "Hughes,Gavin James"]
+[Result "0-1"]
+[WhiteElo "2007"]
+[BlackElo "1773"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 O-O 6.Bd3 Nc6 7.Nf3 d5 8.a3 cxd4
+9.exd4 dxc4 10.Bxc4 Ba5 11.Be3 Nd5 12.O-O Nce7 13.b4 Bc7 14.Bd3 h6 15.Rac1 Nxc3
+16.Qxc3 Nd5 17.Qc2 Bd7 18.Qd2 Qf6 19.Rxc7 Nxc7 20.Ne5 Rfd8 21.Ng4 Qh4 22.f3 Nd5
+23.g3 Qh3 24.Bxh6 gxh6 25.Nxh6+ Kf8 26.Qg5 Be8 27.Qg8+ Ke7 28.Qh8 Kd7 29.Bb5+ Kc7
+30.Bxe8 Rxe8 31.Qe5+ Kb6 32.Qd6+ Kb5 33.Qd7+ Kc4 34.Rc1+ Kb3 35.Ng4 Kb2 36.Re1 Rac8
+37.Nf2 Qf5 38.Qb5 Qxf3 39.Nd3+ Ka2 40.Nc1+ Rxc1 41.Rxc1 Qe3+ 42.Kg2 Qxc1
+43.Qxe8 Qd2+ 44.Kh3 Qh6+ 45.Kg2 Qg6 46.Qb5 Kxa3 47.Qxb7 Qe4+ 48.Kg1 Qe3+
+49.Kg2 Qe4+ 50.Kg1 Qxd4+ 51.Kg2 Ne3+ 52.Kf3 Qd5+ 53.Qxd5 Nxd5 54.h4 Kxb4
+55.h5 Nf6 56.h6 Nh7 57.Ke4 a5 58.Ke5 a4 59.g4 a3 60.g5 a2 61.g6 a1=Q+ 62.Kd6 fxg6
+63.Kxe6 Qf6+ 64.Kd7  0-1
+
+[Event "36th ECC Open 2021"]
+[Site "Struga MKD"]
+[Date "2021.09.23"]
+[Round "6.11"]
+[White "Miljkovic,Mih"]
+[Black "Roeder,M"]
+[Result "0-1"]
+[WhiteElo "2217"]
+[BlackElo "2372"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qc7 7.Bg5 a6 8.e3 Be7
+9.Be2 d6 10.O-O Nbd7 11.Rfd1 b6 12.Rd2 Bb7 13.Rad1 Rd8 14.Bxf6 Nxf6 15.Qa4+ Nd7
+16.Nd4 O-O 17.Bf3 Rc8 18.Bxb7 Qxb7 19.Nce2 Nc5 20.Qa3 d5 21.Rc2 dxc4 22.Rxc4 b5
+23.Rc2 b4 24.Qa5 Bd8 25.Qxc5 Rxc5 26.Rxc5 Be7 27.Rc2 Rc8 28.Rdc1 Rxc2 29.Rxc2 Qd5  0-1
+
+[Event "Speed Chess GP2 2021"]
+[Site "chess.com INT"]
+[Date "2021.09.25"]
+[Round "1"]
+[White "Amgalantengis,Enkh-Amgalan"]
+[Black "Andreikin,D"]
+[Result "0-1"]
+[WhiteElo "1878"]
+[BlackElo "2728"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Nf3 Nxc5 7.g3 b6 8.Bg2 Bb7
+9.O-O O-O 10.Rd1 Rc8 11.a3 Bxc3 12.Qxc3 Qe7 13.Bf4 d5 14.Rac1 h6 15.b4 Nce4
+16.Qd3 dxc4 17.Rxc4 Ba6 18.Rxc8 Bxd3 19.Rxf8+ Qxf8 20.Rxd3 Qc8 21.h3 Qc2
+22.Rd8+ Kh7 23.Bf1 Nd5 24.Be5 f6 25.Bd4 Ndc3 26.Bxc3 Nxc3 27.e3 Ne4 28.Nd2 Qd1
+29.Nxe4 Qxd8 30.b5 Qc7 31.Nd2 Qc3 32.Nc4 Qb3 33.Nd6 Qxa3 34.Nc8 Kg8 35.Bg2 Qc1+  0-1
+
+[Event "Speed Chess GP2 2021"]
+[Site "chess.com INT"]
+[Date "2021.09.25"]
+[Round "3"]
+[White "Yi,Richard"]
+[Black "Shapiro,Dan"]
+[Result "1-0"]
+[WhiteElo "2130"]
+[BlackElo "2284"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.Be2 a6
+9.O-O Be7 10.b3 d6 11.Bb2 b6 12.Rfd1 Nbd7 13.Rac1 Bb7 14.Nd4 Rc8 15.b4 Qb8
+16.Qb1 Ne5 17.Na4 Be4 18.Qa1 O-O 19.f3 Bg6 20.Nb3 Nxc4 21.Rxc4 Rxc4 22.Bxc4 b5
+23.Na5 Rc8 24.Bb3 bxa4 25.Bxa4 Qxb4 26.Nc6 Rc7 27.Nxb4  1-0
+
+[Event "29th TCh-CRO Div 1a 2021"]
+[Site "Mali Losinj CRO"]
+[Date "2021.09.25"]
+[Round "1.1"]
+[White "Bozinovic,Bog"]
+[Black "Jovanic,O"]
+[Result "0-1"]
+[WhiteElo "2185"]
+[BlackElo "2516"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.a3 Bxc3+ 8.Qxc3 Nxc5
+9.Bf4 Nce4 10.Qc2 d6 11.e3 e5 12.Bg3 Bf5 13.Qc1 Rc8 14.b3 b5 15.Qb2 Qb6 16.Rc1 bxc4
+17.Rxc4 Nc5 18.Nd2 Nd3+ 19.Bxd3 Bxd3 20.Rc3 Ba6 21.Qc2 Rxc3 22.Qxc3 Rc8 23.Qa1 Qb5  0-1
+
+[Event "Speed Chess GP3 2021"]
+[Site "chess.com INT"]
+[Date "2021.10.02"]
+[Round "5"]
+[White "Muradov,Soltan"]
+[Black "Kiseleva,A"]
+[Result "1-0"]
+[WhiteElo "2233"]
+[BlackElo "1970"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Bf4 Nc6 7.Nf3 d6 8.e3 e5
+9.Bg5 h6 10.Bh4 Nb4 11.Qd1 g5 12.Bg3 Bf5 13.Rc1 Ne4 14.a3 Nxc3 15.Rxc3 Nc6
+16.b4 Nxb4 17.axb4 Bxb4 18.Qa4+ Bd7 19.Qxb4 Qc7 20.Be2 f5 21.h4 f4 22.exf4 gxf4
+23.Bh2 Rg8 24.O-O a5 25.Qa3 Bh3 26.Ne1 Bf5 27.c5 Qc6 28.cxd6 Qxg2+ 29.Nxg2  1-0
+
+[Event "Titled Tuesday 5th Oct"]
+[Site "chess.com INT"]
+[Date "2021.10.05"]
+[Round "1"]
+[White "Melikhov,E"]
+[Black "Hambleton,A"]
+[Result "0-1"]
+[WhiteElo "2292"]
+[BlackElo "2454"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.a3 Bxc5 7.Nf3 a6 8.e3 b6
+9.b3 Bb7 10.Be2 Be7 11.Bb2 d6 12.g4 h6 13.Rg1 Nbd7 14.h4 Nc5 15.g5 hxg5 16.hxg5 Nfe4
+17.g6 f5 18.Nd4 Bf6 19.b4 Nxc3 20.Bxc3 Ne4 21.Bb2 Rh2 22.Nxe6 Qe7 23.Nd4 Nxf2
+24.Nxf5 Qe6 25.Nxg7+ Bxg7 26.Bxg7 Be4 27.Qc3 O-O-O 28.Qd4 Rg8 29.Bf6 Rxg6
+30.Rxg6 Bxg6 31.Kd2 Qxf6 32.Qxf6 Ne4+ 33.Kd3 Nxf6+ 34.Kd4 Rxe2 35.Rg1 Rd2+
+36.Kc3 Ne4+ 37.Kb3 Rd3+ 38.Ka4 Be8+ 39.b5 Nc5+ 40.Kb4 a5+  0-1
+
+[Event "Titled Tuesday 5th Oct"]
+[Site "chess.com INT"]
+[Date "2021.10.05"]
+[Round "1"]
+[White "Holt,C"]
+[Black "Rodchenkov,V"]
+[Result "1-0"]
+[WhiteElo "2549"]
+[BlackElo "2330"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Bf4 d5 8.e3 Nc6
+9.Nf3 a6 10.Rd1 Qe7 11.Bg5 dxc4 12.Bxc4 b5 13.Ne4 bxc4 14.Qxc4 Ba7 15.Nxf6+ gxf6
+16.Bh6 e5 17.Bxf8 Kh8  1-0
+
+[Event "Titled Tuesday 5th Oct"]
+[Site "chess.com INT"]
+[Date "2021.10.05"]
+[Round "2"]
+[White "Hambleton,A"]
+[Black "Melian,Juan Sebastian"]
+[Result "1-0"]
+[WhiteElo "2454"]
+[BlackElo "2044"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.Nf3 a6 7.a3 Bxc5 8.e3 Be7
+9.Be2 b6 10.b3 Bb7 11.Bb2 O-O 12.g4 Rc8 13.g5 Ne8 14.Rg1 d6 15.h4 Nd7 16.h5 e5
+17.g6 fxg6 18.hxg6 h6 19.O-O-O Nef6 20.Nh4 Nc5 21.Nf5 Bf8 22.f4 Re8 23.Rdf1 Rad8
+24.fxe5 dxe5 25.Nxh6+ gxh6 26.Rxf6 Bg7 27.Rf7 Re7 28.b4 Ne6 29.Nd5 Bxd5 30.cxd5 Qxc2+
+31.Kxc2 Rxd5 32.Bc4 Rc7 33.Rxc7 Nxc7 34.e4  1-0
+
+[Event "Titled Tuesday 5th Oct"]
+[Site "chess.com INT"]
+[Date "2021.10.05"]
+[Round "2"]
+[White "Havanecz,B"]
+[Black "Starosta,Martyna"]
+[Result "1-0"]
+[WhiteElo "2224"]
+[BlackElo "1938"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Nf3 Nxc5 7.g3 d5 8.cxd5 exd5
+9.a3 Bxc3+ 10.Qxc3 Nce4 11.Qd3 Qb6 12.Be3 Qxb2 13.Bd4 Nc5 14.Bxb2 Nxd3+ 15.exd3 Bg4
+16.Bg2 Kd7 17.O-O Rhe8 18.Ne5+ Kd6 19.Nxg4 Nxg4 20.Bxg7 f6 21.h3 Rg8 22.hxg4 Rxg7
+23.Bf3 Rc8 24.Rac1 Rgc7 25.Rxc7 Rxc7 26.Kg2 Rc3 27.Rh1 Rxd3 28.Rxh7 Rb3 29.a4 d4
+30.Be4 d3 31.Bf5 Kc5 32.Rd7 Ra3 33.Bxd3 Rxa4 34.Rxb7 Rxg4 35.Rxa7 Rd4 36.Bf5  1-0
+
+[Event "Titled Tuesday 5th Oct"]
+[Site "chess.com INT"]
+[Date "2021.10.05"]
+[Round "7"]
+[White "Holt,C"]
+[Black "Yoo,Christopher Woojin"]
+[Result "0-1"]
+[WhiteElo "2549"]
+[BlackElo "2485"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Bf4 d5 8.e3 Nc6
+9.Nf3 Be7 10.Rd1 Qa5 11.Be2 dxc4 12.Bxc4 e5 13.Bg3 e4 14.Nd2 Bg4 15.Rc1 Bf5
+16.O-O Rac8 17.Nb3 Qb6 18.Na4 Qd8 19.Rfd1 Qe8 20.Bb5 a6 21.Bxc6 Rxc6 22.Nc3 Rc8
+23.h3 Bg6 24.Rd4 Nd7 25.Qd1 Nf6 26.Bh4 b5 27.Qd2 Bf5 28.Bg3 Be6 29.Na5 Bc5
+30.Bd6 Bxd4 31.exd4 Qd7 32.Bxf8 Rxf8 33.Re1 Bf5 34.Nb3 Rc8 35.Qf4 Nd5 36.Nxd5 Qxd5
+37.Nc5 Bg6 38.Qe3 Rc6 39.b4 f5 40.f3 exf3 41.gxf3 Rd6 42.Rd1 f4 43.Qxf4 Rf6
+44.Qg4 Rxf3 45.Re1 Bf5 46.Qg5 Qxd4+ 47.Kg2 Qf2+ 48.Kh1 Rxh3+  0-1
+
+[Event "Titled Tuesday 5th Oct"]
+[Site "chess.com INT"]
+[Date "2021.10.05"]
+[Round "9"]
+[White "Havanecz,B"]
+[Black "Shapiro,Dan"]
+[Result "1-0"]
+[WhiteElo "2224"]
+[BlackElo "2284"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.Be2 a6
+9.O-O Be7 10.b3 d6 11.Bb2 Nbd7 12.Rfd1 b6 13.Ne1 Bb7 14.Bf3 O-O 15.Qe2 Rfd8
+16.Rd2 Rac8 17.Rad1 Qb8 18.h3 Nc5 19.Bxb7 Qxb7 20.Nf3 h6 21.Nd4 Bf8 22.Qf3 Nfe4
+23.Nxe4 Qxe4 24.Nc2 Qxf3 25.gxf3 Be7 26.Nb4 b5 27.cxb5 axb5 28.Nd3 Ra8 29.Nxc5 dxc5
+30.Rxd8+ Rxd8 31.Rxd8+ Bxd8 32.Kf1 f6 33.Ke2 Kf7 34.Kd3 Ba5 35.f4 Ke7 36.f3 Kd6
+37.e4 Be1 38.a4 c4+ 39.bxc4 bxa4 40.Ba3+ Kc6 41.Kd4 Bf2+ 42.Kd3 Bc5 43.Bc1 a3
+44.Kc3 e5 45.fxe5 fxe5 46.Kb3 a2 47.Kxa2 Bf2 48.Kb3 Kc5 49.Kc3 Be1+ 50.Kd3 Kb4
+51.Be3 Bg3 52.Bb6 Bf4 53.Bd8 Kc5 54.Be7+ Kc6 55.Bf8  1-0
+
+[Event "Titled Tuesday 5th Oct"]
+[Site "chess.com INT"]
+[Date "2021.10.05"]
+[Round "9"]
+[White "Bach,Ngoc Thuy Duong"]
+[Black "Buker,M"]
+[Result "1-0"]
+[WhiteElo "2198"]
+[BlackElo "1967"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 O-O 7.Bg5 Be7 8.Rd1 d5
+9.cxd5 exd5 10.e3 Be6 11.Bd3 Nc6 12.a3 h6 13.Bh4 Rc8 14.O-O Re8 15.Bf5 Nd7
+16.Bg3 Qb6 17.Qd3 Qxb2 18.Nxd5 Nc5 19.Qb1 Qxb1 20.Bxb1 Bxd5 21.Rxd5 Ne6 22.h3 Bf6
+23.Rd7 Rc7 24.Bxc7 Nxc7 25.Rxc7  1-0
+
+[Event "Romanian Teams 1st League"]
+[Site "Mamaia ROU"]
+[Date "2021.10.05"]
+[Round "5.1"]
+[White "Bulau,Andrei-Cristian"]
+[Black "Cosma,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2186"]
+[BlackElo "2400"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 Nce4
+9.O-O Nxc3 10.bxc3 Be7 11.e4 d6 12.e5 dxe5 13.Nxe5 Qc7 14.Qe2 Bd6 15.Re1 Nd7
+16.Bf4 Rb8 17.Rad1 Bxe5 18.Bxe5 Nxe5 19.Qxe5 Qxe5 20.Rxe5 b6 21.a4 Ba6 22.c5 Rfd8
+23.Rxd8+ Rxd8 24.h4 Kf8 25.cxb6 axb6 26.a5 Rd1+ 27.Kh2 b5 28.Rc5 Ra1 29.Rc7 Rxa5
+30.Ra7 Ra4 31.Bc6 Bc8 32.Rc7 Ba6 33.Ra7 Bc8 34.Rc7  1/2-1/2
+
+[Event "Romanian Teams 1st League"]
+[Site "Mamaia ROU"]
+[Date "2021.10.06"]
+[Round "6.5"]
+[White "Calin,Alexandru"]
+[Black "Isfan,Ioan-Marius"]
+[Result "1/2-1/2"]
+[WhiteElo "2123"]
+[BlackElo "2256"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Nf3 Nxc5 7.g3 Nce4 8.Bg2 O-O
+9.O-O Nxc3 10.bxc3 Bc5 11.e4 d6 12.e5 dxe5 13.Nxe5 Qc7 14.Qe2 Bd6 15.Re1 Nd7
+16.Bf4 Rb8 17.Rab1 Nxe5 18.Bxe5 b6 19.Bxd6 Qxd6 20.Qe5 Qxe5 21.Rxe5 Ba6 22.Rb4 Rbc8
+23.Bf1 Rc7 24.Ra4 Bc8 25.c5 Bd7 26.cxb6 axb6 27.Ra3 Rd8 28.Re1 Bc6 29.Rb1 g5
+30.Bg2 Rd2 31.h3 Bxg2 32.Kxg2 Rc6 33.Rb5 h6 34.Rab3 Rxa2 35.Rxb6 Rc7 36.Rb7 Rc4
+37.R7b4 Rc6 38.Rb6 Rxb6 39.Rxb6 Kg7 40.c4 Kf6 41.Rb7 h5 42.c5 Rc2 43.Rc7 e5
+44.Rc6+ Kf5 45.Rh6 e4 46.Kf1 h4 47.gxh4 Rxc5 48.hxg5 Kxg5 49.Ra6 Rc3 50.Kg2 f5
+51.Ra5 Kf4 52.Ra4 Rc2 53.Rb4 Ra2 54.Rc4 Kg5 55.Kg1 Kh4 56.Kg2 Ra8 57.Rc7 Rg8+
+58.Kh2 Kg5 59.Rc5 Kf4 60.Rc3 Rg5 61.Ra3 Ke5 62.Ra5+ Kf4 63.Ra3 Rg6 64.Rb3 Ra6
+65.Kg2 Kg5 66.Rb5 Ra2 67.Re5 Re2 68.Kf1 Rb2 69.Kg2 Ra2 70.Re8  1/2-1/2
+
+[Event "48th TCh-GRE Group 2 2021"]
+[Site "Thessaloniki GRE"]
+[Date "2021.10.07"]
+[Round "4.2"]
+[White "Dereka,Konstantina"]
+[Black "Mplitsa,Artemis"]
+[Result "1/2-1/2"]
+[WhiteElo "1479"]
+[BlackElo "1393"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.a3 Bxc3+ 8.Qxc3 Nxc5
+9.b4 Nce4 10.Qc2 b6 11.e3 Ba6 12.Bd3 d5 13.b5 Bb7 14.Bb2 h6 15.O-O Rc8 16.Qe2 Qe7
+17.Rac1 Rfd8 18.Nd4 Nc5 19.Bb1 Na4 20.Ba2 Nxb2 21.Qxb2 dxc4 22.Bxc4 Qd6 23.Be2 Qd7
+24.Rfd1 Rxc1 25.Rxc1 Rc8 26.h3 Ne8 27.a4 Rc7 28.Bf3 Bxf3 29.Nxf3 Nf6 30.Ne5 Qd6
+31.Rxc7 Qxc7 32.Nc6 Nd5 33.Qa3 a6 34.e4 Nf6 35.e5 Nd5 36.Qd6 axb5 37.axb5 Qxd6
+38.exd6 Nf6 39.Ne5 Kf8 40.Kf1 Ke8 41.Ke2 Ne4 42.d7+ Kd8 43.Nc4 Kxd7 44.Nxb6+ Kc7
+45.Na4 Nd6 46.b6+ Kc6 47.Kd3 Nc8 48.Kd4 Nxb6 49.Nc3 Nd5 50.Ne2 Kd6 51.h4 g5
+52.hxg5 hxg5 53.g4 Nf6 54.f3 Nd7 55.Ng3 Nc5 56.Kc4 Ke5 57.Kxc5 Kf4 58.Nh5+ Kxf3
+59.Nf6 e5 60.Kd5 e4 61.Nxe4 Kxg4 62.Nf6+ Kf5 63.Nh5 g4 64.Kd6 Kg5 65.Ng3 Kf6
+66.Kd5 Kg5 67.Ke5 f6+ 68.Ke4 Kh4 69.Kf4 Kh3 70.Nf5  1/2-1/2
+
+[Event "La Nucia Open 2021"]
+[Site "La Nucia ESP"]
+[Date "2021.10.08"]
+[Round "3.3"]
+[White "Iniyan,P"]
+[Black "Plaskett,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2529"]
+[BlackElo "2375"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e4 Ng4 8.h3 Bxf2+
+9.Ke2 Ne3 10.Qd3 Nxf1 11.Rxf1 Bc5 12.Na4 Qc7 13.Nxc5 Qxc5 14.Bf4 Nc6 15.Bd6 Qh5
+16.b4 f6 17.b5 Nd8 18.g4 Qg6 19.g5 Nf7 20.gxf6 Nxd6 21.fxg7 Qg2+ 22.Ke3 Nxc4+
+23.Qxc4 Qxg7 24.e5 b6 25.Qe4 Rb8 26.Qh4 Bb7 27.Rg1 Qf8 28.Qh5+ Kd8 29.Qh4+ Ke8
+30.Qh5+ Kd8 31.Qh4+  1/2-1/2
+
+[Event "Speed Chess GP4 2021"]
+[Site "chess.com INT"]
+[Date "2021.10.09"]
+[Round "1"]
+[White "Sahil,Tic"]
+[Black "Bologan,V"]
+[Result "0-1"]
+[WhiteElo "2201"]
+[BlackElo "2574"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 d5 8.cxd5 exd5
+9.Bg5 d4 10.Ne4 Be7 11.Nxf6+ Bxf6 12.Bxf6 Qxf6 13.Qd2 Nc6 14.g3 d3 15.Qxd3 Qxb2
+16.Rb1 Qf6 17.Rc1 Re8 18.Bg2 Bf5 19.Qc3 Qe7 20.e3 Be4 21.O-O h6 22.Rfd1 Rac8
+23.Nd4 Bxg2 24.Kxg2 Qe4+ 25.Kg1 Nxd4 26.Qxd4 Qxd4 27.exd4 Kf8 28.Kf1 Ke7
+29.Re1+ Kd6 30.Rxe8 Rxe8 31.Rc5 b6 32.Rc4 Re7 33.f3 Kd5 34.Ra4 Rb7 35.Kf2 b5
+36.Rb4 a5 37.Rb1 Kxd4 38.Ke2 Kc3 39.Ke3 Re7+ 40.Kf4 b4 41.axb4 axb4 42.h4 b3
+43.Rc1+ Kd2 44.Rc8 b2 45.Rb8 Kc2 46.Rc8+ Kb1 47.Rb8 Rc7 48.g4 Kc1  0-1
+
+[Event "TCh-ESP Rapid 2021"]
+[Site "Ciudad Real ESP"]
+[Date "2021.10.09"]
+[Round "5.5"]
+[White "Jimenez Martinez,Jo"]
+[Black "Khamrakulov,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2287"]
+[BlackElo "2416"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Qa5 7.Bd2 Nxc5 8.Rc1 Bxc3
+9.Bxc3 Qa4 10.f3 d6 11.e4 Bd7 12.e5 dxe5 13.Bxe5 Qxc2 14.Rxc2 Ba4 15.Rc3 O-O-O
+16.Be2 Rd7 17.b4 Nb3 18.Bd1 Nc5 19.Be2 Na6 20.Rd3 Rxd3 21.Bxd3 Nb8 22.Ne2 Rd8
+23.Kd2 Nc6 24.Bc3 Nd7 25.f4 Nf6 26.Bxf6 gxf6 27.Kc3 Ne7 28.Nd4 Bc6 29.Nxc6 Nxc6
+30.g4 h6 31.h4 Nd4 32.Rh3 Kc7 33.g5 fxg5 34.hxg5 hxg5 35.fxg5 e5 36.Rh7 Rd7
+37.c5 b6 38.cxb6+ Kxb6 39.Bc4 Rc7 40.Rxf7 Nb5+ 41.Kb3 Nd4+ 42.Kc3 Nb5+ 43.Kb3 Nd4+
+44.Kc3 Nb5+  1/2-1/2
+
+[Event "TCh-ESP Rapid 2021"]
+[Site "Ciudad Real ESP"]
+[Date "2021.10.10"]
+[Round "9.5"]
+[White "Jimenez Martinez,Jo"]
+[Black "Tejedor Fuente,Enrique"]
+[Result "1/2-1/2"]
+[WhiteElo "2287"]
+[BlackElo "2439"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 Nc6 8.e3 d5
+9.cxd5 exd5 10.Be2 d4 11.exd4 Nxd4 12.Nxd4 Qxd4 13.Be3 Qe5 14.Bxc5 Qxc5 15.O-O Bf5
+16.Bd3 Bxd3 17.Qxd3 Rfd8 18.Qf3 Qb6 19.b4 Rac8 20.Ne4 Nxe4 21.Qxe4 Re8 22.Qf3 Re6
+23.Rac1 Rce8 24.Rc5 h6 25.g3 Rf6 26.Rf5 Ree6 27.Rc1 Kh7 28.Rc4 Qa6 29.Re4 Rc6
+30.h4 g6 31.Rxf6 Rxf6 32.Rf4 Rxf4 33.Qxf4 Qe6 34.Qf3 Qd7 35.Qe4 h5 36.Kh2 Kg8
+37.Qe3 Qa4 38.Qf3 b6 39.Qc3 a5 40.Qc8+ Kg7 41.Qc3+ Kg8 42.Qc8+ Kg7 43.Qc3+ Kg8
+44.Qc8+ Kg7 45.Qc3+  1/2-1/2
+
+[Event "TCh-CZE 1 Liga Vychod"]
+[Site "Czech Republic CZE"]
+[Date "2021.10.10"]
+[Round "2.1"]
+[White "Holemar,D"]
+[Black "Fargac,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2197"]
+[BlackElo "2283"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Nf3 Nxc5 7.Bd2 O-O 8.e3 b6
+9.Be2 Bb7 10.O-O Rc8 11.Rfc1 d5 12.cxd5 Nxd5 13.Nxd5 Bxd2 14.Qxd2 Qxd5 15.Qxd5 Bxd5
+16.Kf1 a5 17.Ne1 e5 18.b3 Rcd8 19.Nf3 f6 20.Bc4 Kf7 21.Ke2 Ke6 22.Rc2 Bxc4+
+23.Rxc4 Rd6 24.Rd1 Rfd8 25.Rxd6+ Kxd6 26.b4 axb4 27.Rxb4 Kc6 28.Nd2 b5 29.Rb2 Ra8
+30.Rc2 Kb6 31.Rb2 Ra4 32.Nb1 Ne4 33.f3 Nd6 34.Nc3 Ra3 35.Rb3 Rxb3 36.axb3 Kc5
+37.Na2 f5 38.Kd2 g5 39.g3 g4 40.f4 Ne4+ 41.Kd3 exf4 42.exf4 Nf2+ 43.Ke3 Nh3
+44.Nc1 Kb4 45.Kd4 Nf2 46.Ke5 Kc3 47.Kxf5 Kc2 48.Ne2 Kxb3 49.Nd4+ Kc4 50.Nxb5 Kxb5
+51.Ke6 Kc6 52.f5 Ne4 53.f6 Ng5+ 54.Kf5 Nf7 55.Kxg4 Kd5 56.Kf5 Nd6+  1/2-1/2
+
+[Event "TCh-SUI 2021"]
+[Site "Switzerland SUI"]
+[Date "2021.10.10"]
+[Round "3.8"]
+[White "Benitah,Y"]
+[Black "Coellen,Eike"]
+[Result "1-0"]
+[WhiteElo "2377"]
+[BlackElo "1999"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Nc6 7.Bg5 h6 8.Bh4 Be7
+9.Rd1 Qa5 10.a3 d5 11.e3 dxc4 12.Bxc4 a6 13.O-O O-O 14.Ba2 Rd8 15.Bb1 g6
+16.Rxd8+ Qxd8 17.Rd1 Qe8 18.h3 b5 19.e4 Bb7 20.e5 Nd7 21.Bg3 Rd8 22.Qc1 Qf8
+23.Bf4 Kh7 24.h4 Qg7 25.Be4 Nc5 26.Bxc6 Rxd1+ 27.Qxd1 Bxc6 28.Nd4 Bb7 29.Bg3 g5
+30.h5 f5 31.exf6 Bxf6 32.Qc2+ Kh8 33.Nde2 Qh7 34.Qd1 Qd3 35.Qe1 Ne4 36.Nxe4 Qxe4
+37.f3 Qc6 38.Nc3 g4 39.Qe3 Bg7 40.Be5 Kg8 41.Bxg7 Kxg7 42.Qe5+ Kf7 43.Qf4+ Kg8
+44.Qxg4+ Kh8 45.Qd4+ Kg8 46.Kh1 Qe8 47.Qg4+ Kf8 48.Ne2 e5 49.Ng3 Bc8 50.Qb4+ Kg7
+51.Qd6 Qe6 52.Qc7+ Bd7 53.Ne4 Qe7 54.Kg1 Kg8 55.Qxd7  1-0
+
+[Event "ch-RUS Blitz w 2021"]
+[Site "Sochi RUS"]
+[Date "2021.10.11"]
+[Round "3.2"]
+[White "Sukhareva,E"]
+[Black "Borisova,Ekaterina"]
+[Result "0-1"]
+[WhiteElo "2143"]
+[BlackElo "2250"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 O-O 6.Nf3 cxd4 7.exd4 d5 8.a3 Be7
+9.Bg5 dxc4 10.Bxc4 Nbd7 11.O-O b6 12.Rad1 Bb7 13.Ne5 Rc8 14.Ba2 h6 15.Bh4 Ne4
+16.Bxe7 Qxe7 17.Bb1 Ndf6 18.Rfe1 Rfd8 19.Re3 Kf8 20.f3 Nxc3 21.bxc3 Qxa3
+22.Nxf7 Kxf7 23.Qg6+ Kf8 24.Rxe6 Bd5 25.Rxf6+ gxf6 26.Qxf6+ Bf7 27.Qh8+ Ke7
+28.Re1+ Kd7 29.Qf6 Bc4 30.Re7+ Qxe7 31.Bf5+ Be6 32.Qe5 Bxf5 33.Qxf5+ Qe6
+34.Qh7+ Kd6 35.h3 Rxc3 36.Qxa7 Rc1+ 37.Kh2 Rc6 38.Qa3+ Kd7 39.Qa7+ Rc7 40.Qa4+ Ke7
+41.Qb4+ Qd6+  0-1
+
+[Event "ch-RUS Blitz 2021"]
+[Site "Sochi RUS"]
+[Date "2021.10.11"]
+[Round "4.2"]
+[White "Dreev,A"]
+[Black "Bocharov,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2517"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.Nf3 Bxc5 7.e3 a6 8.b3 b6
+9.Bb2 Bb7 10.Bd3 Be7 11.Ne4 Nc6 12.a3 Nxe4 13.Bxe4 f5 14.Bd3 O-O 15.O-O Bf6
+16.Rad1 Rad8 17.Rfe1 Ne7 18.Be2 Ng6 19.Bxf6 Rxf6 20.Qd2 d6 21.Nd4 f4 22.Bf3 Nh4
+23.e4 e5 24.Nc2 Nxf3+ 25.gxf3 Qc8 26.Kf1 b5 27.Qc3 Kh8 28.Nb4 Rf7 29.Nd5 Bxd5
+30.Rxd5 bxc4 31.Qxc4 Rc7 32.Qb4 h6 33.Red1 Rc2 34.R5d2 Qh3+ 35.Ke2 Rxd2+
+36.Rxd2 Qe6 37.Rd5 Qc8 38.Qc4 Qb7 39.Qb4 Qc7 40.Qc4 Qb7 41.Qb4 Qc7 42.Qc4 Qb7  1/2-1/2
+
+[Event "ch-RUS Blitz 2021"]
+[Site "Sochi RUS"]
+[Date "2021.10.11"]
+[Round "9.22"]
+[White "Dreev,A"]
+[Black "Faizrakhmanov,Ramil"]
+[Result "0-1"]
+[WhiteElo "2635"]
+[BlackElo "2483"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.Nf3 a6 7.e3 Bxc5 8.b3 Be7
+9.Bb2 d6 10.g4 h6 11.Rg1 b6 12.h4 Bb7 13.Be2 Nc6 14.g5 hxg5 15.hxg5 Nd7 16.g6 f6
+17.Nd5 Qd8 18.Nxe7 Qxe7 19.O-O-O Nc5 20.Nd4 O-O-O 21.Ba3 Nxd4 22.exd4 Be4
+23.Qd2 Nb7 24.Qe3 Bf5 25.d5 Nc5 26.dxe6 Qxe6 27.Qxe6+ Bxe6 28.Rh1 Ne4 29.Bf3 Rxh1
+30.Rxh1 Nxf2 31.Rh7 Nd3+ 32.Kd2 Ne5 33.Be4 d5 34.Bc2 dxc4+ 35.Kc3 cxb3 36.axb3 Rd7
+37.Bf8 f5 38.Rh8 Nxg6 39.Bxg7+ Nxh8 40.Bxh8 f4 41.Be4 Rh7 42.Be5 Rh3+ 43.Kd4 Rxb3
+44.Bxf4 Rb4+ 45.Ke5 Bd7 46.Be3 a5 47.Bd5 a4 48.Kd6 a3 49.Bd2 Rd4 50.Bc3 Rd3
+51.Be5 a2  0-1
+
+[Event "Fagernes GM Open 2021"]
+[Site "Fagernes NOR"]
+[Date "2021.10.14"]
+[Round "6.14"]
+[White "Juksta,Karolis"]
+[Black "Seifert,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2397"]
+[BlackElo "2246"]
+[ECO "E38"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.g4 h6
+9.Rg1 Nc6 10.Bd2 a6 11.h4 h5 12.gxh5 Bf8 13.O-O-O b5 14.h6 Rxh6 15.e4 Rh5
+16.e5 Nxe5 17.Nxe5 Qxe5 18.Rg5 Qc7 19.Rxh5 Nxh5 20.cxb5 Bb7 21.Kb1 axb5 22.Bxb5 Nf6
+23.Bg5 Nd5 24.a4 Nxc3+ 25.Qxc3 Bc6 26.b3 f6 27.Bxc6 Qxc6 28.Qxc6 dxc6 29.Be3 Bb4
+30.Kc2 Ke7 31.Rg1 Kf7 32.Rg4 c5 33.Rc4 Rc8 34.Kd3 f5 35.Ke2 e5 36.f4 exf4
+37.Rxf4 Ke6 38.Rc4 g6 39.Kf3 Ke5 40.Rc1 Rc6 41.Bf2 Kd5 42.Rd1+ Ke6 43.Rc1  1/2-1/2
+
+[Event "SPICE Cup Open 2021"]
+[Site "Clayton, MO USA"]
+[Date "2021.10.17"]
+[Round "1.10"]
+[White "Singh,Hersh"]
+[Black "Williams,Justus"]
+[Result "1-0"]
+[WhiteElo "2100"]
+[BlackElo "2420"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Nce4
+9.Qb2 d5 10.c5 d4 11.e3 e5 12.Bb5+ Kf8 13.Nf3 Nc3 14.Bc4 b5 15.Bb3 Qe7 16.O-O Bb7
+17.exd4 exd4 18.Re1 Qd8 19.Ne5 Bd5 20.Bf4 h6 21.Bxd5 Qxd5 22.Nf3 Rd8 23.Be5 Qc4
+24.Rac1 Re8 25.Bd6+ Kg8 26.Rxe8+ Nxe8 27.Nxd4 Na4 28.Rxc4 Nxb2 29.Rc2 Nc4
+30.Nxb5 Nexd6 31.Nxd6  1-0
+
+[Event "EY Girls U18 2021"]
+[Site "Tornelo INT"]
+[Date "2021.10.17"]
+[Round "4.2"]
+[White "Radikovic,Anamarija"]
+[Black "Marcinczyk,Monika"]
+[Result "0-1"]
+[WhiteElo "2170"]
+[BlackElo "2036"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 Nc6 6.Nf3 d5 7.cxd5 exd5 8.dxc5 Bxc5
+9.a3 O-O 10.Bd3 Bg4 11.Ng5 h6 12.Nh7 Nxh7 13.Bxh7+ Kh8 14.h3 Be6 15.Bd3 Ne5
+16.O-O Rc8 17.Be2 f5 18.Rd1 Qf6 19.Nxd5 Bxd5 20.Rxd5 Bxe3 21.Qd1 Bb6 22.Bf4 Nc4
+23.b3 Na5 24.Be5 Qe6 25.Bf3 Rfd8 26.Rxd8+ Rxd8 27.Qe2 Kh7 28.g4 Nc6 29.Bc3 Qxb3
+30.Rc1 Bd4 31.Bxc6 Bxc3 32.Bxb7 Qxa3 33.Qc2 Qb2 34.Qxf5+ Kh8 35.Rb1 Qe2 36.Be4 Kg8
+37.Qh7+ Kf8 38.Qf5+ Bf6 39.Bf3 Qe5 40.Qh7 Qe6 41.Be4 Bd4 42.Rb7 Rd7 43.Qh8+ Ke7
+44.Rb8 Kd6 45.Qf8+ Qe7 46.Qf4+ Qe5 47.Qf3 Qf6 48.Bf5 Rc7 49.Qg3+ Qe5 50.Qa3+ Qc5
+51.Qd3 Ke7 52.Qe2+ Qe5 53.Qf3 Rc1+ 54.Kg2 Qxb8 55.Qd5 Qd6 56.Qe4+ Kf6 57.Qf3 Be5
+58.Bg6+ Bf4 59.Be4 Qe5 60.Qd3 Qd6 61.Bd5 g6 62.Qd4+ Qe5 63.Qd3 Rc7 64.Be4 Qd6
+65.Qb1 Kg7 66.Qb3 Qf6 67.Bd5 Bd6 68.Qb8 Qxf2+ 69.Kxf2 Rc2+  0-1
+
+[Event "71st ch-RUS w 2021"]
+[Site "Ufa RUS"]
+[Date "2021.10.17"]
+[Round "8.6"]
+[White "Kashlinskaya,A"]
+[Black "Garifullina,Leya"]
+[Result "1-0"]
+[WhiteElo "2493"]
+[BlackElo "2409"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 Nc6 8.Bg5 h6
+9.Bh4 Be7 10.Rd1 d5 11.e3 Bd7 12.Bxf6 Bxf6 13.cxd5 exd5 14.Nxd5 Be6 15.Bc4 Qa5+
+16.b4 Qxa3 17.Nxf6+ gxf6 18.Bxe6 Qxb4+ 19.Kf1 fxe6 20.Qg6+ Kh8 21.Qxh6+ Kg8
+22.Qg6+ Kh8 23.Qh6+ Kg8 24.h4 Rad8 25.Qg6+ Kh8 26.Qh6+ Kg8 27.Qg6+ Kh8 28.Rxd8 Nxd8
+29.Rh3 Qc4+ 30.Kg1 Qc1+ 31.Ne1 Qxe1+ 32.Kh2 Qxf2 33.Rg3 Qxg3+ 34.Qxg3 e5
+35.Qg4 Nf7 36.Qb4 Rb8 37.Qe7 Kg7 38.Qc7 Rh8 39.g3 b5 40.Qxa7 Rd8 41.Kh3 f5
+42.Qb6 f4 43.g4 Rd6 44.Qxb5 fxe3 45.Qe2 e4 46.g5 Rd2 47.Qc4 Nd6 48.Qc3+ Kg8
+49.Kg4 Rd3 50.Qb2 Rd2 51.Qb3+ Kg7 52.Qc3+ Kf7 53.Qxe3 Rd3 54.Qf4+ Ke6 55.Qf6+ Kd5
+56.g6 Rd1 57.Qf2 Rd4 58.Qa2+ Ke5 59.g7 e3+ 60.Kh3 Nf5 61.g8=Q Rxh4+ 62.Kg2 Rd4
+63.Qa5+ Kf4 64.Qf7 Rd2+ 65.Kh3  1-0
+
+[Event "SPICE Cup Open 2021"]
+[Site "Clayton, MO USA"]
+[Date "2021.10.18"]
+[Round "3.1"]
+[White "Nyzhnyk,I"]
+[Black "Yoo,Christopher Woojin"]
+[Result "1/2-1/2"]
+[WhiteElo "2670"]
+[BlackElo "2485"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 d5 8.Bg5 Be7
+9.e3 Nc6 10.Rd1 Qa5 11.Bd3 dxc4 12.Bxc4 Ne5 13.Nxe5 Qxe5 14.Bf4 Qc5 15.Bd3 b6
+16.Nb5 Qxc2 17.Bxc2  1/2-1/2
+
+[Event "Titled Tuesday 19th Oct"]
+[Site "chess.com INT"]
+[Date "2021.10.19"]
+[Round "1"]
+[White "Bach,Ngoc Thuy Duong"]
+[Black "Bologan,V"]
+[Result "1-0"]
+[WhiteElo "2198"]
+[BlackElo "2574"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 d5 8.cxd5 exd5
+9.Bg5  1-0
+
+[Event "Titled Tuesday 19th Oct"]
+[Site "chess.com INT"]
+[Date "2021.10.19"]
+[Round "2"]
+[White "Shipov,S"]
+[Black "Shafigullina,Zarina"]
+[Result "1-0"]
+[WhiteElo "2541"]
+[BlackElo "2204"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 Nc6 8.Bg5 Nd4
+9.Nxd4 Bxd4 10.e3 Qa5 11.exd4 Qxg5 12.Qd2 Qg6 13.Bd3 Qxg2 14.O-O-O d5 15.Rhg1 Qh3
+16.Rxg7+ Kh8 17.Qg5 Qf3 18.Rg1 Bd7 19.Rxh7+  1-0
+
+[Event "Titled Tuesday 19th Oct"]
+[Site "chess.com INT"]
+[Date "2021.10.19"]
+[Round "5"]
+[White "Indjic,A"]
+[Black "Shkapenko,P"]
+[Result "1-0"]
+[WhiteElo "2612"]
+[BlackElo "2424"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.b3 b6
+9.Bb2 Bb7 10.Be2 a6 11.O-O-O Be7 12.Rhg1 d6 13.g4 h6 14.h4 Nc6 15.g5 hxg5
+16.hxg5 Nd7 17.g6 f5 18.Nd5 exd5 19.cxd5 Bf6 20.dxc6 Bxc6 21.Nd4 Nc5 22.Nxc6 Bxb2+
+23.Kxb2 Qxc6 24.Bc4 O-O-O 25.Qxf5+ Kb8 26.Bd5 Qc7 27.Rd2 Rhf8 28.Qc2 Qe7
+29.Bf7 Rc8 30.Qf5 Qc7 31.Rc2 Rh8 32.Rgc1 a5 33.a3 Qe7 34.b4 axb4 35.axb4 Nd7
+36.Rxc8+ Rxc8 37.Rxc8+ Kxc8 38.Be6 Kc7 39.Bxd7 Qxd7 40.Qxd7+ Kxd7 41.Kc3 Ke6
+42.Kc4 Ke5 43.Kb5 Ke4 44.Kxb6 Kf3 45.Kc6 Kxf2 46.b5 Kxe3 47.Kxd6  1-0
+
+[Event "Titled Tuesday 19th Oct"]
+[Site "chess.com INT"]
+[Date "2021.10.19"]
+[Round "9"]
+[White "Dzhaparov,Medet"]
+[Black "Shkapenko,P"]
+[Result "0-1"]
+[WhiteElo "1667"]
+[BlackElo "2424"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.Be2 b6
+9.O-O Bb7 10.h3 a6 11.b3 Be7 12.Bb2 d6 13.Rfd1 Nbd7 14.Rac1 Rc8 15.Nd4 O-O
+16.Bf3 Ne5 17.Bxb7 Qxb7 18.Qe2 Rc7 19.Ba3 Rfc8 20.Nf3 Nxf3+ 21.Qxf3 Qxf3
+22.gxf3 Rd8 23.Bb4 Kf8 24.Na4 Rc6 25.Kf1 Rdc8 26.Ke2 b5 27.Nb2 d5 28.Nd3 dxc4
+29.Bxe7+ Kxe7 30.Nb4 Rb6 31.e4 a5 32.Nc2 cxb3 33.axb3 Rbc6 34.Kd2 Nd7 35.Na3 b4
+36.Nc4 a4 37.Kc2 Ne5 38.Kb2 Nxc4+ 39.bxc4 Rxc4 40.Rxc4 Rxc4 41.Rg1 g6 42.Rg5 b3
+43.Ra5 Rc2+ 44.Kb1 Rxf2  0-1
+
+[Event "TCh-AUT 2nd Mitte 2021-22"]
+[Site "Austria AUT"]
+[Date "2021.10.23"]
+[Round "5.5"]
+[White "Krebs,Jo"]
+[Black "Kristoferitsch,Daniel"]
+[Result "1/2-1/2"]
+[WhiteElo "2200"]
+[BlackElo "2290"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.a3 Bxc5 7.Nf3 a6 8.e3 O-O
+9.Bd3 Be7 10.O-O d6 11.b4 Nbd7 12.Bb2 b6 13.Ne4 h6 14.Rac1 Bb7 15.Nfd2 Rac8
+16.Nxf6+ Bxf6 17.Rfd1 Rfd8 18.Qb1 Qb8 19.Bxf6 Nxf6 20.Ne4 Nxe4 21.Bxe4 Bxe4
+22.Qxe4 d5 23.cxd5 Rxd5 24.g3 Rxc1 25.Rxc1 Qd8 26.Kg2 a5 27.Rc6 axb4 28.axb4 Rd6
+29.Rc2 Rd2 30.Rc6 Rd6 31.b5 Rxc6 32.Qxc6 h5 33.h4 g6 34.e4 e5 35.Kf3  1/2-1/2
+
+[Event "Chigorin Memorial 2021"]
+[Site "St Petersburg RUS"]
+[Date "2021.10.23"]
+[Round "1.100"]
+[White "Frolov,Zakhar"]
+[Black "Zverolovlev,I"]
+[Result "1/2-1/2"]
+[WhiteElo "1457"]
+[BlackElo "2089"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.Nf3 cxd4 6.Nxd4 O-O 7.e3 d5 8.cxd5 exd5
+9.Bd2 Nc6 10.Nxc6 bxc6 11.Bd3 Bd6 12.O-O-O c5 13.Bf5 Be6 14.Nb5 Be7 15.Bc3 a6
+16.Na3 Qb6 17.Bxf6 Bxf5 18.Qxf5 Bxf6 19.Qc2 Rab8 20.Rd2 Rfc8 21.e4 Bg5 22.exd5 Qxb2+
+23.Qxb2 Rxb2 24.Kxb2 Bxd2 25.Nc4 Bg5 26.Kc2 Rb8 27.a3 Kf8 28.Re1 Re8 29.Rxe8+ Kxe8
+30.Kd3 Bf4 31.h3 Kd7 32.Ke4 Bc7 33.g4 f6 34.f4 g6 35.f5 g5 36.a4  1/2-1/2
+
+[Event "Titled Tuesday 26th Oct"]
+[Site "chess.com INT"]
+[Date "2021.10.26"]
+[Round "5"]
+[White "Karavade,E"]
+[Black "Tregubov,P"]
+[Result "0-1"]
+[WhiteElo "2345"]
+[BlackElo "2546"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.a3 Bxc3+ 8.Qxc3 Nxc5
+9.b4 Nce4 10.Qb2 d5 11.cxd5 Qxd5 12.e3 Bd7 13.Be2 Bb5 14.O-O Bxe2 15.Qxe2 Nc3
+16.Qc2 Rac8 17.Bb2 Nfe4 18.Rfc1 Rc7 19.h3 Rfc8 20.Bxc3 Nxc3 21.Kh1 h6 22.Qb2 Qd3
+23.Nd4 Na4 24.Rxc7 Rxc7 25.Qa2 e5 26.Nf3 Rc2 27.Qb1 Qe2 28.Nxe5 Qxf2 29.Qf1 Qxf1+
+30.Rxf1 f6 31.Nd7 Rc7 32.Nc5 Nxc5 33.bxc5 Rxc5 34.Rd1 Rc3 35.Rd8+ Kh7 36.Rd7 Rxe3
+37.Rxb7 Rxa3 38.Kh2 a5 39.h4 a4 40.g3 h5 41.Ra7 Kg6 42.Kg2 Ra1 43.Kf3 a3
+44.Kg2 Ra2+ 45.Kf3 Ra1 46.Kg2 Kf5 47.Ra4 Ke5 48.Ra5+ Kd4 49.Ra7 Kc3 50.Rxg7 Rb1
+51.Ra7 Rb3 52.g4 hxg4 53.h5 Kb2 54.h6 Rh3 55.h7 a2 56.Rb7+ Kc2 57.Rc7+ Kb3
+58.Rb7+ Kc4 59.Ra7 Rxh7 60.Rxa2 Kd5 61.Ra5+ Ke4 62.Ra4+ Kf5 63.Ra5+ Kf4 64.Ra4+ Kg5
+65.Ra8 Rb7 66.Rg8+ Kf4 67.Ra8 Rb2+  0-1
+
+[Event "Titled Tuesday 26th Oct"]
+[Site "chess.com INT"]
+[Date "2021.10.26"]
+[Round "8"]
+[White "Iljushina,O"]
+[Black "Sokolin,L"]
+[Result "0-1"]
+[WhiteElo "2054"]
+[BlackElo "2482"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 Nc6 6.Nf3 d5 7.a3 Bxc3+ 8.bxc3 O-O
+9.cxd5 exd5 10.Bd3 c4 11.Bf5 Bxf5 12.Qxf5 Qa5 13.Bd2 Ne4 14.Ng5 g6 15.Qg4 Nxd2
+16.Qh4 h5 17.Kxd2 Qd8 18.g4 Kg7 19.gxh5 Qf6 20.h6+ Kh8 21.f4 Na5 22.Rae1 Nb3+
+23.Kc2 Rae8 24.Qh3 Qd6 25.Kb2 Nd2 26.Re2 Ne4 27.Nxe4 Rxe4 28.Ka2 Rfe8 29.f5 g5
+30.Rhe1 b5 31.Qh5 Qf6 32.h7 Rh4 33.Qf3 Ree4 34.Rg1 Kxh7 35.Qg3 Kh6 36.Rf2 a5
+37.Rfg2 Reg4 38.Qxg4 Rxg4 39.Rxg4 Qxf5 40.R4g2 Qd3 41.Rc1 Qxe3 42.Rcc2 f5
+43.Rge2 Qd3 44.Red2 Qe4 45.Re2 Qh1 46.Re6+ Kh5 47.Re5 f4 48.Rce2 Qf3 49.Re1 Qxc3
+50.Rg1 Qc2+ 51.Ka1 Qc3+ 52.Ka2 Qd2+  0-1
+
+[Event "87th ch-BRA 2021"]
+[Site "Cuiaba BRA"]
+[Date "2021.10.28"]
+[Round "1.28"]
+[White "Bisesar,Maycon da Costa"]
+[Black "Brito,L"]
+[Result "0-1"]
+[WhiteElo "1742"]
+[BlackElo "2198"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 Nc6 6.Nf3 d5 7.a3 Bxc3+ 8.bxc3 O-O
+9.Bd3 Re8 10.Ne5 Nxe5 11.dxe5 dxc4 12.Bxc4 Nd7 13.Qe4 Qc7 14.f4 Nf8 15.O-O Bd7
+16.Rd1 Bc6 17.Qc2 Rad8 18.Bd2 b5 19.Bf1 c4 20.Be1 Nd7 21.Bh4 Rc8 22.Ra2 Nc5
+23.Rd4 Qb7 24.Rb2 Be4 25.Qd1 Na4 26.Qc1 Nxb2 27.Qxb2 a5 28.Be1 Red8 29.Qd2 Rxd4
+30.exd4 Bf5 31.Be2 b4 32.axb4 axb4 33.Qb2 b3 34.Kf2 Ra8  0-1
+
+[Event "Chigorin Memorial 2021"]
+[Site "St Petersburg RUS"]
+[Date "2021.10.29"]
+[Round "7.97"]
+[White "Frolov,Zakhar"]
+[Black "Sheremetev,Vladislav"]
+[Result "0-1"]
+[WhiteElo "1457"]
+[BlackElo "1864"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.Nf3 O-O 6.Bg5 b6 7.e3 Bb7 8.Be2 Nc6
+9.O-O cxd4 10.exd4 Be7 11.Rad1 d5 12.cxd5 Nxd5 13.Bxe7 Ncxe7 14.a3 Nf4 15.Rfe1 Nf5
+16.Qd2 Nxe2+ 17.Nxe2 Bxf3 18.gxf3 Ne7 19.Kh1 Nd5 20.Rg1 Qf6 21.Rg3 Rac8 22.Rdg1 g6
+23.f4 Qf5 24.Nc3 Qxf4 25.Qxf4 Nxf4 26.Re1 Rfd8 27.Rd1 Rc4 28.d5 Nxd5 29.b3 Rc7
+30.Rgd3 Rcd7 31.Ne4 Kg7 32.f3 Nf6 33.Rxd7 Rxd7 34.Rxd7 Nxd7 35.b4 a5 36.bxa5 bxa5
+37.Nd6 Nb6 38.a4 Kf6 39.Nb7 Nc4 40.Kg2 Ke5 41.Kf2 f5 42.Ke2 Kd4 43.Nd8 e5
+44.Nb7 Kc3 45.Nd8 Kb3 46.Nc6 Kxa4 47.Kd3 Kb3  0-1
+
+[Event "TCh-NOR Elite 2021-22"]
+[Site "Norway NOR"]
+[Date "2021.10.31"]
+[Round "3.3"]
+[White "Machlik,Monika"]
+[Black "Diesen,B"]
+[Result "1-0"]
+[WhiteElo "2096"]
+[BlackElo "2131"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bg5 Bb7
+9.e4 Be7 10.Rd1 h6 11.Bf4 Nh5 12.Be3 f5 13.Nd4 Qe8 14.Bd3 f4 15.Bc1 e5 16.Ndb5 Na6
+17.b4 Qg6 18.f3 Bh4+ 19.Kf1 Rfc8 20.Be2 Nf6 21.Nd6 Rcb8 22.Nf5 Qh5 23.g3 Bg5
+24.h4 fxg3 25.Nxg3 Qf7 26.hxg5 hxg5 27.Kg2 Nc7 28.Bxg5 Ne6 29.Be3 Rf8 30.Nf5 Nh5
+31.Kf2 d5 32.cxd5 Nef4 33.Rdg1 Bc8 34.Nh6+ Kh7 35.Nxf7 Rxf7 36.Bxf4  1-0
+
+[Event "Titled Tuesday 2nd Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.02"]
+[Round "5"]
+[White "Cramling Bellon,Anna"]
+[Black "Golizadeh,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2035"]
+[BlackElo "2455"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Rg8 6.Nf3 Nc6 7.Bg5 h6 8.Bh4 Qa5
+9.e3 Bxc3+ 10.bxc3 Qxc5 11.Bd3 Ng4 12.O-O Nge5 13.Qe2 Nxf3+ 14.Qxf3 Ne5 15.Qe2 b6
+16.f4 Nxd3 17.Qxd3 Ba6 18.Rad1 Qc6 19.Qh7 Kf8 20.Rd4 Bxc4 21.Rfd1 d5 22.e4 Rc8
+23.exd5 exd5 24.f5 f6 25.Qg6 Re8 26.Bg3 Re2 27.Rxc4 Rxg2+ 28.Kxg2 dxc4+ 29.Kg1 Ke7
+30.Bd6+ Kd7 31.Qf7+ Kd8 32.Qxg8+ Kd7 33.Qf7+ Kc8 34.Qf8+ Kb7 35.Qe7+ Ka6
+36.Qc7 Qe4 37.Qc8+ Ka5 38.Bb4+ Kb5 39.Qd7+ Ka6 40.Qa4+ Kb7 41.Rd7+ Kc8 42.Rxa7 Qe1+
+43.Kg2 Qe2+ 44.Kg3 Qe3+ 45.Kg4 Qe4+ 46.Kg3 Qe3+ 47.Kg2 Qe2+ 48.Kg3 Qe3+  1/2-1/2
+
+[Event "Titled Tuesday 2nd Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.02"]
+[Round "5"]
+[White "Kim,Se"]
+[Black "Devaev,A"]
+[Result "1-0"]
+[WhiteElo "2295"]
+[BlackElo "2325"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Nf3 Nxc5 7.Bd2 b6 8.e3 Bb7
+9.Be2 O-O 10.O-O Rc8 11.Rfd1 Bxc3 12.Bxc3 Nce4 13.Bb4 Re8 14.Qa4 Qc7 15.h3 h6
+16.Nd4 a6 17.Be1 Qb8 18.Rac1 Qa8 19.Bf1 Nc5 20.Qa3 d5 21.b4 Nce4 22.cxd5 Nxd5
+23.Qb3 Red8 24.a4 Nef6 25.f3 Ne7 26.e4 Nc6 27.Nxc6 Bxc6 28.b5 axb5 29.axb5 Rxd1
+30.Rxd1 Be8 31.Bc3 Nd7 32.Qb2 f6 33.Rd6 e5 34.Qd2 Qb7 35.Bb4 Nc5 36.Qd5+ Qxd5
+37.exd5 Nd7 38.Rc6 Rb8 39.d6 Ra8 40.Bc4+ Bf7 41.Bf1 Be6 42.Bd3 Kf7 43.Be4 Ra4
+44.Be1 Ra1 45.Kf2 Rd1 46.Bb4 Rd4 47.Bc3 Rd1 48.Ke2 Rc1 49.Kd2 Rg1 50.f4 exf4
+51.Rc7 f3 52.Bxf3 Ke8 53.Bd4  1-0
+
+[Event "Titled Tuesday 2nd Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.02"]
+[Round "8"]
+[White "Cramling Bellon,Anna"]
+[Black "Guimaraes,W"]
+[Result "0-1"]
+[WhiteElo "2035"]
+[BlackElo "2211"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Nf3 O-O 7.Bg5 Nxc5 8.e3 Nce4
+9.Bh4 Qa5 10.Rc1 Qxa2 11.Bxf6 Nxf6 12.Bd3 Qa5 13.O-O Bxc3 14.Ra1 Qh5 15.Qxc3 d5
+16.cxd5 exd5 17.Ra4 Bg4 18.Ne5 Be2 19.Bxe2 Qxe2 20.Rh4 Ne4 21.Qd4 Rad8 22.Nf3 h6
+23.Qxa7 Qxb2 24.Nd4 Ra8 25.Nb5 Rxa7 26.Nxa7 Ra8 27.f3 Nd2 28.Rd1 Rxa7 29.Rd4 Ra2  0-1
+
+[Event "Titled Tuesday 2nd Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.02"]
+[Round "10"]
+[White "Kim,Se"]
+[Black "Rodchenkov,V"]
+[Result "0-1"]
+[WhiteElo "2295"]
+[BlackElo "2330"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Nc6 6.Nf3 Bxc5 7.Bd2 O-O 8.e3 d5
+9.Be2 Qe7 10.O-O a6 11.Rfd1 dxc4 12.Bxc4 b5 13.Be2 Bb7 14.Rac1 Rac8 15.Qb1 Rfd8
+16.Be1 h6 17.Ne4 Nxe4 18.Qxe4 Nd4 19.exd4 Bxe4 20.dxc5 Rxd1 21.Bxd1 Rxc5
+22.Ra1 Qc7 23.Bd2 g5 24.h3 f6 25.Be3 Rc6 26.Nd4 Rd6 27.Rc1 Qd7  0-1
+
+[Event "24th OIBM 2021"]
+[Site "Tegernsee GER"]
+[Date "2021.11.04"]
+[Round "6.20"]
+[White "Suvorov,Alexander"]
+[Black "Leeb,Simon"]
+[Result "1/2-1/2"]
+[WhiteElo "2392"]
+[BlackElo "2199"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.Nf3 O-O 7.g3 Nxc5 8.Bg2 Nce4
+9.O-O Nxc3 10.bxc3 Be7 11.e4 d6 12.e5 dxe5 13.Nxe5 Qc7 14.Qe2 Nd7 15.Bf4 Nxe5
+16.Bxe5 Bd6 17.Bxd6 Qxd6 18.Rfd1 Qc7 19.Rab1 Rb8 20.Qd3 b6 21.Qd6 Qxd6 22.Rxd6 Ba6
+23.c5 Rfd8 24.Rbd1 Rxd6 25.Rxd6 Kf8 26.c6 Rc8 27.Rd7 Bb5 28.Rxa7  1/2-1/2
+
+[Event "TCh-AUT 2021-22"]
+[Site "Austria AUT"]
+[Date "2021.11.06"]
+[Round "3.5"]
+[White "Doric,D"]
+[Black "Banusz,T"]
+[Result "0-1"]
+[WhiteElo "2475"]
+[BlackElo "2607"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bf4 Bb7
+9.Rd1 Nh5 10.Bg5 Be7 11.Bxe7 Qxe7 12.e3 Nf6 13.Be2 Nc6 14.O-O Rac8 15.b4 Rfd8
+16.Qb2 d6 17.Rd2 Ng4 18.Rfd1 Nce5 19.Nxe5 Nxe5 20.Rd4 f5 21.f4 Nf7 22.Qb3 a6
+23.Bf1 g6 24.e4 Qc7 25.exf5 gxf5 26.Na4 Be4 27.Qg3+ Kf8 28.Qh4 Bc2 29.Re1 Bxa4
+30.Rxe6 Qd7 31.Rf6 Qe7 32.Rd3 Ke8 33.Rg3 Kd7 34.Rg7 Rf8 35.c5 bxc5 36.Bxa6 cxb4
+37.Rfxf7 Rc1+  0-1
+
+[Event "FIDE Grand Swiss 2021"]
+[Site "Riga LAT"]
+[Date "2021.11.06"]
+[Round "10.54"]
+[White "Van Foreest,Lucas"]
+[Black "Rakotomaharo,Fy Antenaina"]
+[Result "1/2-1/2"]
+[WhiteElo "2543"]
+[BlackElo "2484"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.Nf3 Bxc5 7.e3 a6 8.a3 b6
+9.b4 Be7 10.Bb2 Bb7 11.Bd3 d6 12.O-O Nbd7 13.Ne4 Rc8 14.Rac1 h6 15.h3 O-O
+16.Ned2 Qb8 17.Qb1 Bd8 18.Rfd1 Re8 19.Ne4 Be7 20.Ned2 Qa8 21.Re1 Bd8 22.e4 Bc7
+23.Bf1 Red8 24.Rcd1 Ne5 25.Nxe5 dxe5 26.Qa1 a5 27.f3 axb4 28.axb4 Qxa1 29.Bxa1 Ra8
+30.Nb3 Rxd1 31.Rxd1 Ra3 32.Nd2 Bc6 33.Bb2 Ra2 34.Bc3 Rc2 35.Nb1 Ba4 36.Rd2 Rxd2
+37.Bxd2 Bc6 38.Nc3 h5 39.Bd3 Bd6 40.Nd1 Nd7 41.Nb2 Kf8 42.Kf2 h4 43.Bc2 f6
+44.Ba4 Nb8 45.Bxc6 Nxc6 46.Nd3 Ke7 47.Bc3 Kd7 48.Ke3 g5 49.Kd2 Kc7 50.b5 Nb8
+51.Kc2 Nd7 52.Nb4 Nf8 53.Kb3 Ng6 54.Bd2 Be7 55.Nd3 f5 56.Be3 Kb7 57.Kc2 Kc7
+58.Kd1 Kb7 59.Ke1 Kc7 60.Kf1 Kb7 61.c5 bxc5 62.Nxc5+ Bxc5 63.Bxc5 Kc7 64.Kf2 Kd7
+65.Kf1 Kc7 66.Kg1 Kd7 67.Kf2 Kc7 68.Be3 Nf4 69.g3 Nh5 70.gxh4 gxh4 71.Bg5 fxe4
+72.fxe4 Nf4 73.Bxh4 Nxh3+ 74.Ke3 Kb6 75.Bf6 Kxb5 76.Bxe5  1/2-1/2
+
+[Event "1st ITT Latinoamericano A"]
+[Site "Mexico City MEX"]
+[Date "2021.11.07"]
+[Round "9.3"]
+[White "Cardoso Cardoso,Jose Gabriel"]
+[Black "Blanco Fernandez,A"]
+[Result "1-0"]
+[WhiteElo "2447"]
+[BlackElo "2235"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 a6 8.a3 Be7
+9.g4 d6 10.g5 Nfd7 11.Rg1 Nc6 12.b3 Nde5 13.Be2 Nxf3+ 14.Bxf3 Bd7 15.Be2 Rc8
+16.Rb1 Ne5 17.Bb2 Qc6 18.Ne4 f5 19.gxf6 gxf6 20.f4 f5  1-0
+
+[Event "Lindores Abbey Tal Mem"]
+[Site "Riga LAT"]
+[Date "2021.11.08"]
+[Round "13.22"]
+[White "Indjic,A"]
+[Black "Petrosyan,M"]
+[Result "0-1"]
+[WhiteElo "2612"]
+[BlackElo "2599"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Nc6 6.Nf3 O-O 7.a3 Bxc5 8.Bg5 Be7
+9.O-O-O b6 10.e4 Bb7 11.e5 Ng4 12.Bf4 f6 13.Bd3 Ncxe5 14.Bxh7+ Kh8 15.h3 Nxf2
+16.Bxe5 Bxf3 17.gxf3 Nxd1 18.Rxd1 fxe5 19.Be4 Bg5+ 20.Kb1 Rc8 21.Qa4 Rf7
+22.Ka1 Be3 23.Bb1 Bd4 24.Qc2 Rf5 25.Nb5 d5 26.Nxd4 exd4 27.Rxd4 Qf6 28.Qd2 Rxc4
+29.Rxc4 dxc4 30.Bxf5 Qxf5 31.Qe3  0-1
+
+[Event "Titled Tuesday 9th Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.09"]
+[Round "1"]
+[White "Hakobyan,Aram"]
+[Black "Skuhala,Jernej"]
+[Result "1-0"]
+[WhiteElo "2607"]
+[BlackElo "2368"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bg5 Bb7
+9.e3 Be7 10.Be2 d6 11.O-O Nc6 12.Rfd1 a6 13.Rd2 Qc7 14.Rad1 Rac8 15.Bxf6 Bxf6
+16.Rxd6 Ne5 17.Nxe5 Bxe5 18.Rd7 Qb8 19.g3 Rfd8 20.Ne4 Rxd7 21.Rxd7 Rd8 22.Rxd8+ Qxd8
+23.b4 h6 24.Nd2 Bf6 25.Bf3 Bc8 26.Ne4 Be7 27.c5 bxc5 28.Nxc5 a5 29.Kg2 axb4
+30.axb4 Qb6 31.Na4 Qb8 32.b5 e5 33.Qc6 Kh7 34.Nb6 Be6 35.Nd5 Bd8 36.Be4+ g6
+37.Bf3 Kg7 38.Qc5 h5 39.Nb4 Bb6 40.Qc3 Ba5 41.Qc5 Bb6 42.Qc6 Ba5 43.Na6 Qd8
+44.Nc5 Bf5 45.Nb7 Qb6 46.Nxa5 Qxa5 47.b6 Qb4 48.b7 e4 49.Be2 Qb2 50.Qb5  1-0
+
+[Event "Titled Tuesday 9th Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.09"]
+[Round "1"]
+[White "Shishkov,A"]
+[Black "Papasimakopoulos,Alexandros"]
+[Result "0-1"]
+[WhiteElo "2405"]
+[BlackElo "2274"]
+[ECO "E38"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Be7 8.b3 O-O
+9.Bb2 a6 10.Be2 d6 11.g4 Nxg4 12.Rg1 f5 13.h3 Nf6 14.O-O-O Nc6 15.a3 Bd7
+16.Kb1 Rf7 17.Ng5 Rff8 18.Rg2 h6 19.Nf3 Rf7 20.Na4 Qc7 21.c5 dxc5 22.Nxc5 Rd8
+23.Nxd7 Rxd7 24.Bc4 Rd6 25.Rgg1 Nd8 26.Rxd6 Qxd6 27.Rd1 Qc7 28.Rxd8+ Bxd8
+29.Bxe6 Qxc2+ 30.Kxc2 Kf8 31.Bxf7 Kxf7 32.b4 Ne4 33.Ne5+ Ke6 34.f3 Ng5 35.h4 Bc7
+36.f4 Ne4 37.Kd3 g5 38.hxg5 hxg5 39.Nf3 gxf4 40.Nd4+ Kf6 41.exf4 Bxf4 42.Nc6+ Kg5
+43.Nd8 Nd6 44.Ne6+ Kg4 45.Bd4 Bg3 46.Bc5 Ne4  0-1
+
+[Event "23rd European Teams Women"]
+[Site "Terme Catez SLO"]
+[Date "2021.11.14"]
+[Round "3.7"]
+[White "Velikic,A"]
+[Black "Peptan,C"]
+[Result "0-1"]
+[WhiteElo "2287"]
+[BlackElo "2385"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 Nc6 8.Bf4 b6
+9.Rd1 Bb7 10.e4 Ne7 11.Be2 Ng6 12.Bc1 Rc8 13.O-O h6 14.h3 Qc7 15.Rfe1 a6
+16.Bf1 Rfd8 17.Qb3 Qb8 18.Bd3 Nf4 19.Bb1 Nxh3+ 20.Kf1 Nxf2 21.Qc2 Nh5 22.Be3 Nxd1  0-1
+
+[Event "Titled Tuesday 16th Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.16"]
+[Round "1"]
+[White "Shishkov,A"]
+[Black "Shkapenko,P"]
+[Result "1-0"]
+[WhiteElo "2405"]
+[BlackElo "2424"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.b3 O-O
+9.Bb2 b6 10.Be2 Bb7 11.g4 Nc6 12.g5 Ng4 13.Rg1 Nce5 14.Nxe5 Nxe5 15.Nb5 Qb8
+16.Qc3 d6 17.f4 a6 18.fxe5 dxe5 19.Na3 Bd6 20.O-O-O Qc7 21.Kb1 Rac8 22.c5 Bxc5
+23.Nc4 Be4+ 24.Ka1 Be7 25.Qxe5 Qxe5 26.Bxe5 b5 27.Nd6 Rc2 28.Bd3 Bxd3 29.Rxd3 Rd8
+30.Rgd1 Kf8 31.h4 f6 32.gxf6 gxf6 33.Bf4 Bxd6 34.Bxd6+ Kf7 35.Bb4 Rxd3 36.Rxd3 Rh2
+37.Rd7+ Kg6 38.Rd6 Rxh4 39.Bc3 Kf5 40.Rxa6 Re4 41.Rb6 Rxe3 42.Rxb5+ e5 43.Kb2 h5
+44.a4 h4 45.Rb8 h3 46.Rh8 Re2+ 47.Ka3 h2 48.a5 Kg4 49.a6 Rg2 50.a7 Rg3 51.a8=Q  1-0
+
+[Event "Titled Tuesday 16th Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.16"]
+[Round "2"]
+[White "Antonio,J"]
+[Black "Sokolin,L"]
+[Result "1-0"]
+[WhiteElo "2277"]
+[BlackElo "2482"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.a3 Bxc3+ 6.bxc3 Nc6 7.Nf3 d6 8.Bg5 h6
+9.Bxf6 Qxf6 10.e3 O-O 11.Bd3 e5 12.d5 Ne7 13.O-O Bf5 14.Bxf5 Nxf5 15.g3 Rfe8
+16.Nd2 Ne7 17.Ne4 Qg6 18.Rfb1 b6 19.a4 f5 20.Nd2 Qf6 21.f4 exf4 22.exf4 g5
+23.fxg5 hxg5 24.Rf1 f4 25.Ne4 Qg6 26.gxf4 gxf4+ 27.Kh1 Kh7 28.Rxf4 Nf5 29.Rg1 Ne3
+30.Nf6+  1-0
+
+[Event "Titled Tuesday 16th Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.16"]
+[Round "3"]
+[White "Sieciechowicz,M"]
+[Black "Yoo,Christopher Woojin"]
+[Result "0-1"]
+[WhiteElo "2388"]
+[BlackElo "2499"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 b6
+9.O-O Bb7 10.Nb5 Nce4 11.Ng5 d5 12.Nxe4 Nxe4 13.Rd1 Qf6 14.Be3 Rfc8 15.Bxe4 dxe4
+16.Nd6 Bxd6 17.Rxd6 Bd5 18.c5 bxc5 19.Bxc5 Rab8 20.Rc1 e3 21.fxe3 Qe5 22.b4 h5
+23.e4 Bxe4 24.Qc3 Qf5 25.Qe3 Bd5 26.a3 a5 27.Rf1 Qh3 28.Qf2 axb4 29.axb4 Rb7
+30.Ra1 h4 31.e3 Qg4 32.Kf1 hxg3 33.Qxg3 Qc4+ 34.Kg1 Qe4 35.Rb1 Qh1+  0-1
+
+[Event "Titled Tuesday 16th Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.16"]
+[Round "5"]
+[White "Shipov,S"]
+[Black "Yoo,Christopher Woojin"]
+[Result "1/2-1/2"]
+[WhiteElo "2541"]
+[BlackElo "2499"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 d5 8.Bg5 Be7
+9.e3 Nc6 10.Be2 dxc4 11.Bxc4 Qa5 12.O-O Ne5 13.Nxe5 Qxe5 14.Bf4 Qc5 15.Bd3 b6
+16.b4 Qh5 17.Be2 Qg6 18.Qxg6 hxg6 19.Bf3 Ba6 20.Rfc1 Rad8 21.h3 Bd6 22.Bxd6 Rxd6
+23.Ne4 Rd7 24.a4 Bb7 25.Nxf6+ gxf6 26.Bxb7 Rxb7 27.Rc4 Rd8 28.Rac1 Kf8 29.Rc7 Rd7
+30.Rxb7 Rxb7 31.h4 Rd7 32.Rc8+ Kg7 33.Ra8 Rc7 34.g3 Rc4 35.Rxa7 Rxb4 36.a5 bxa5
+37.Rxa5 Rb1+ 38.Kg2 Rb4 39.Rc5 Ra4 40.Rc3 Rb4 41.Rc5 Ra4 42.Rc3 Rb4 43.Rc5  1/2-1/2
+
+[Event "Titled Tuesday 16th Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.16"]
+[Round "6"]
+[White "Obolentseva,Alexandra"]
+[Black "Dolzhykova,Kateryna"]
+[Result "0-1"]
+[WhiteElo "2305"]
+[BlackElo "2161"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.Nf3 O-O
+9.Bf4 b6 10.e3 Bb7 11.Be2 d5 12.O-O Rc8 13.Rfd1 Qe7 14.b4 Nce4 15.Qb3 Rfd8
+16.Rac1 h6 17.Ne5 Nd7 18.Nxd7 Rxd7 19.cxd5 Rxc1 20.Rxc1 Bxd5 21.Qa4 Rd8 22.Rc7 Qf6
+23.Rxa7 Qa1+ 24.Qd1 Qxd1+ 25.Bxd1 Bc4 26.Bf3 Nd2 27.Bc7 Nxf3+ 28.gxf3 Rd1+
+29.Kg2 b5 30.Be5 Bf1+ 31.Kg3 Bc4 32.Bd4 f6 33.f4 Rg1+ 34.Kf3 Re1 35.Ra8+ Kh7
+36.Ra7 Kg6 37.e4 Bd3 38.Be3 Bc2 39.f5+ exf5 40.exf5+ Kxf5 41.Rxg7 Be4+ 42.Kg3 Rg1+
+43.Kh4 Rxg7 44.Kh5 Bf3+ 45.Kh4 Rg4+ 46.Kh5 Rg2+ 47.Kxh6 Rxh2+ 48.Kg7 Rh1
+49.Kf7 Ra1 50.Ke7 Ra2 51.Bc5 Rxa3 52.Kd6 Rd3+ 53.Kc7 Rd1 54.Kb6 Be2 55.Kc6 Bc4
+56.Be3 Ke4 57.Bc5 f5 58.Kb6 f4 59.Kc6 Kf3 60.Kb6 Rd2 61.Kc6 Rxf2 62.Bxf2 Kxf2
+63.Kc5 Ke2 64.Kd4 f3 65.Ke5 f2 66.Ke4 f1=Q 67.Ke5 Qb1  0-1
+
+[Event "Titled Tuesday 16th Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.16"]
+[Round "9"]
+[White "Obolentseva,Alexandra"]
+[Black "Shapiro,Dan"]
+[Result "1-0"]
+[WhiteElo "2305"]
+[BlackElo "2284"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Bf4 a6 7.Nf3 Nc6 8.e3 O-O
+9.a3 Be7 10.Bd3 h6 11.O-O d5 12.Rfd1 b6 13.cxd5 exd5 14.Nxd5 Nxd5 15.Bh7+ Kh8
+16.Qxc6 Be6 17.Be4 Rc8 18.Qb7 Rc5 19.b4 Rb5 20.Qxa6 Qe8 21.Nd4 Nxf4 22.Qxb5 Qxb5
+23.Nxb5 Nh5 24.Nc7 Bc4 25.Rac1 b5 26.Bd5 Rc8 27.Bxc4 Rxc7 28.Bxb5 Rb7 29.Rc8+ Kh7
+30.Be8 Ra7 31.Bxf7 Nf6 32.Ba2 Rxa3 33.Bb1+ g6 34.Rc7 Ng8 35.Be4 Kg7 36.Bd5  1-0
+
+[Event "5th Mersin Open 2021"]
+[Site "Mersin TUR"]
+[Date "2021.11.19"]
+[Round "6.3"]
+[White "Daneshvar,Bardiya"]
+[Black "Rasulov,Vu"]
+[Result "1/2-1/2"]
+[WhiteElo "2380"]
+[BlackElo "2469"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bg5 Bb7
+9.e3 h6 10.Bh4 Be7 11.Be2 d6 12.O-O Nbd7 13.Rfd1 a6 14.Bg3 Nc5 15.Nd2 Rc8
+16.Rac1 Qc7 17.b4 Ncd7 18.Nde4 Ne5 19.Bxe5 dxe5 20.Nxf6+ Bxf6 21.Na4 Qc6
+22.Bf3 e4 23.Be2 Rcd8 24.Qb3 Qc7 25.c5 b5 26.Nc3 Qe5 27.a4 Rxd1+ 28.Qxd1 Rd8
+29.Qe1 bxa4 30.Nxa4 Qc7 31.Nb6 Bb2 32.Rc2 Be5 33.h3 Qc6 34.Qf1 Bb8 35.Rc1 h5
+36.Bxh5 Bc7 37.Nc4 Qa4 38.Qe1 Bd5 39.Nb6 Bxb6 40.cxb6 Qb5 41.Rc7  1/2-1/2
+
+[Event "10th Brno Open 2021"]
+[Site "Brno CZE"]
+[Date "2021.11.21"]
+[Round "2.7"]
+[White "Strapec,Lukas"]
+[Black "Gurack,D"]
+[Result "1/2-1/2"]
+[WhiteElo "1868"]
+[BlackElo "2076"]
+[ECO "E38"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.a3 Bxc5 7.e3 a6 8.b4 Be7
+9.Nf3 b6 10.Bb2 Bb7 11.Be2 d6 12.O-O O-O 13.Rac1 Nbd7 14.e4 Rac8 15.Bd3 Rfe8
+16.Rfe1 Ng4 17.Na4 Bf6 18.h3 Nge5 19.Nxe5 Bxe5 20.Bxe5 Nxe5 21.f4 Nxd3 22.Qxd3 f5
+23.exf5 Qc6 24.Qf3 Qxf3 25.gxf3 exf5 26.Nxb6 Rxe1+ 27.Rxe1 Rc7 28.Re6 Bxf3
+29.Rxd6 h6 30.c5 Re7 31.Kf2 Bh1 32.c6 Rc7 33.Rd8+ Kh7 34.Rc8 Rxc6 35.Rxc6 Bxc6
+36.Nc4 g5 37.Nd6 Kg6 38.Kg3 Kf6 39.Nc4 Ke6 40.Ne3 Be4 41.Nc4 Bd3 42.Ne5 Bf1
+43.h4 Be2 44.Nc6 gxh4+ 45.Kxh4 Kd5 46.Ne7+ Ke4 47.Kg3 Bd3 48.Ng8 h5 49.Nf6+ Kd4
+50.a4 Kc3 51.b5 Bxb5 52.axb5 axb5 53.Nd5+ Kd4 54.Nb4 Ke4 55.Nc2 h4+ 56.Kxh4 Kxf4
+57.Kh3 Ke4 58.Kg3 Kd3 59.Nb4+ Ke3 60.Nc2+  1/2-1/2
+
+[Event "Titled Tuesday 23rd Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.23"]
+[Round "7"]
+[White "Obolentseva,Alexandra"]
+[Black "Stojanovski,Sa"]
+[Result "1-0"]
+[WhiteElo "2305"]
+[BlackElo "2232"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.a3 Bxc3+ 8.Qxc3 Nxc5
+9.b4 Nce4 10.Qc2 d5 11.Bb2 Ng4 12.cxd5 exd5 13.Bd4 Bf5 14.Qb2 Re8 15.h3 Ngf6
+16.g4 Bg6 17.Bg2 Qd7 18.O-O Nxg4 19.hxg4 Qxg4 20.Ne5 Rxe5 21.Bxe5 Ng5 22.f3 Qh4
+23.Qd4 Qh5 24.Bg3 Re8 25.Rfe1  1-0
+
+[Event "Titled Tuesday 23rd Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.23"]
+[Round "9"]
+[White "Quirke,J"]
+[Black "Vidruska,Renate"]
+[Result "0-1"]
+[WhiteElo "2118"]
+[BlackElo "2029"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc3+ 7.Qxc3 Ne4 8.Qe3 f5
+9.Nf3 Qf6 10.Nd2 Na6 11.Nxe4 fxe4 12.g3 Qe5 13.Bg2 Nxc5 14.O-O b6 15.Bd2 d5
+16.Bc3 Qd6 17.Qd4 Rf7 18.Rad1 Bb7 19.b4 Na4 20.Bxe4 Nxc3 21.Qxc3 Rc8 22.Bg2 Qc7
+23.Rd4 e5 24.Rdd1 d4 25.Qd3 Qxc4 26.Qxc4 Rxc4 27.Bxb7 Rxb7 28.Rc1 Rbc7 29.Rxc4 Rxc4
+30.e3 dxe3 31.fxe3 Rc3 32.Rd1 Rxa3 33.Rd7 h6 34.Kf2 a5 35.Kf3 axb4 36.Ke4 b3
+37.Kf5 b2 38.Kg6 b1=Q+  0-1
+
+[Event "35th Belgrade Trophy"]
+[Site "Belgrade SRB"]
+[Date "2021.11.26"]
+[Round "3.20"]
+[White "Andjelkovic,M"]
+[Black "Kostic,Mil"]
+[Result "0-1"]
+[WhiteElo "1796"]
+[BlackElo "2133"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.Nf3 cxd4 6.Nxd4 Nc6 7.e3 O-O 8.a3 Be7
+9.Bd3 Ne5 10.Be2 a6 11.h3 Qc7 12.b3 b6 13.f4 Ng6 14.Bf3 Rb8 15.g3 b5 16.cxb5 axb5
+17.b4 d5 18.Qd3 Bd7 19.Bd2 e5 20.Ndxb5 Qb7 21.Be2 d4 22.Kf2 dxc3 23.Nxc3 Rfd8
+24.Qa6 Qxa6 25.Bxa6 Bxh3 26.Be1 Bc8 27.Bxc8 Rbxc8 28.f5 Nf8 29.Ke2 e4 30.Bd2 N8d7
+31.Rhb1 Ne5 32.b5 Nc4 33.Be1 Nxa3 34.Rb3 Nc2 35.Ra7 Bc5 36.b6 Nxe1 37.Kxe1 Bxe3
+38.Rc7 Rb8 39.Nxe4 Nd5 40.Rc6 Kf8 41.b7 Bd4 42.Rc4 Ne3 43.Rc7 Nxf5 44.g4 Ne7  0-1
+
+[Event "21st Puhajarve Rapid"]
+[Site "Puhajarve EST"]
+[Date "2021.11.27"]
+[Round "13.4"]
+[White "Uurits,Karel"]
+[Black "Blomqvist,E"]
+[Result "0-1"]
+[WhiteElo "1730"]
+[BlackElo "2542"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 O-O 6.Bd3 d5 7.Nf3 dxc4 8.Bxc4 b6
+9.O-O Bb7 10.Be2 cxd4 11.Nxd4 Nbd7 12.Qb3 Be7 13.Bf3 Bxf3 14.Nxf3 Nc5 15.Qc2 Rc8
+16.Bd2 Qc7 17.Rac1 Qb7 18.Qb1 Rfd8 19.Nb5 a6 20.Nbd4 Nce4 21.Rxc8 Rxc8 22.Rc1 h6
+23.h3 Rc5 24.Rxc5 bxc5 25.Nb3 c4 26.Na5 Qd5 27.Qc2 Nxd2 28.Qxd2 Qb5 29.a3 Nd5
+30.Nd4 c3 31.Qxc3 Nxc3 32.Nxb5 Nxb5 33.Nc6 Bf6 34.a4 Nc7 35.b4 Kf8 36.Na7 Ke8
+37.b5 axb5 38.axb5 Kd7 39.b6 Nd5 40.Nb5 Nxb6 41.Na3 Bc3 42.Nc2 Nd5 43.Kf1 f5
+44.Ke2 Bf6 45.f3 Kd6 46.Na3 Kc5 47.Nc2 Kc4 48.Ne1 h5 49.g3 Nc3+ 50.Kd2 Nd5
+51.Ke2 Kc3 52.Ng2 Kc2 53.Ne1+ Kc1 54.Nd3+ Kc2 55.Ne1+ Kc3 56.Ng2 Bg5 57.f4 Bf6
+58.h4 Bd8 59.Ne1 Bb6 60.Ng2 Ba7 61.e4 fxe4 62.Ne1 Bb6 63.Ng2 Kd4 64.Ne1 Nc3+  0-1
+
+[Event "21st Puhajarve Rapid"]
+[Site "Puhajarve EST"]
+[Date "2021.11.27"]
+[Round "16.2"]
+[White "Fridman,D"]
+[Black "Karba,Andres"]
+[Result "1-0"]
+[WhiteElo "2626"]
+[BlackElo "1853"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Nc6 6.Nf3 Bxc5 7.Bg5 Be7 8.e4 h6
+9.Bh4 d5 10.e5 Ne4 11.Bxe7 Qxe7 12.cxd5 Nxc3 13.dxc6 Nd5 14.cxb7 Qb4+ 15.Qd2 Bxb7
+16.Qxb4 Nxb4 17.Bb5+ Ke7 18.Ke2 Rab8 19.Bc4 Bxf3+ 20.gxf3 Nc2 21.Rab1 Nd4+
+22.Ke3 Nf5+ 23.Kd2 Rhd8+ 24.Kc3 g5 25.Rhd1 Rdc8 26.Rd3 Rc5 27.Re1 Rc7 28.b3 Nh4
+29.f4 Ng2 30.Re4 Nxf4 31.Rd6 f6 32.Rxf4 gxf4 33.Rxe6+ Kd7 34.Rxf6 Rh8 35.Rxf4 Kd8
+36.Rf6 Rg7 37.f4 Rg2 38.Rf7 Rxa2 39.e6 Re8 40.Rd7+ Kc8 41.f5 Rf2 42.Ba6+ Kb8
+43.e7 Rxe7 44.Rxe7 Rxf5 45.Rb7+ Ka8 46.Rc7  1-0
+
+[Event "35th Belgrade Trophy"]
+[Site "Belgrade SRB"]
+[Date "2021.11.28"]
+[Round "5.2"]
+[White "Ivic,Matija"]
+[Black "Djokic,Nen"]
+[Result "1-0"]
+[WhiteElo "2223"]
+[BlackElo "2274"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.a3 Bxc5 7.b4 Be7 8.Nb5 Qc6
+9.Nf3 d6 10.e4 a6 11.Nxd6+ Bxd6 12.e5 Be7 13.exf6 Bxf6 14.Bb2 Nd7 15.Be2 b6
+16.O-O Bb7 17.Rfd1 O-O 18.Rd2 Bxb2 19.Qxb2 Nf6 20.Rad1 Rab8 21.Rd6 Qc7 22.Qd4 Bxf3
+23.Bxf3 e5 24.Qd3 a5 25.b5 Qe7 26.Bc6 h5 27.h3 Rfc8 28.Qe3 Kf8 29.Qc3 Ne8
+30.Rd7 Qe6 31.c5 bxc5 32.Qxc5+ Kg8 33.Qa7 Nf6 34.R7d6 Qb3 35.Qxa5 e4 36.Qa7 h4
+37.a4 e3 38.fxe3 Nh5 39.Be4 Ng3 40.Bf3 Re8 41.R6d3 Qb2 42.Qd4 Ne2+ 43.Bxe2 Qxe2
+44.Qxh4 Rxe3 45.Rxe3 Qxd1+ 46.Re1 Qb3 47.Qd4 g6 48.b6 Kh7 49.a5 Ra8 50.a6 Rxa6
+51.Re8  1-0
+
+[Event "35th Belgrade Trophy"]
+[Site "Belgrade SRB"]
+[Date "2021.11.29"]
+[Round "6.45"]
+[White "Jankovic,Igor"]
+[Black "Savic,Dusan"]
+[Result "1/2-1/2"]
+[WhiteElo "1700"]
+[BlackElo "1302"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.e4 d6 7.Bg5 Nbd7 8.Bd3 h6
+9.Bh4 Ne5 10.f4 Nxd3+ 11.Qxd3 Bxg1 12.Rxg1 Qb6 13.O-O-O O-O 14.g4 e5 15.Bxf6 gxf6
+16.g5 fxg5 17.fxg5 h5 18.Nd5 Qf2 19.Rdf1 Qxh2 20.Rh1 Qg2 21.Rxh5 Bg4 22.Rh4 Be2
+23.Qxe2 Qxe2 24.Rfh1 Qxc4+ 25.Kb1 Qd3+ 26.Ka1 Qxd5 27.exd5 Kg7 28.Kb1 Rh8
+29.Rh6 Rac8 30.Rf1 Rxh6 31.gxh6+ Kg6 32.Rh1 Rh8 33.Rg1+ Kf6 34.Rh1 Kg6 35.Rg1+ Kf6
+36.Rh1 Kg6  1/2-1/2
+
+[Event "Titled Tuesday 30th Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.30"]
+[Round "2"]
+[White "Obolentseva,Alexandra"]
+[Black "Bologan,V"]
+[Result "0-1"]
+[WhiteElo "2305"]
+[BlackElo "2574"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Bg5 Qa5 7.Bxf6 gxf6 8.Rc1 Qxa2
+9.e4 Na6 10.Nf3 Nxc5 11.Nd2 Qa5 12.Be2 Bxc3 13.Qxc3 Qxc3 14.Rxc3 a5 15.O-O b6
+16.f4 Bb7 17.e5 fxe5 18.fxe5 d6 19.exd6 Rad8 20.Rg3+ Kh8 21.Bf3 Rxd6 22.Nb1 Ba6
+23.Na3 Rd2 24.Rf2 Rfd8 25.Rxd2 Rxd2 26.Bh5 f5 27.Bf7 Rd1+ 28.Kf2 Rd8 29.Ke3 Rf8
+30.Bh5 f4+  0-1
+
+[Event "Titled Tuesday 30th Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.30"]
+[Round "7"]
+[White "Adewumi,Tanitoluwa"]
+[Black "Shkapenko,P"]
+[Result "1-0"]
+[WhiteElo "2121"]
+[BlackElo "2424"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Qc7 8.b3 b6
+9.Bb2 Bb7 10.Be2 a6 11.O-O Be7 12.Rfd1 d6 13.Rac1 Nbd7 14.Nd4 O-O 15.f3 Rac8
+16.Bf1 Qb8 17.Qf2 Rfe8 18.Kh1 Rc5 19.Nce2 Rh5 20.Ng3 Rh6 21.e4 Bd8 22.Rc2 Bc7
+23.Bc1 Rg6 24.Bd3 Ne5 25.Be2 Ned7 26.Bd3 Nc5 27.Bf1 d5 28.cxd5 exd5 29.b4 Rxg3
+30.bxc5 Rg6 31.c6 Bxh2 32.cxb7 Bg3 33.Qe2 Qxb7 34.Qxa6 Qb8 35.Nc6 Qc7 36.Nd4 Qe5
+37.Nf5 dxe4 38.Qb5 exf3 39.Qxe5 Bxe5 40.Ne7+ Rxe7 41.Rd8+ Re8 42.Rcc8 h5
+43.Rxe8+ Nxe8 44.Rxe8+ Kh7 45.Bd3 fxg2+ 46.Kg1 Bd4+ 47.Be3 Bxe3+ 48.Rxe3 Kh6
+49.Bxg6 fxg6 50.Kxg2 g5 51.Rb3 g4 52.Rxb6+ Kg5 53.a4 Kf4 54.a5 h4 55.a6 h3+
+56.Kg1 g3 57.a7 g2 58.a8=Q Kg3 59.Rb3+  1-0
+
+[Event "Titled Tuesday 30th Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.30"]
+[Round "8"]
+[White "Papasimakopoulos,Alexandros"]
+[Black "Azarov,S"]
+[Result "1-0"]
+[WhiteElo "2274"]
+[BlackElo "2596"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc5 7.Nf3 O-O 8.b4 Be7
+9.e3 d5 10.Bb2 Bd7 11.cxd5 exd5 12.Be2 Rc8 13.Qb3 Qb6 14.O-O Nc5 15.Qa2 Nce4
+16.Nxd5 Nxd5 17.Qxd5 Bc6 18.Qd4 Bf6 19.Qxb6 axb6 20.Bxf6 Nxf6 21.Rac1 Ra8
+22.Nd4 Bd5 23.Nb5 Bc6 24.Ra1 Bxb5 25.Bxb5 Rfd8 26.Be2 Ne4 27.Rfd1 Rxd1+ 28.Bxd1 f5
+29.f3 Nc3 30.Bc2 g6 31.Kf2 Kg7 32.Ke1 Rd8 33.a4 Kf6 34.Ra3 Nd5 35.Rd3 Ke7
+36.b5 Rc8 37.Rxd5 Rxc2 38.Rd2 Rc4 39.Rd4 Rc2 40.Kf1 Ra2 41.h4  1-0
+
+[Event "Titled Tuesday 30th Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.30"]
+[Round "8"]
+[White "Quirke,J"]
+[Black "Jaskolka,T"]
+[Result "0-1"]
+[WhiteElo "2118"]
+[BlackElo "2193"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 O-O 7.Bf4 b6 8.Rd1 Bb7
+9.e3 Nc6 10.Be2 d5 11.O-O Qe7 12.cxd5 Nb4 13.Qb3 Nbxd5 14.Nxd5 Nxd5 15.Bg5 Qc7
+16.Rc1 Rac8 17.Bh4 a5 18.Bg3 Qe7 19.Bb5 Qf6 20.Ne5 Qh6 21.Rce1 Rfd8 22.Kh1 Nf6
+23.Bf4 Qh5 24.Be2 Qf5 25.Bf3 Ne4 26.Rd1 g5 27.Bg3 Bd5 28.Bxe4 Qxe4 29.f3 Qxe3
+30.Qxe3 Bxe3 31.Ng4 Bf4 32.Nf6+ Kf8 33.Nxd5 Rxd5 34.Rxd5 exd5 35.Bxf4 gxf4
+36.Rd1 Rc5 37.Kg1 Ke7 38.Kf1 Ke6 39.Rd4 Ke5 40.Rd3 Rc1+ 41.Ke2 Rc2+ 42.Rd2 Rxd2+
+43.Kxd2 Kd4 44.b3 b5 45.a3 a4 46.bxa4 bxa4  0-1
+
+[Event "Titled Tuesday 30th Nov"]
+[Site "chess.com INT"]
+[Date "2021.11.30"]
+[Round "10"]
+[White "Sarkar,J"]
+[Black "Shapiro,Dan"]
+[Result "1-0"]
+[WhiteElo "2321"]
+[BlackElo "2284"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.Nf3 cxd4 6.Nxd4 a6 7.a3 Be7 8.e4 d6
+9.Be2 Qc7 10.Be3 b6 11.f3 Bb7 12.b4 Nbd7 13.Rc1 Rc8 14.g4 h6 15.h4 Ne5 16.Nd1 Qb8
+17.Qa4+ Kf8 18.Nf2 d5 19.cxd5 Rxc1+ 20.Bxc1 exd5 21.f4 Nc4 22.e5 b5 23.Qc2 Ne4
+24.Nxe4 dxe4 25.Bxc4 e3 26.Rh2 bxc4 27.Qxc4 Qd8 28.Nf5 Qb6 29.Bxe3 Qc6 30.Qxc6 Bxc6
+31.Rc2 Bd7 32.Nxe7 Kxe7 33.f5 Rc8 34.Bc5+ Ke8 35.h5 Bb5 36.Kf2 Bd3 37.Rd2 Be4
+38.Ke3 Bc6 39.Kf4 Rd8 40.Rxd8+ Kxd8 41.Bf8 g6 42.fxg6 fxg6 43.Bxh6 Bd5 44.hxg6 Ke7
+45.Bg5+ Kf8 46.Bf6 Be6 47.g7+ Kf7 48.g5 Bd5 49.Ke3 Kg6 50.Kd4 Bf7 51.a4 Kf5
+52.b5 axb5 53.axb5 Ke6 54.b6 Kd7 55.b7 Kc7 56.Kc5 Kxb7 57.g6 Bg8 58.Kd6 Kc8
+59.e6 Kb7 60.e7  1-0
+
+[Event "Titled Tuesday 7th Dec"]
+[Site "chess.com INT"]
+[Date "2021.12.07"]
+[Round "2"]
+[White "Quirke,J"]
+[Black "Yi,Richard"]
+[Result "1-0"]
+[WhiteElo "2086"]
+[BlackElo "2130"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.Nf3 a6 7.e3 Bxc5 8.Be2 b6
+9.b3 Bb7 10.Bb2 O-O 11.O-O Be7 12.Rad1 d6 13.Nd4 Nbd7 14.f4 d5 15.g4 Nc5
+16.g5 Nfe4 17.cxd5 exd5 18.Nxe4 dxe4 19.b4 Ne6 20.Qxc7 Nxc7 21.Nf5 Bxb4 22.Nxg7 Nd5
+23.Nf5 Rfd8 24.Bc4 Kf8 25.Kf2 Rac8 26.Bb3 Bc5 27.Bg7+ Ke8 28.Be5 Nb4 29.h4 Rxd1
+30.Rxd1 Nd3+ 31.Kg3 Rc7 32.Bxc7  1-0
+
+[Event "Titled Tuesday 7th Dec"]
+[Site "chess.com INT"]
+[Date "2021.12.07"]
+[Round "7"]
+[White "Papasimakopoulos,Alexandros"]
+[Black "Devaev,A"]
+[Result "1-0"]
+[WhiteElo "2259"]
+[BlackElo "2325"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.f3 d6
+9.e4 b6 10.Be3 Bb7 11.b4 Ncd7 12.Bd3 Rc8 13.Qb2 Qe7 14.Bd4 O-O 15.Ne2 Rc7
+16.O-O Rfc8 17.Rac1 Ba6 18.b5 Bb7 19.a4 Nc5 20.Bc2 e5 21.Be3 Ne6 22.Bd3 Nc5
+23.Bc2 Ne6 24.Bb3 Nd7 25.a5 Ndc5 26.a6 Ba8 27.Ba2 Nd3 28.Qd2 Nxc1 29.Rxc1 h6
+30.Ng3 Nd4 31.Bxd4 exd4 32.Qxd4 Qe5 33.Rd1 g6 34.Qxd6 Qxd6 35.Rxd6 Kf8 36.Kf2 Ke7
+37.Rd4 Rd8 38.Rxd8 Kxd8 39.Ke2 Ke7 40.Kd3 Kd6 41.Ne2 Kc5 42.Kc3 Rd7 43.Nc1 Rd1
+44.Nd3+ Kd6 45.g3 Ra1 46.Bb3 Rh1 47.Kd4 f6 48.f4 Rxh2 49.e5+ fxe5+ 50.fxe5+ Ke7
+51.c5 bxc5+ 52.Nxc5 g5 53.Ne6 Rb2 54.Bc4 Rc2 55.Nc7 Bh1 56.b6 axb6 57.Nd5+ Kd8
+58.a7 Bxd5 59.Kxd5  1-0
+
+[Event "TCh-SUI 2021"]
+[Site "Switzerland SUI"]
+[Date "2021.12.11"]
+[Round "8.5"]
+[White "Hasenohr,B"]
+[Black "Milosevic,Go"]
+[Result "1-0"]
+[WhiteElo "2256"]
+[BlackElo "2291"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 O-O 7.Bg5 Qb6 8.e3 Qa5
+9.Rc1 Bb4 10.Bd3 Bxc3+ 11.Qxc3 Qxc3+ 12.Rxc3 d6 13.Ke2 Nc6 14.Rd1 d5 15.Bxf6 dxc4
+16.Rxc4 gxf6 17.Be4 Rb8 18.b3 Ne7 19.Rc7 Re8 20.Nd2 f5 21.Bf3 b5 22.Rxa7 e5
+23.Rc1 e4 24.Bh5 Be6 25.Rcc7 Kf8 26.Ke1 Nd5 27.Rxf7+ Bxf7 28.Rxf7+ Kg8 29.Rxf5 Ne7
+30.Rxb5 Rxb5 31.Bxe8 Re5 32.a4 Kg7 33.Nc4 Rd5 34.a5 Rd3 35.Ba4 Nd5 36.Nb2 Rc3
+37.Kd2 Rc7 38.Nc4 Rf7 39.Bc6 Nb4 40.Bxe4 Rxf2+ 41.Kc3 Na2+ 42.Kd4 Nc1 43.b4 Nb3+
+44.Kc3 Nc1 45.b5  1-0
+
+[Event "World Chess Woman Summit"]
+[Site "Xi'an CHN"]
+[Date "2021.12.11"]
+[Round "7.1"]
+[White "Tan Zhongyi"]
+[Black "Kosteniuk,A"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2516"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 Nce4
+9.Bd2 Nxd2 10.Nxd2 d5 11.O-O d4 12.Nce4 Nxe4 13.Bxe4 f5 14.Bg2 Qc7 15.Nb3 Bc5
+16.Qd2 e5 17.e3 Be6 18.exd4 exd4 19.Nxd4 Bxd4 20.Qxd4 Qxc4 21.Qe5 Rae8 22.Rfc1 Qb4
+23.Rc7 Bf7 24.Qc3 Qxc3 25.bxc3 Rc8 26.Rxb7 Rxc3 27.Rxa7 Rfc8 28.Bb7 Rc1+
+29.Rxc1 Rxc1+ 30.Kg2 g5 31.a4 Bc4 32.h3 Bf1+ 33.Kh2 Rc2 34.a5 Bd3 35.Kg2 Be4+
+36.Bxe4 fxe4 37.Kf1 Ra2 38.a6 h5 39.Ra8+ Kg7 40.a7 g4 41.hxg4 hxg4 42.Ke1 Kh7
+43.Kd1 Kg7 44.Kc1 Kh7 45.Kb1 Ra6 46.Kc2 Kg7 47.Kc3 Ra4 48.Kb3 Ra1 49.Kc4 Kh7
+50.Kd5 Ra4 51.Ke5 Kg7 52.Kf5 Kh7 53.Kxg4 e3+ 54.f4 e2 55.Re8  1-0
+
+[Event "Titled Tuesday 14th Dec"]
+[Site "chess.com INT"]
+[Date "2021.12.14"]
+[Round "1"]
+[White "Yi,Richard"]
+[Black "Muradov,Soltan"]
+[Result "1-0"]
+[WhiteElo "2130"]
+[BlackElo "2233"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.Nf3 O-O 7.Bg5 Bxc3+ 8.Qxc3 Ne4
+9.Qd3 Nxc5 10.Qd4 f6 11.Be3 b6 12.g3 Nc6 13.Qd2 Bb7 14.Bg2 Ne5 15.b3 Ne4
+16.Qb2 Ng5 17.Bxg5 Nxf3+ 18.exf3 fxg5 19.O-O Bxf3 20.Qd2 Bxg2 21.Kxg2 h6
+22.Rad1 Rad8 23.Qd3 d5 24.Qg6 Qc6 25.cxd5 Rxd5 26.Kg1 Rf6 27.Qe4 Qd7 28.Rc1 Rd2
+29.a4 Rf8 30.Rc3 Kh8 31.Re3 e5 32.Qxe5 Qc6 33.Rc3 Qd7 34.Rc7  1-0
+
+[Event "Titled Tuesday 14th Dec"]
+[Site "chess.com INT"]
+[Date "2021.12.14"]
+[Round "3"]
+[White "Bach,Ngoc Thuy Duong"]
+[Black "Makhmudov,Shukhrat"]
+[Result "1-0"]
+[WhiteElo "2198"]
+[BlackElo "2115"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Nc6 6.Nf3 Bxc5 7.Bg5 Nd4 8.Nxd4 Bxd4
+9.e3 Bxc3+ 10.Qxc3 Ne4 11.Bxd8 Nxc3 12.Bc7 Ne4 13.f3 Nf6 14.Bd6 b6 15.Be2 Bb7
+16.O-O Ng8 17.e4 Ne7 18.Rfd1 Rc8 19.Rac1 Bc6 20.b4 f6 21.b5 Bb7 22.a4 Ng8
+23.c5 Nh6 24.cxb6 axb6 25.Rc7 Ba8 26.Rxc8+  1-0
+
+[Event "Titled Tuesday 14th Dec"]
+[Site "chess.com INT"]
+[Date "2021.12.14"]
+[Round "10"]
+[White "Thomas,Anysia"]
+[Black "Devaev,A"]
+[Result "0-1"]
+[WhiteElo "2146"]
+[BlackElo "2325"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 cxd4 6.exd4 d5 7.Be3 Nc6 8.Nf3 O-O
+9.Be2 dxc4 10.Bxc4 b6 11.O-O Bb7 12.Rad1 Rc8 13.Qe2 Bxc3 14.bxc3 Na5 15.Bd3 Rxc3
+16.Ne5 Qa8 17.Ng4 Nd5 18.Bd2 Qc8 19.Bxc3 Nxc3 20.Qe3 Nxd1 21.Rxd1 Nc4 22.Qg5 f5
+23.Qh5 Nb2 24.Ne5 Nxd1 25.Qg5 Qd8 26.Qg3 Qxd4 27.h4 Qxf2+  0-1
+
+[Event "Titled Tuesday 14th Dec"]
+[Site "chess.com INT"]
+[Date "2021.12.14"]
+[Round "10"]
+[White "Ezat,M"]
+[Black "Buchenau,F"]
+[Result "0-1"]
+[WhiteElo "2418"]
+[BlackElo "2265"]
+[ECO "E39"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bg5 h6
+9.h4 Bb7 10.O-O-O Be7 11.e3 Na6 12.Kb1 Nc5 13.Bxf6 Bxf6 14.Nd4 Rc8 15.Ka1 Bxh4
+16.Be2 Bf6 17.Bf3 Bxf3 18.gxf3 a6 19.Rdg1 Qe7 20.Rxh6 g6 21.Rh3 b5 22.Rgh1 bxc4
+23.Nd5 exd5 24.Nf5 Qe5 25.Nh6+ Kg7 26.Ng4 Qe6 27.Rh7+ Kg8 28.Kb1 Rb8 29.Nxf6+ Qxf6
+30.Rh8+ Qxh8 31.Rxh8+ Kxh8 32.Qc3+ Kg8 33.Qd4 Na4 34.b4 cxb3 35.Qxa4 Rfc8
+36.Qf4 b2 37.e4 Rc1+ 38.Qxc1 bxc1=Q+ 39.Kxc1 Rb3  0-1
+
+[Event "95th ch-ARG 2021"]
+[Site "Villa Martelli ARG"]
+[Date "2021.12.14"]
+[Round "9.4"]
+[White "Tristan,L"]
+[Black "Valerga,D"]
+[Result "1-0"]
+[WhiteElo "2543"]
+[BlackElo "2443"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.e4 Nc6
+9.b4 Nd4 10.Qd2 Nxf3+ 11.gxf3 Be7 12.Rg1 Ne8 13.Bb2 f6 14.O-O-O Kh8 15.Kb1 a5
+16.b5 a4 17.Bd3 Qc7 18.f4 Bb7 19.e5 f5 20.Bc2 Bf3 21.Qxd7 Bxd1 22.Rxd1 Qxd7
+23.Rxd7 Bh4 24.Rd2 Nc7 25.Nxa4 Rab8 26.Rd7 Nxb5 27.cxb5 Bxf2 28.Bd4 Bxd4
+29.Rxd4 g5 30.Bb3 Rfd8 31.Rxd8+ Rxd8 32.Nxb6 gxf4 33.Nc4 f3 34.Nd6 f2 35.Bc4 Ra8
+36.Kb2 Kg7 37.b6 Ra4 38.Bf1  1-0
+
+[Event "ch-TUR 2021"]
+[Site "Kemer TUR"]
+[Date "2021.12.15"]
+[Round "6.4"]
+[White "Koksal,E"]
+[Black "Bicer,Atakan Mert"]
+[Result "0-1"]
+[WhiteElo "2353"]
+[BlackElo "2350"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Bxc5 7.Bf4 Nc6 8.e3 d5
+9.Be2 Qe7 10.O-O h6 11.cxd5 Nxd5 12.Nxd5 exd5 13.a3 Bb6 14.Rfd1 Rd8 15.Rac1 Be6
+16.Bb5 Rac8 17.Qa4 Qf6 18.Bxc6 bxc6 19.Be5 Qe7 20.Qf4 a5 21.b4 axb4 22.axb4 f6
+23.Bd4 Bc7 24.Bc5 Qf7 25.Qh4 Re8 26.b5 cxb5 27.Qb4 Qd7 28.Nd4 Bg4 29.f3 Bh5
+30.Qxb5 Qf7 31.Nf5 Qg6 32.Nd4 Qg5 33.f4 Qg6 34.Re1 Qe4 35.Qd7 Ba5 36.Rf1 Rc7
+37.Qd6 Qxe3+ 38.Kh1 Rec8 39.Nc6 Qd2 40.Ne7+ Rxe7 41.Qxe7 Re8 42.Qd7 Qd3 43.Rfd1 Qg6
+44.Qxd5+ Kh7 45.Rg1 Bg4 46.Ba7 Bb4 47.Rc7 Bf5 48.h3 Be4 49.Qb3 Bd6 50.Rd7 Bxf4
+51.Qa3 Rc8 52.Re7 Rc2 53.Rxe4 Qxe4 54.Qb3 Rd2 55.Qc3 Rd3 56.Qc8 f5 57.Rf1 Rg3
+58.Rf2 Rxh3+ 59.Kg1 Qe1+ 60.Rf1 Bh2+  0-1
+
+[Event "Motiva Online Women Blitz"]
+[Site "chess.com INT"]
+[Date "2021.12.18"]
+[Round "2"]
+[White "Peycheva,Gergana"]
+[Black "Zikunova,V"]
+[Result "0-1"]
+[WhiteElo "2342"]
+[BlackElo "1825"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.e3 Nc6 7.a3 a5 8.Nf3 O-O
+9.Bd3 d5 10.cxd5 exd5 11.O-O Bd6 12.Nb5 Bb8 13.h3 Re8 14.b3 Bd7 15.Bb2 Ne5
+16.Nxe5 Bxe5 17.Bxe5 Rxe5 18.Nd4 Rc8 19.Qe2 Rg5 20.Qf3 Ne4 21.Bxe4 dxe4 22.Qxe4 Bxh3
+23.g3 Bxf1 24.Rxf1 Qd5 25.Qf4 Rh5 26.f3 h6 27.Qg4 Rc3 28.Qf4 Re5 29.Re1 b6
+30.Kg2 Rd3 31.Ne2 Rdxe3 32.Nc3 Qd2+ 33.Kh3 Qxe1 34.Ne4 Qh1+ 35.Kg4 Qh5+  0-1
+
+[Event "European Rapid 2021"]
+[Site "Katowice POL"]
+[Date "2021.12.19"]
+[Round "11.46"]
+[White "Bogdanov,Ignat"]
+[Black "Rudzinska,Michalina"]
+[Result "1-0"]
+[WhiteElo "2058"]
+[BlackElo "2215"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.e3 O-O 6.Nf3 cxd4 7.exd4 d5 8.Bg5 Nbd7
+9.Bd3 h6 10.Bh4 dxc4 11.Bxc4 Bxc3+ 12.bxc3 b6 13.O-O Bb7 14.Ne5 Qc7 15.Nxd7 Nxd7
+16.Bd3 Rac8 17.Rac1 e5 18.Bg3 Qc6 19.f3 b5 20.Be4 Qb6 21.Bxb7 Qxb7 22.dxe5 Nb6
+23.Qf2 Na4 24.Qe3 Qd5 25.f4 Qc5 26.Rf3 b4 27.Be1 Rfd8 28.Qxc5 Rxc5 29.c4 Rdc8
+30.Bxb4 Rxc4 31.Rxc4 Rxc4 32.a3 Nb6 33.g3 Nd5 34.Bd6 a5 35.Rd3 Nc3 36.Kg2 Nb5
+37.Rd5 Rc2+ 38.Kh3 Nc3 39.Rc5 Rc1 40.Kg4 a4 41.Kf5 g6+ 42.Kg4 h5+ 43.Kf3 Rf1+
+44.Kg2 Rc1 45.Rc8+ Kh7 46.Be7 Ne2 47.Rxc1 Nxc1 48.Kf3 Nb3 49.Ke3 Kg7 50.Kd3 Nc1+
+51.Kc4 Nb3 52.Kb4 Nd2 53.Kxa4 Nf1 54.Kb5 Nxh2 55.a4 Nf1 56.Bh4 g5 57.fxg5 Ne3
+58.a5 Nd5 59.a6 Nc7+ 60.Kb6 Nxa6 61.Kxa6 Kg6 62.Kb6 Kf5 63.Kc6 Kxe5 64.Kd7  1-0
+
+[Event "World Rapid Women 2021"]
+[Site "Warsaw POL"]
+[Date "2021.12.26"]
+[Round "3.2"]
+[White "Zatonskih,A"]
+[Black "Kosteniuk,A"]
+[Result "0-1"]
+[WhiteElo "2403"]
+[BlackElo "2516"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 Nce4
+9.O-O Bxc3 10.bxc3 Qc7 11.Nd4 d5 12.cxd5 exd5 13.Ba3 Re8 14.Rac1 Qc4 15.Rfd1 Ng4
+16.Qb3 Ngxf2 17.Qxc4 dxc4 18.Rf1 Nh3+ 19.Bxh3 Bxh3 20.Rfd1 a6 21.Nf3 f6 22.Nd2 b5
+23.Nxe4 Rxe4 24.Rd2 Rae8 25.Kf2 Bg4 26.Rcc2 g5 27.Bc5 Kf7 28.e3 R4e5 29.Bb6 Bf5
+30.Rb2 Bd3 31.Kg1 f5 32.Bd4 Rd5 33.h4 gxh4 34.Rh2 Rxd4 35.exd4 hxg3 36.Rxh7+ Kg6
+37.Ra7 f4 38.Kg2 Be4+ 39.Kh3 Rh8+ 40.Kg4 g2 41.Rxa6+ Kf7 42.Rxg2 Bxg2 43.Kxf4 Rh3
+44.Rb6 Rxc3 45.Rxb5 Ra3 46.Rc5 Bf1 47.Ke5 Ke7 48.Rc7+ Kd8 49.Rf7 Bg2 50.Rf8+ Kc7
+51.Rf7+ Kc6 52.Rf6+ Kb5 53.Rf2 Re3+ 54.Kd6 Bf3 55.Rb2+ Ka4 56.Kc5 c3 57.Rb6 Ka3  0-1
+
+[Event "Vezerkepzo IM Christmas"]
+[Site "Budapest HUN"]
+[Date "2021.12.28"]
+[Round "3.3"]
+[White "Chen,Jonathan"]
+[Black "Szalay-Ocsak,Bank"]
+[Result "1/2-1/2"]
+[WhiteElo "2263"]
+[BlackElo "2055"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qa5 6.Bd2 Qxc5 7.e3 d5 8.a3 Bxc3
+9.Bxc3 dxc4 10.Bb4 Qc6 11.Qxc4 Qxc4 12.Bxc4 Nc6 13.Bc3 Ne4 14.Ne2 Nxc3 15.Nxc3 Bd7
+16.O-O-O Ke7 17.Be2 Rhd8 18.Kb1  1/2-1/2
+
+[Event "Titled Tuesday 28th Dec"]
+[Site "chess.com INT"]
+[Date "2021.12.28"]
+[Round "4"]
+[White "Cramling Bellon,Anna"]
+[Black "Rodchenkov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2057"]
+[BlackElo "2346"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.d5 b5 6.a3 Bxc3+ 7.Qxc3 bxc4 8.Qxc4 O-O
+9.dxe6 dxe6 10.Qxc5 Nbd7 11.Qc2 Ba6 12.Bd2 Rc8 13.Bc3 Nd5 14.Nf3 Nxc3 15.bxc3 Qa5
+16.Rc1 Nb6 17.e4 Bxf1 18.Kxf1 Qxa3 19.g3 Qc5 20.Kg2 Rc7 21.Rhd1 Rfc8 22.Qd2 h6
+23.Qd4 Nc4 24.Ra1 a5 25.Ra4 Qe7 26.Rda1 e5 27.Qd5 Rc5 28.Qd3 Nb2 29.Qa6 Nxa4
+30.Rxa4 Qe6 31.Rxa5 Qxa6 32.Rxa6 f6 33.Nh4 R8c7 34.Nf5 Kh7 35.Nd6 Rxc3 36.Nb5 R3c6
+37.Nxc7 Rxc7 38.h4 h5 39.Kf3 Kg6 40.Ra3 Rc2 41.Rd3 Rb2 42.Re3 Kf7 43.Rc3 Ke6
+44.Rc7 g5 45.hxg5 fxg5 46.Rh7 g4+ 47.Kg2 Re2 48.Rxh5 Rxe4 49.Rh4 Kf5 50.Rh5+ Kg6
+51.Rh8 Rd4 52.Re8 Kf5 53.Rf8+ Ke4 54.Re8 Ra4 55.Kf1 Ra2 56.Re7 Ra1+ 57.Ke2 Ra2+
+58.Ke1 Ra5 59.Ke2 Rb5 60.Ke1 Kf3 61.Rf7+ Kg2 62.Rf5 Rb1+ 63.Ke2 e4 64.Ke3 Re1+
+65.Kd2 Rf1 66.Ke3 Re1+ 67.Kd2 Rb1 68.Ke3 Rf1 69.Rf4 Re1+ 70.Kd2 Rf1 71.Ke3 Re1+
+72.Kd2 Rf1 73.Ke3  1/2-1/2
+
+[Event "Titled Tuesday 28th Dec"]
+[Site "chess.com INT"]
+[Date "2021.12.28"]
+[Round "6"]
+[White "Nesterov,Arseniy"]
+[Black "Gazis,Ef"]
+[Result "1-0"]
+[WhiteElo "2523"]
+[BlackElo "2141"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Be7 7.e4 d6 8.Be2 Nbd7
+9.O-O b6 10.Rd1 a6 11.Bf4 Qc7 12.Rd2 O-O 13.Rad1 Ne8 14.h3 Bb7 15.b3 Rc8
+16.a4 h6 17.Bg3 Ndf6 18.e5 dxe5 19.Bxe5 Qc6 20.Bf1 Ba8 21.Bh2 Qb7 22.Ne5 Nd6
+23.Rxd6 Bxd6 24.Rxd6 Rfd8 25.Qd2 Qc7 26.Rxd8+ Rxd8 27.Qe3 Qb7 28.Bg3 Ne4
+29.Nxe4 Qxe4 30.Qxb6 f6 31.Qxd8+  1-0
+
+[Event "World Rapid 2021"]
+[Site "Warsaw POL"]
+[Date "2021.12.28"]
+[Round "10.70"]
+[White "Gagunashvili,M"]
+[Black "Bellahcene,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2573"]
+[BlackElo "2512"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 b6 7.Bf4 Bb7 8.Rd1 Nc6
+9.e3 h6 10.Be2 Nh5 11.Bd6 Bxd6 12.Rxd6 Qe7 13.Rd2 O-O 14.O-O Nf6 15.Rfd1 Rfd8
+16.h3 d6 17.a3 Rac8 18.b4 Ne5 19.Nxe5 dxe5 20.Nb5 Rxd2 21.Qxd2 Bc6 22.Nc3 Kf8
+23.Qb2 Rd8 24.Rxd8+ Qxd8 25.Qc2 Qd6 26.Qd3 Ke7 27.Kf1 a5 28.Qxd6+ Kxd6 29.h4 axb4
+30.axb4 g5 31.hxg5 hxg5 32.g3 Ne4 33.Nxe4+ Bxe4 34.Ke1 Bc6 35.Kd2 f6 36.Kc3 Bd7
+37.Bf3 Be8 38.Be2 Bd7 39.Bf1 Bc6 40.b5 Bf3 41.Kb4 f5 42.Bd3 Bb7 43.c5+ bxc5+
+44.Ka5 Bd5 45.b6 c4 46.Bc2 Bb7 47.Kb5 c3 48.Bb3 f4 49.Kb4 fxe3 50.fxe3 Kc6
+51.Kxc3 Kxb6  1/2-1/2
+
+[Event "World Rapid 2021"]
+[Site "Warsaw POL"]
+[Date "2021.12.28"]
+[Round "12.59"]
+[White "Gagunashvili,M"]
+[Black "Faizrakhmanov,Ramil"]
+[Result "1-0"]
+[WhiteElo "2573"]
+[BlackElo "2480"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.a3 Bxc5 7.Nf3 a6 8.Bg5 Be7
+9.e4 d6 10.Be2 Nbd7 11.O-O b6 12.Nd4 Bb7 13.Kh1 O-O 14.Rad1 Rfe8 15.f3 Rac8
+16.a4 h6 17.Bh4 Ne5 18.b3 Ng6 19.Bf2 Nf4 20.Qd2 Nxe2 21.Ndxe2 Red8 22.Qe3 Nd7
+23.Bg3 Nc5 24.Rb1 Bc6 25.Rfd1 Qb7 26.Nd4 Be8 27.Qe2 Bf6 28.Qe3 Qe7 29.Nde2 Be5
+30.Rd2 Qf6 31.f4 Bxc3 32.Nxc3 Bc6 33.Rxd6 Rxd6 34.e5 Rd3 35.Qxd3 Nxd3 36.exf6 gxf6
+37.Rd1 Nc5 38.Bf2 Nxb3 39.Bxb6 f5 40.a5 Kf8 41.Na2 Ke8 42.Rd3 Ba4 43.c5 Rc6
+44.Nb4 Rc8 45.c6 Nxa5 46.Bxa5 Bxc6 47.Nxc6 Rxc6 48.g3 f6 49.Rd8+ Kf7 50.Rd7+ Kg6
+51.Bc7 Rc2 52.Bd8 e5 53.Rd6 Kh5 54.h3 exf4 55.gxf4 Rf2 56.Bxf6 Rxf4 57.Bg7 Ra4
+58.Rxh6+ Kg5 59.Rd6 Kh4 60.Rd3 Ra2 61.Rf3 a5 62.Bf6+ Kh5 63.Rxf5+ Kg6 64.Rf3 a4
+65.Bd4 a3 66.Rf2  1-0
+
+[Event "World Blitz 2021"]
+[Site "Warsaw POL"]
+[Date "2021.12.29"]
+[Round "2.18"]
+[White "Gareev,T"]
+[Black "Adly,A"]
+[Result "1-0"]
+[WhiteElo "2573"]
+[BlackElo "2596"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3 Nxc5 8.b4 Nce4
+9.Qd4 d5 10.c5 b6 11.cxb6 axb6 12.Bb2 O-O 13.f3 Nd6 14.e3 e5 15.Qxe5 Re8
+16.Qg5 d4 17.Bxd4 Nf5 18.Bxf6 Qd6 19.Rd1 Qe6 20.Bd3 Qxe3+ 21.Ne2 Rxa3 22.Bb5 Rf8
+23.Qxe3 Nxe3 24.Bb2 Rb3 25.Rd2 Rxb4 26.Nd4 Bb7 27.Kf2 Nd5 28.Bc6 Bxc6 29.Nxc6 Rb3
+30.Nd4 Rb4 31.Ba3  1-0
+
+[Event "Bremen Silvester Open"]
+[Site "Bremen GER"]
+[Date "2021.12.30"]
+[Round "7.13"]
+[White "De Boer,Bas"]
+[Black "Heinrich,John"]
+[Result "1-0"]
+[WhiteElo "2148"]
+[BlackElo "2022"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bg2 Nce4
+9.O-O Nxc3 10.bxc3 Be7 11.e4 d6 12.e5 dxe5 13.Nxe5 Qc7 14.Qe2 Bd6 15.Re1 Nd7
+16.Bf4 Rb8 17.Rab1 Nxe5 18.Bxe5 b6 19.Bxd6 Qxd6 20.Red1 Qc7 21.Qd3 Ba6 22.Qd7 Rbc8
+23.c5 Qxc5 24.Qxa7 Bc4 25.a4 Rb8 26.Rd7 Qe5 27.Rd4 Rfc8 28.Bb7 Rc5 29.Qxb6 g6
+30.Rd8+ Rxd8 31.Qxd8+ Kg7 32.Qd4 Kf6 33.Rb4 Ba2 34.Qxe5+ Kxe5 35.Rb5 Rxb5
+36.axb5 Kd6 37.Bg2 Kc5 38.Bf1 e5 39.f3 f5 40.c4 Bb1 41.Kf2 g5 42.f4 gxf4
+43.gxf4 e4 44.Ke3 Bc2 45.Bh3 Bd3 46.Bxf5 Bxc4 47.Bxh7 Bxb5 48.Bg6 Kd6 49.h4 Ke7
+50.Kxe4 Kf6 51.h5 Bd7 52.Kf3 Kg7 53.Kg3 Kh6 54.Kh4 Be6 55.Be4 Bf7 56.Bf3 Be6
+57.Bg4 Bf7 58.f5 Bd5 59.f6 Bf7 60.Bh3 Bxh5 61.Bf5 Bg6 62.Kg4 Bh5+ 63.Kf4 Bf7
+64.Be4 Bh5 65.Ke5 Kg5 66.Ke6 Be8 67.Ke7 Bh5 68.Bh7 Be8 69.Bg8 Bg6 70.Bf7 Be4
+71.Be8 Bd5 72.Bd7 Kg6 73.Be6  1-0
+
+[Event "1st BICA Pawn Open 2021"]
+[Site "Sousse TUN"]
+[Date "2021.12.30"]
+[Round "9.21"]
+[White "El Kamel,A"]
+[Black "Bouchamla,Alaa"]
+[Result "1-0"]
+[WhiteElo "2163"]
+[BlackElo "1861"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.a3 Bxc3+ 6.bxc3 Nc6 7.Nf3 h6 8.e4 d6
+9.Bd3 e5 10.d5 Na5 11.O-O b6 12.Rb1 O-O 13.h3 Ba6 14.Qe2 Nh7 15.g3 Ng5 16.Bxg5 hxg5
+17.h4 gxh4 18.Nxh4 Bc8 19.Qh5 Qf6 20.Kg2 Qh6 21.Qf3 g5 22.Nf5 Bxf5 23.Qxf5 Kg7
+24.Rh1 Qg6 25.Qg4 Rh8 26.f3 Rad8 27.Kf2 Rh6 28.Rxh6 Qxh6 29.Rg1 Kf8 30.Kg2 Ke7
+31.Rh1 Qg6 32.Rh5 Rg8 33.Kf2 Nb7 34.Bf1 f6 35.Qe6+ Kd8 36.Bh3 Kc7 37.Qd7+ Kb8
+38.Rh7  1-0
+
+[Event "World Blitz 2021"]
+[Site "Warsaw POL"]
+[Date "2021.12.30"]
+[Round "15.19"]
+[White "Tang,Andrew"]
+[Black "Faizrakhmanov,Ramil"]
+[Result "1-0"]
+[WhiteElo "2519"]
+[BlackElo "2480"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.Nf3 a6 7.g3 Bxc5 8.Bg2 O-O
+9.O-O Be7 10.b3 b6 11.e4 d6 12.Bf4 Bb7 13.e5 dxe5 14.Bxe5 Qc8 15.Ng5 Nbd7
+16.Bxf6 Nxf6 17.Nge4 b5 18.Rac1 bxc4 19.bxc4 Ra7 20.Nxf6+ Bxf6 21.Ne4 Be7
+22.c5 Bd5 23.Nd6 Bxd6 24.Bxd5 Bf4 25.gxf4 exd5 26.Qd3 Rd8 27.Rfe1 Rc7 28.Qd4 Qg4+
+29.Kf1 h6 30.Re3 Rc6 31.Rg3  1-0

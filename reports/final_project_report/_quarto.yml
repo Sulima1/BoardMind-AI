@@ -1,0 +1,35 @@
+project:
+  type: book
+
+book:
+  title: "Machine Learning Model for Real-life Predictions"
+  author: "Student Name"
+  date: "2/18/2023"
+  chapters:
+    - abstract.qmd
+    - index.qmd
+    - intro.qmd
+    - eda.qmd
+    - methodology.qmd
+    - results.qmd
+    - conclusion.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  # html:
+  #   theme: cosmo
+  pdf:
+    documentclass: scrreport
+    lof: true
+    lot: true
+    geometry:
+      - top=30mm
+      - left=20mm
+      - heightrounded
+    fontfamily: libertinus
+    colorlinks: true
+    format: PrettyPDF-pdf
+  # epub:
+  #   cover-image: cover.png

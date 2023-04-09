@@ -1,0 +1,32 @@
+# Methodology
+
+## Introduction to Python for Machine Learning
+
+## Platform and Machine Configurations Used
+Such Google Colab, Kaggle, Syzygy, or your own machine then the machine configuration.
+
+## Data Split
+
+Data splitting is the process of dividing the data into training, validation, and test sets. This step can help you evaluate the performance of the model on new data.
+
+## Model Planning
+
+The next step is to select the appropriate machine learning or deep learning models ( 2 - 3 ) that can be used to solve the problem. This involves evaluating different models and selecting the one that is best suited for the problem.
+
+## Model Training: 
+
+This involves using the training data to adjust the model parameters to improve its accuracy.
+
+## Model Evaluation
+
+Once the model is trained, the next step is to evaluate its performance on a validation dataset. 
+
+## Model Optimization
+
+Based on the results of the model evaluation, the next step is to optimize the model to improve its performance. This involves making changes to the model's architecture, tuning the hyperparameters, and retraining the model.
+
+## Final Model Building
+
+Once the model is optimized, the final step is to fit the model and report final test error for each model
+
+Present the information with support Screen Shots/ Figures (Each Figure must be numbered and Description of Figure must be provided)
